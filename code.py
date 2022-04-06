@@ -1,9 +1,6 @@
-from bs4 import BeautifulSoup
-import requests
 import regex as re
 import pandas as pd
 import numpy as np
-from termcolor import colored
 from urllib.request import urlopen
 import json
 pd.set_option('display.max_columns', None)
@@ -16,9 +13,9 @@ price_ranges = [(100, 600), (600, 1000), (1000, 1500),
  (1500, 2000), (2000, 3000), (3000, 4000), (4000, 5000)]
 
 cols_to_drop = ['phone', 'phone_2', 'f', 's', 'title',
-                'intro', 'userId', 'id', 'ref_id',
-                'v', 'thumb2','link', 'marker', 'preferred_contact']
-    
+                'intro', 'userId', 'id', 'ref_id', 'email',
+                'v', 'thumb2', 'marker', 'preferred_contact']
+fill_null_columns = ['beds2', 'baths2', 'cats', 'dogs']
 
 # functions -----------------------------------------------
 def get_json(url):
@@ -82,7 +79,7 @@ df = scrape_data(city='calgary', types=types)
 df = convert_utilities_col(df)
 df.drop_duplicates(inplace=True)
 df = drop_unwanted_cols(df)
-df.fillna(0, inplace=True)
+df.loc[:, fill_null_columns] = df.loc[:, fill_null_columns].fillna(0)
 df.reset_index(drop=True, inplace=True)
 
 
