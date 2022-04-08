@@ -21,8 +21,11 @@ Should take action
     * cats ✅
     * dogs ✅
 
-* Create a regression plot showing square feet and price.
-
+* Create a regression plot showing square feet and price.✅
+* A plot that outlines the price range in all communities✅
+* automatic plotting against price for every column the user chooses.
+* Create a prediction model with regression
+* calculate statistics for seeing the dependency between variables.
 
 
 ### Descriptions
