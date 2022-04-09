@@ -26,8 +26,17 @@ Should take action
 * automatic plotting against price for every column the user chooses.
 * Create a prediction model with regression
 * calculate statistics for seeing the dependency between variables.
+* median and mean price per square feet for each type of residence.
+* Desicion tree for calculating the importance of parameters.
 
+Check at the end:
+* Make sure all the columns are correctly assigned to their own type.
+    * e.g., price, sq_feet should have int type
+* Can I get whether a house is furnished/unfurnished?
 
-### Descriptions
+Descriptions
 Date:
 dates that have 3000 in them, are "Call for availability"
+
+### Observations
+* The only ones that can be explained based on sq_feet a bit, are condo, loft, and main floor.
