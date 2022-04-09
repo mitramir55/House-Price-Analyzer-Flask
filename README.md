@@ -25,9 +25,9 @@ Should take action
 * A plot that outlines the price range in all communities✅
 * automatic plotting against price for every column the user chooses.
 * Create a prediction model with regression
-* calculate statistics for seeing the dependency between variables.
+* calculate statistics for seeing the dependency between variables.✅
 * median and mean price per square feet for each type of residence.
-* Desicion tree for calculating the importance of parameters.
+* Desicion tree for calculating the importance of parameters.✅
 
 Check at the end:
 * Make sure all the columns are correctly assigned to their own type.
