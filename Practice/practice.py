@@ -9,7 +9,19 @@ import json
 pd.set_option('display.max_columns', None)
 pd.set_option('display.max_colwidth', None)
 
+# Import necessary packages
+import os 
+import folium
+from folium import plugins
+import rioxarray as rxr
+import earthpy as et
+import earthpy.spatial as es
 
+# Import data from EarthPy
+data = et.data.get_data('colorado-flood')
+
+# Set working directory to earth-analytics
+os.chdir(os.path.join(et.io.HOME, 'earth-analytics', 'data'))
 """
 
 """
