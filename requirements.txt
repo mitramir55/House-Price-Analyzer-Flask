@@ -1,4 +1,7 @@
-
+folium
+rioxarray
+mapboxgl
+earthpy
 gunicorn
 graphviz
 Flask
