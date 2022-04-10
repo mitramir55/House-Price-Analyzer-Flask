@@ -114,7 +114,6 @@ def convert_date_col(df, null_substitute = 'call for availability'):
         try: 
             df.loc[i, 'a'] = pd.to_datetime(df.loc[i, 'a'], format='%Y-%m-%d')
         except: 
-            print('in except')
             df.loc[i, 'a'] = null_substitute
             df.loc[i, 'availability'] = null_substitute
     df.reset_index(inplace=True, drop=True)
