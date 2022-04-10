@@ -12,9 +12,11 @@ pd.set_option('display.max_columns', None)
 city = 'calgary'
 types = ['Apartment', 'Shared', 'Basement', 'Condo',
     'Loft', 'House', 'Main Floor', 'Townhouse']
-    # make it dynamic
-price_ranges = [(100, 600), (600, 1000), (1000, 1500),
- (1500, 2000), (2000, 3000), (3000, 4000), (4000, 5000)]
+
+# for searching on price in scraping
+min_price = 100
+max_price = 5000
+lapse = 100
 
 cols_to_drop = ['phone', 'phone_2', 'f', 's', 'title', 'city',
                 'intro', 'userId', 'id', 'ref_id', 'email',
@@ -39,7 +41,7 @@ def convert_utilities_col(df):
     return df
 
 
-def scrape_data(city, types=types, price_ranges=price_ranges):
+def scrape_data(city, types=types, min_price=100, max_price=5000, lapse=500):
     df_total = pd.DataFrame()
 
     base_url = 'https://www.rentfaster.ca/api/map.json?'
@@ -58,8 +60,8 @@ def scrape_data(city, types=types, price_ranges=price_ranges):
         # Querying based on price range to get 
         if len_subset_ids==500:
             
-            for (s, e) in price_ranges:
-                url = base_url + f'cities={city}&type={type}&price_range_adv[from]={s}&price_range_adv[to]={e}'
+            for s in range(min_price, max_price, lapse):
+                url = base_url + f'cities={city}&type={type}&price_range_adv[from]={s}&price_range_adv[to]={s+lapse}'
 
                 data_json = get_json(url)
                 listings = data_json['listings']
