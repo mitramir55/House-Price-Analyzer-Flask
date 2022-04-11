@@ -1,4 +1,4 @@
-let btns = document.querySelectorAll("[topic]");
+let btns = document.querySelectorAll("[button]");
 
 for (let i = 0; i < btns.length; i++) {
   btns[i].addEventListener('mouseover', function(){
@@ -9,7 +9,7 @@ for (let i = 0; i < btns.length; i++) {
   });
 
   btns[i].addEventListener('mouseout', function (){
-    btns[i].style.backgroundColor = 'salmon';
+    btns[i].style.backgroundColor = '#58daff';
     });
     
 }
