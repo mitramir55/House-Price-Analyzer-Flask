@@ -8,6 +8,7 @@ import pandas as pd
 import os 
 import folium
 from folium import plugins
+import datetime as dt
 from datetime import date
 
 app = Flask(__name__)
@@ -33,7 +34,12 @@ def index(**kwargs):
         record = df_sample.loc[i]
         
         marker = [record.latitude, record.longitude]
-        popup = record.type + ' - ' + str(record.price) + ' availability: ' + str(record.available_month)
+        try:
+            datetime_object = dt.datetime.strptime(record.available_month, "%m")
+            month_available = datetime_object.strftime("%B")
+        except: month_available='call for availability'
+
+        popup = record.type + '\nPrice:' + str(record.price) + '\nAvailability: ' + month_available
         icon = folium.Icon(color="blue",icon="glyphicon glyphicon-home")
         
         folium.Marker(location=marker, popup=popup, icon=icon).add_to(map)

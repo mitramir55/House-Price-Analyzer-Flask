@@ -218,7 +218,7 @@ class RentalDataCollector:
         df = self.scrape_data(city='calgary', types=types)
         df = self.drop_unwanted_cols(df, self.cols_to_drop)
         df = self.keep_not_rented(df)
-        df.dropna(subset=['price', 'sq_feet'], inplace=True)
+        df.dropna(subset=['price', 'sq_feet'], how='all', inplace=True)
 
         # create new columns and rows
         df = self.convert_utilities_col(df)
