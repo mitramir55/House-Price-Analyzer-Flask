@@ -7,9 +7,6 @@ import pandas as pd
 import os 
 import folium
 from folium import plugins
-import rioxarray as rxr
-import earthpy as et
-import earthpy.spatial as es
 
 app = Flask(__name__)
 
@@ -27,3 +24,7 @@ def index(**kwargs):
 
     return render_template('index.html')
         
+
+@app.route('/map')
+def map():
+    return render_template('map.html')

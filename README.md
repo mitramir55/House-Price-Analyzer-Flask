@@ -1,5 +1,5 @@
 # House-price-prediction
-
+![house](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.theatlantic.com%2Ffamily%2Farchive%2F2022%2F01%2Fwhen-good-time-buy-house%2F621409%2F&psig=AOvVaw1fUz9W7CeJzBkndeCgjFKu&ust=1649678896299000&source=images&cd=vfe&ved=0CAoQjRxqFwoTCMi9tPm6ifcCFQAAAAAdAAAAABAP)
 ### Preprocessing
 
 Should be removed
