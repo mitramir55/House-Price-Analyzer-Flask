@@ -14,7 +14,7 @@ from datetime import date
 app = Flask(__name__)
 
 # config------------------------------------------------
-DATASETS_BASE_FOLDER = 'Dataset\\'
+DATASETS_BASE_FOLDER = r"Dataset\"
 app.config['SECRET_KEY'] = '12345'
 
 #------------------------------------------------------
