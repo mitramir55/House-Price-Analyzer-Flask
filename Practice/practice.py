@@ -8,47 +8,27 @@ from urllib.request import urlopen
 import json
 pd.set_option('display.max_columns', None)
 pd.set_option('display.max_colwidth', None)
-
-# Import necessary packages
-import os 
+df = pd.read_csv('Dataset\calgary_cleaned_rentals_dataset_3.csv')
 import folium
-from folium import plugins
-import rioxarray as rxr
-import earthpy as et
-import earthpy.spatial as es
 
-# Import data from EarthPy
-data = et.data.get_data('colorado-flood')
 
-# Set working directory to earth-analytics
-os.chdir(os.path.join(et.io.HOME, 'earth-analytics', 'data'))
-"""
+df_sample = df.sample(n=20).reset_index(drop=True)
 
-"""
 
-json_file = pd.read_json('Dataset\prepared_map_data.json')
-print(json_file)
-df = pd.read_csv(r'Dataset\calgary_cleaned_rentals_dataset.csv')
-df.head()
-df.columns
-df.rented.unique()
-len(df[df.availability == 'Immediate']) / len(df)
+from datetime import date
+# Create a map using Stamen Terrain, centered on Boulder, CO
+map = folium.Map(location=[51.0447, -114.0719], 
+               tiles = 'Stamen Terrain')
 
-df[df.availability != 'Immediate'].availability.unique()
-df.loc[:, 'availability_month']
-#df.loc[:, 'date'] = df.loc[:, 'a'].apply(lambda x: pd.to_datetime(x, format='%Y-%m-%d'))
+for i in range(len(df_sample)):
 
-malformatted_dates_idx = []
-for i in range(len(df)):
-    try: pd.to_datetime(df.loc[i, 'a'], format='%Y-%m-%d')
-    except: malformatted_dates_idx.append(i)
-df.loc[malformatted_dates_idx[1], :]
+    record = df_sample.loc[i]
+    
+    marker = [record.latitude, record.longitude]
+    popup = record.type + ' - ' + str(record.price) + ' availability: ' + str(record.available_month)
+    icon = folium.Icon(color="blue",icon="glyphicon glyphicon-home")
+    
+    folium.Marker(location=marker, popup=popup, icon=icon).add_to(map)
 
-len(malformatted_dates_idx)
 
-len(df[df.price.isna()])
-
-df.dropna(subset=['price'], inplace=True)
-df.reset_index(inplace=True, drop=True)
-
-pd.to_datetime(df.loc[2765, 'a'], format="%Y-%m-%d")
+map
