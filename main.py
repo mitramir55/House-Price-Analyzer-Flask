@@ -14,7 +14,7 @@ from datetime import date
 app = Flask(__name__)
 
 # config------------------------------------------------
-DATASETS_BASE_FOLDER = r"Dataset\"
+#DATASETS_BASE_FOLDER = r"Dataset\"
 app.config['SECRET_KEY'] = '12345'
 
 #------------------------------------------------------
@@ -24,7 +24,7 @@ app.config['SECRET_KEY'] = '12345'
 def index(**kwargs):
 
     # sample map-----------------------
-    df = pd.read_csv(DATASETS_BASE_FOLDER + 'Sample_scraped_data_calgary.csv')
+    df = pd.read_csv('Dataset\Sample_scraped_data_calgary.csv')
     df_sample = df.sample(n=20).reset_index(drop=True)
 
 
