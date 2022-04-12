@@ -6,20 +6,18 @@ from urllib.request import urlopen
 import json
 pd.set_option('display.max_columns', None)
 
-# search parameters ------------------------------------------
-city = 'calgary'
-types = ['Apartment', 'Shared', 'Basement', 'Condo',
-    'Loft', 'House', 'Main Floor', 'Townhouse']
-
-# for searching on price in scraping
-min_price = 100
-max_price = 5000
-lapse = 100
-
 
 class RentalDataCollector:
-    def __init__(self, city='calgary') -> None:
+    def __init__(self, city='calgary', min_price = 100, max_price = 5000,
+    types = ['Apartment', 'Shared', 'Basement', 'Condo', 'Loft', 'House',
+     'Main Floor', 'Townhouse'], search_leap = 100) -> None:
+
+
         self.city = city    
+        self.min_price = min_price
+        self.max_price = max_price
+        self.types = types
+        self.search_leap = search_leap
         self.cols_to_drop = [
             'phone', 'phone_2', 'f', 's', 'title', 'city','intro', 'userId',
              'id', 'ref_id', 'email', 'v', 'thumb2', 'marker',
@@ -49,13 +47,13 @@ class RentalDataCollector:
         return df
 
 
-    def scrape_data(self, city, types=types, min_price=100, max_price=5000, lapse=500):
+    def scrape_data(self):
         df_total = pd.DataFrame()
 
         base_url = 'https://www.rentfaster.ca/api/map.json?'
-        for type in types:
+        for type in self.types:
 
-            url = base_url + f'cities={city}&type={type}'
+            url = base_url + f'cities={self.city}&type={self.type}&price_range_adv[from]={self.min_price}&price_range_adv[to]={self.max_price}'
             
             # scrape based on residence type
             data_json = self.get_json(url)
@@ -68,8 +66,8 @@ class RentalDataCollector:
             # Querying based on price range to get 
             if len_subset_ids==500:
                 
-                for s in range(min_price, max_price, lapse):
-                    url = base_url + f'cities={city}&type={type}&price_range_adv[from]={s}&price_range_adv[to]={s+lapse}'
+                for s in range(self.min_price, self.max_price, self.search_leap):
+                    url = base_url + f'cities={self.city}&type={self.type}&price_range_adv[from]={s}&price_range_adv[to]={s+self.search_leap}'
 
                     data_json = self.get_json(url)
                     listings = data_json['listings']
@@ -80,9 +78,10 @@ class RentalDataCollector:
 
         return df_total
 
-    def drop_unwanted_cols(self, df, cols=self.cols_to_drop):
+    def drop_unwanted_cols(self, df):
+        
         all_columns = df.columns
-        for col in cols:
+        for col in self.cols_to_drop:
             if col in all_columns:
                 df = df.drop(columns=[col])
         return df
@@ -212,11 +211,11 @@ class RentalDataCollector:
 
         return df
 
-    def collect_data(self,):
+    def collect_data(self):
 
         # filtering what we want
-        df = self.scrape_data(city='calgary', types=types)
-        df = self.drop_unwanted_cols(df, self.cols_to_drop)
+        df = self.scrape_data()
+        df = self.drop_unwanted_cols(df)
         df = self.keep_not_rented(df)
         df.dropna(subset=['price', 'sq_feet'], how='all', inplace=True)
 
