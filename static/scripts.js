@@ -1,4 +1,4 @@
-let btns = document.querySelectorAll("[button]");
+let btns = document.querySelectorAll('input[name="submit"]');
 
 for (let i = 0; i < btns.length; i++) {
   btns[i].addEventListener('mouseover', function(){

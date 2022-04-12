@@ -1,8 +1,40 @@
 {% extends "base.html" %}
 {% block content %}
-    
 
-            <!-- Content section 1-->
+  <div class="btn-group">
+    <button type="button" class="btn btn-secondary dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+        Select City
+    </button>
+    <div class="dropdown-menu dropdown-menu-right">
+        {% for city_name in major_cities %}
+      <button class="dropdown-item" type="button" type="submit" name="city" value="{{city_name}}">{{city_name}}</button>
+      {% endfor %}
+    </div>
+  </div>
+
+
+  <form class="form-inline">
+    <label class="my-1 mr-2" for="inlineFormCustomSelectPref">Preference</label>
+    <select class="custom-select my-1 mr-sm-2" id="inlineFormCustomSelectPref">
+      <option selected>Select City</option>
+      {% for city_name in major_cities %}
+      <option value="{{city_name}}" name="city">{{city_name}}</option>
+      {% endfor %}
+    </select>
+  
+    <div class="form-check form-check-inline">
+        
+        {% for i, type in enumerate(types) %}
+        <input class="form-check-input" type="checkbox" id="inlineCheckbox{{i}}" value="option{{i}}">
+        <label class="form-check-label" for="inlineCheckbox{{i}}">{{type}}</label>
+        {% endfor %}
+      </div>
+  
+    <button type="submit" class="btn btn-primary my-1">Submit</button>
+  </form>
+
+<!--
+    
             <section id="scroll">
                 <div class="container px-5">
                     <div class="row gx-5 align-items-center">
@@ -26,4 +58,5 @@
                     </div>
                 </div>
             </section>
+        -->
 {% endblock %}
