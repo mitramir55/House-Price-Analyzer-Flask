@@ -22,17 +22,16 @@
                       <!-- select the residence type -->
                       {% for i, type in enumerate(types) %} 
                       <div class="form-check form-check-inline" style="padding: 10px;">
-                      <input class="form-check-input" type="checkbox" value="option{{i}}"/>
+                      <input class="form-check-input" type="checkbox" value="{{type}}"/>
                       <label class="form-check-label" for="inlineCheckbox{{i}}"  for="inlineCheckbox{{i}}">{{type}}</label>
                     </div>
                       {% endfor %}
 
 
+                   
+                    <button type="submit" id="btn-submit" style="background-color: #58daff ;color: aliceblue;" name="submit" value="Submit"  class="btn">Submit</button>
 
-                      <button type="submit" class="btn btn-primary my-1">Submit</button>
                     </form>
-                  
-
             </div>
    
     </div>

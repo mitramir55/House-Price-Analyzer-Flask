@@ -13,7 +13,7 @@ for (let i = 0; i < btns.length; i++) {
     });
     
 }
-
+/*
 let btn = document.querySelector("#btn-submit");
 
 
@@ -27,4 +27,4 @@ btn.addEventListener('hover', function () {
 btn.addEventListener('mouseout', function (){
   btn.style.backgroundColor = 'aliceblue';
   });
-    
+  */
