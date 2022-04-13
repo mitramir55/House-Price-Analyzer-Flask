@@ -1,5 +1,6 @@
 import re
 import types
+from cherrypy import url
 from flask import Flask, flash, redirect, url_for, render_template, request, session
 from graphviz import render
 from matplotlib.pyplot import title
@@ -56,17 +57,20 @@ def create_marker_properties(df, i):
     icon = folium.Icon(color="blue",icon="glyphicon glyphicon-home")
     return marker_loc, popup, icon
 
+major_cities = scrape_major_cities()
+types = ['Apartment', 'Loft', 'House', 'Townhouse', 'Mobile',
+    'Vacation', 'Storage', 'Shared', 'Duplex', 'Main Floor', 
+    'Basement', 'Condo']
+
 @app.route('/', methods=['POST', 'GET'])
 def index(**kwargs):
 
     if request.method == 'POST':
         if request.form["submit"] == "Try it!":
-            major_cities = scrape_major_cities()
-            types = ['Apartment', 'Loft', 'House', 'Townhouse', 'Mobile',
-             'Vacation', 'Storage', 'Shared', 'Duplex', 'Main Floor', 
-             'Basement', 'Condo']
 
-            return render_template('inputs.html', enumerate=enumerate, major_cities=major_cities, types=types)
+            return redirect(
+                url_for('inputs', enumerate=enumerate, major_cities=major_cities, types=types)
+                )
 
     else: 
         # sample map-----------------------
@@ -94,20 +98,23 @@ def map():
 @app.route('/inputs', methods=['POST', 'GET'])
 def inputs(**kwargs):
 
-    if request.method=='POST': 
-        if request.form['submit']:
-            return request.form
+    if request.method == 'POST':
+        st = ''
+        for city in request.form.getlist('city'):
+            st = st + ' ' + str(city)
+        return st 
 
-            # all will be in the analysis page---
-            collector = RentalDataCollector(types=types, city=city, min_price=min_price,
-            max_price=max_price)
-            collector.collect_data()
+        # all will be in the analysis page---
+        collector = RentalDataCollector(types=types, city=city, min_price=min_price,
+        max_price=max_price)
+        collector.collect_data()
 
-            # sample map-----------------------
-            df = pd.read_csv(DATASETS_BASE_FOLDER + 'Sample_scraped_data_calgary.csv')
-            df.to_csv(f'Dataset/{city}_cleaned_rentals_dataset.csv', index=False)
+        # sample map-----------------------
+        df = pd.read_csv(DATASETS_BASE_FOLDER + 'Sample_scraped_data_calgary.csv')
+        df.to_csv(f'Dataset/{city}_cleaned_rentals_dataset.csv', index=False)
     else:
-        return render_template('index.html')
+        return render_template('inputs.html', enumerate=enumerate,
+         major_cities=major_cities, types=types)
         
 
 @app.route('/preview', methods=['POST', 'GET'])
