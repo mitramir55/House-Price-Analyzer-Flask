@@ -29,6 +29,7 @@ class RentalDataCollector:
              'Main Floor', 'Townhouse'
              ]
 
+
     def get_json(self, url):
         url = url.replace(" ", "%20")
         response = urlopen(url)
@@ -53,7 +54,7 @@ class RentalDataCollector:
         base_url = 'https://www.rentfaster.ca/api/map.json?'
         for type in self.types:
 
-            url = base_url + f'cities={self.city}&type={self.type}&price_range_adv[from]={self.min_price}&price_range_adv[to]={self.max_price}'
+            url = base_url + f'cities={self.city}&type={type}&price_range_adv[from]={self.min_price}&price_range_adv[to]={self.max_price}'
             
             # scrape based on residence type
             data_json = self.get_json(url)
@@ -62,7 +63,7 @@ class RentalDataCollector:
 
             len_subset_ids = len(df_subset.id.unique())
             
-            # More than 500 records!
+            # More than 500 records! (500=website limit)
             # Querying based on price range to get 
             if len_subset_ids==500:
                 

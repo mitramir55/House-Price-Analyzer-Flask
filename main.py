@@ -35,12 +35,16 @@ def scrape_major_cities():
     # get all elements with class = major-city
     major_cities = []
 
+    # we look into href of each major city and take out the
+    # name for the query
     for x in soup.find_all("li", { "class" : "major-city" }):
-        scraped = x.get_text().strip()
-        city = re.sub(' *\(\d+\) *', '', scraped)
+        link = x.find('a', href=True)['href']
+        city = re.findall("\w+\/(.*)\/", link)[0]
         major_cities.append(city)
 
     return major_cities
+
+major_cities = scrape_major_cities()
 
 
 def create_marker_properties(df, i):
@@ -58,7 +62,8 @@ def create_marker_properties(df, i):
     return marker_loc, popup, icon
 
 major_cities = scrape_major_cities()
-types = ['Apartment', 'Loft', 'House', 'Townhouse', 'Mobile',
+major_cities = [city if city!='Montréal' else 'montreal' for city in major_cities]
+all_types = ['Apartment', 'Loft', 'House', 'Townhouse', 'Mobile',
     'Vacation', 'Storage', 'Shared', 'Duplex', 'Main Floor', 
     'Basement', 'Condo']
 
@@ -99,22 +104,43 @@ def map():
 def inputs(**kwargs):
 
     if request.method == 'POST':
-        st = ''
-        for city in request.form.getlist('city'):
-            st = st + ' ' + str(city)
-        return st 
+        return str(major_cities)
+        
+        types_selected = request.form.getlist('types_name')
+        city = request.form.get('city')
+        min_price = request.form.get('min')
+        max_price = request.form.get('max')
+
+        # check all boxes
+        if not types:
+            flash ("Please select at least one type.")
+            return render_template('inputs.html', enumerate=enumerate,
+         major_cities=major_cities, types=all_types)
+        if not city:
+            flash ("Please select the city.")
+            return render_template('inputs.html', enumerate=enumerate,
+         major_cities=major_cities, types=all_types)
+        if not min_price:
+            flash ("Please select at least one type.")
+            return render_template('inputs.html', enumerate=enumerate,
+         major_cities=major_cities, types=all_types)
+        if not max_price:
+            flash ("Please select at least one type.")
+            return render_template('inputs.html', enumerate=enumerate,
+         major_cities=major_cities, types=all_types)
 
         # all will be in the analysis page---
-        collector = RentalDataCollector(types=types, city=city, min_price=min_price,
+        collector = RentalDataCollector(types=types_selected, city=city, min_price=min_price,
         max_price=max_price)
         collector.collect_data()
 
         # sample map-----------------------
         df = pd.read_csv(DATASETS_BASE_FOLDER + 'Sample_scraped_data_calgary.csv')
-        df.to_csv(f'Dataset/{city}_cleaned_rentals_dataset.csv', index=False)
+        df.to_csv(f'Dataset/C_{city}_P_{min_price}_to_{max_price}_T_{str(types)}.csv', index=False)
+        return 'scraped'
     else:
         return render_template('inputs.html', enumerate=enumerate,
-         major_cities=major_cities, types=types)
+         major_cities=major_cities, types=all_types)
         
 
 @app.route('/preview', methods=['POST', 'GET'])

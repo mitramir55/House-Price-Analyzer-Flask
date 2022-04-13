@@ -12,23 +12,37 @@
                     <!-- Select the city -->
                     <form class="form-inline" action="#"  method="post" enctype="multipart/form-data">
                       <label class="my-1 mr-2" for="inlineFormCustomSelectPref">City</label>
-                      <select class="custom-select my-1 mr-sm-2" id="inlineFormCustomSelectPref">
+                      <select name="city" class="custom-select my-1 mr-sm-2" id="inlineFormCustomSelectPref">
                         <option selected>Select City</option>
                         {% for city_name in major_cities %}
-                        <option value="{{city_name}}" name="city">{{city_name}}</option>
+                        <option value="{{city_name}}">{{city_name}}</option>
                         {% endfor %}
                       </select>
 
+
                       <!-- select the residence type -->
+
                       {% for i, type in enumerate(types) %} 
                       <div class="form-check form-check-inline" style="padding: 10px;">
-                      <input class="form-check-input" type="checkbox" value="{{type}}"/>
+                      <input  name="types_name"  class="form-check-input" type="checkbox" value="{{type}}"/>
                       <label class="form-check-label" for="inlineCheckbox{{i}}"  for="inlineCheckbox{{i}}">{{type}}</label>
                     </div>
                       {% endfor %}
 
 
-                   
+                    <!-- price min max -->
+                      <div class="form-group">
+                        <div class="col">
+                          <input type="number" class="form-control" name="max" placeholder="Minimum price (0)">
+                        </div>
+                        <div class="col">
+                          <input type="number" class="form-control" name="min" placeholder="Maximum price (5000)">
+                        </div>
+                      </div>
+                  
+
+                   <br>
+                   <!-- submit the info -->
                     <button type="submit" id="btn-submit" style="background-color: #58daff ;color: aliceblue;" name="submit" value="Submit"  class="btn">submit</button>
 
                     </form>
