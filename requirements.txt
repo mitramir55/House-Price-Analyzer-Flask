@@ -6,6 +6,7 @@ gunicorn
 graphviz
 Flask
 pandas
+regex
 CherryPy
 Werkzeug
 bs4
