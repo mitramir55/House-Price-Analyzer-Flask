@@ -8,7 +8,7 @@ pd.set_option('display.max_columns', None)
 
 
 class RentalDataCollector:
-    def __init__(self, city='calgary', min_price = 100, max_price = 5000,
+    def __init__(self, city, min_price = 100, max_price = 5000,
     types = ['Apartment', 'Shared', 'Basement', 'Condo', 'Loft', 'House',
      'Main Floor', 'Townhouse'], search_leap = 100) -> None:
 
@@ -70,7 +70,7 @@ class RentalDataCollector:
                 if len_subset_ids==500:
                     
                     for s in range(self.min_price, self.max_price, self.search_leap):
-                        url = base_url + f'cities={self.city}&type={self.type}&price_range_adv[from]={s}&price_range_adv[to]={s+self.search_leap}'
+                        url = base_url + f'cities={self.city}&type={type}&price_range_adv[from]={s}&price_range_adv[to]={s+self.search_leap}'
 
                         data_json = self.get_json(url)
                         listings = data_json['listings']
@@ -218,8 +218,9 @@ class RentalDataCollector:
 
         # filtering what we want
         df = self.scrape_data()
+        return df
         df = self.drop_unwanted_cols(df)
-        #df = self.keep_not_rented(df)
+        df = self.keep_not_rented(df)
         df.dropna(subset=['price', 'sq_feet'], how='all', inplace=True)
 
         # create new columns and rows

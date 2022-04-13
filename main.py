@@ -130,12 +130,15 @@ def inputs(**kwargs):
         # all will be in the analysis page---
         collector = RentalDataCollector(types=types_selected, city=city, min_price=min_price,
         max_price=max_price)
-        collector.collect_data()
+        df = collector.collect_data()
+        if len(df)==0:
+            flash ("Didn't find any residence option. Try adding some more types.")
+            return render_template('inputs.html', enumerate=enumerate,
+            major_cities=major_cities, types=all_types)
 
         # sample map-----------------------
-        df = pd.read_csv(DATASETS_BASE_FOLDER + 'Sample_scraped_data_calgary.csv')
-        df.to_csv(f'Dataset/C_{city}_P_{min_price}_to_{max_price}_T_{str(types)}.csv', index=False)
-        return 'scraped'
+        #df.to_csv(f'Dataset/C_{city}_P_{min_price}_to_{max_price}_T_{str(types)}.csv', index=False)
+        return str(df)
     else:
         return render_template('inputs.html', enumerate=enumerate,
          major_cities=major_cities, types=all_types)
