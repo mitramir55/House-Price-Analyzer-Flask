@@ -61,21 +61,23 @@ class RentalDataCollector:
             listings = data_json['listings']
             df_subset = pd.DataFrame(listings)
 
-            len_subset_ids = len(df_subset.id.unique())
-            
-            # More than 500 records! (500=website limit)
-            # Querying based on price range to get 
-            if len_subset_ids==500:
-                
-                for s in range(self.min_price, self.max_price, self.search_leap):
-                    url = base_url + f'cities={self.city}&type={self.type}&price_range_adv[from]={s}&price_range_adv[to]={s+self.search_leap}'
-
-                    data_json = self.get_json(url)
-                    listings = data_json['listings']
-                    df_subset = pd.DataFrame(listings)
-                    df_total = pd.concat([df_total, df_subset], axis=0)
+            if len(df_subset) == 0: continue
             else:
-                df_total = pd.concat([df_total, df_subset], axis=0)
+                len_subset_ids = len(df_subset.id.unique())
+                
+                # More than 500 records! (500=website limit)
+                # Querying based on price range to get 
+                if len_subset_ids==500:
+                    
+                    for s in range(self.min_price, self.max_price, self.search_leap):
+                        url = base_url + f'cities={self.city}&type={self.type}&price_range_adv[from]={s}&price_range_adv[to]={s+self.search_leap}'
+
+                        data_json = self.get_json(url)
+                        listings = data_json['listings']
+                        df_subset = pd.DataFrame(listings)
+                        df_total = pd.concat([df_total, df_subset], axis=0)
+                else:
+                    df_total = pd.concat([df_total, df_subset], axis=0)
 
         return df_total
 
@@ -217,7 +219,7 @@ class RentalDataCollector:
         # filtering what we want
         df = self.scrape_data()
         df = self.drop_unwanted_cols(df)
-        df = self.keep_not_rented(df)
+        #df = self.keep_not_rented(df)
         df.dropna(subset=['price', 'sq_feet'], how='all', inplace=True)
 
         # create new columns and rows

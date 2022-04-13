@@ -62,7 +62,6 @@ def create_marker_properties(df, i):
     return marker_loc, popup, icon
 
 major_cities = scrape_major_cities()
-major_cities = [city if city!='Montréal' else 'montreal' for city in major_cities]
 all_types = ['Apartment', 'Loft', 'House', 'Townhouse', 'Mobile',
     'Vacation', 'Storage', 'Shared', 'Duplex', 'Main Floor', 
     'Basement', 'Condo']
@@ -104,7 +103,6 @@ def map():
 def inputs(**kwargs):
 
     if request.method == 'POST':
-        return str(major_cities)
         
         types_selected = request.form.getlist('types_name')
         city = request.form.get('city')
