@@ -94,18 +94,20 @@ def map():
 @app.route('/inputs', methods=['POST', 'GET'])
 def inputs(**kwargs):
 
+    if request.method == ['POST']:
+        return request.form
 
-    # all will be in the analysis page---
-    collector = RentalDataCollector(types=types, city=city, min_price=min_price,
-    max_price=max_price)
-    collector.collect_data()
+        # all will be in the analysis page---
+        collector = RentalDataCollector(types=types, city=city, min_price=min_price,
+        max_price=max_price)
+        collector.collect_data()
 
-    # sample map-----------------------
-    df = pd.read_csv(DATASETS_BASE_FOLDER + 'Sample_scraped_data_calgary.csv')
-    df.to_csv(f'Dataset/{city}_cleaned_rentals_dataset.csv', index=False)
-
-    return render_template('index.html')
-    
+        # sample map-----------------------
+        df = pd.read_csv(DATASETS_BASE_FOLDER + 'Sample_scraped_data_calgary.csv')
+        df.to_csv(f'Dataset/{city}_cleaned_rentals_dataset.csv', index=False)
+    else:
+        return render_template('index.html')
+        
 
 @app.route('/preview', methods=['POST', 'GET'])
 def preview(**kwargs):
