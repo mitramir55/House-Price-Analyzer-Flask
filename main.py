@@ -15,12 +15,15 @@ import folium
 from folium import plugins
 import datetime as dt
 from datetime import date
+
+from sympy import minpoly
 from Rentalscraper import RentalDataCollector
 
 app = Flask(__name__)
 
 # config------------------------------------------------
 DATASETS_BASE_FOLDER = r"Dataset/"
+OUTPUT_FOLDER = r'Practice/Datasets/'
 app.config['SECRET_KEY'] = '12345'
 
 #------------------------------------------------------
@@ -45,6 +48,16 @@ def scrape_major_cities():
     return major_cities
 
 major_cities = scrape_major_cities()
+
+
+def determine_min_max(min_price, max_price):
+    
+    if max_price=='': max_price=5000 
+    else: pass
+    if min_price=='': min_price=0
+    else: pass
+
+    return min_price, max_price
 
 
 def create_marker_properties(df, i):
@@ -105,40 +118,33 @@ def inputs(**kwargs):
     if request.method == 'POST':
         
         types_selected = request.form.getlist('types_name')
-        city = request.form.get('city')
-        min_price = request.form.get('min')
-        max_price = request.form.get('max')
+        city = str(request.form.get('city'))
+        min_price, max_price = determine_min_max(min_price=request.form.get('min'),
+         max_price=request.form.get('max'))
 
-        # check all boxes
+        # check boxes
         if not types:
             flash ("Please select at least one type.")
             return render_template('inputs.html', enumerate=enumerate,
          major_cities=major_cities, types=all_types)
+
         if not city:
             flash ("Please select the city.")
             return render_template('inputs.html', enumerate=enumerate,
          major_cities=major_cities, types=all_types)
-        if not min_price:
-            flash ("Please select at least one type.")
-            return render_template('inputs.html', enumerate=enumerate,
-         major_cities=major_cities, types=all_types)
-        if not max_price:
-            flash ("Please select at least one type.")
-            return render_template('inputs.html', enumerate=enumerate,
-         major_cities=major_cities, types=all_types)
 
         # all will be in the analysis page---
-        collector = RentalDataCollector(types=types_selected, city=city, min_price=min_price,
-        max_price=max_price)
+        collector = RentalDataCollector(types=types_selected, city=city,
+         min_price=min_price, max_price=max_price)
         df = collector.collect_data()
         if len(df)==0:
             flash ("Didn't find any residence option. Try adding some more types.")
             return render_template('inputs.html', enumerate=enumerate,
             major_cities=major_cities, types=all_types)
 
-        # sample map-----------------------
-        #df.to_csv(f'Dataset/C_{city}_P_{min_price}_to_{max_price}_T_{str(types)}.csv', index=False)
-        return str(df)
+        else:
+            df.to_csv(OUTPUT_FOLDER + f'{city}.csv', index=False)
+            return str(df)
     else:
         return render_template('inputs.html', enumerate=enumerate,
          major_cities=major_cities, types=all_types)

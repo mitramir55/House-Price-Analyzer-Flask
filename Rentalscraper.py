@@ -3,7 +3,6 @@ import pandas as pd
 import numpy as np
 from urllib.request import urlopen
 import json
-pd.set_option('display.max_columns', None)
 
 
 class RentalDataCollector:
@@ -22,11 +21,6 @@ class RentalDataCollector:
              'id', 'ref_id', 'email', 'v', 'thumb2', 'marker',
               'preferred_contact'
               ]
-
-        self.types = [
-            'Apartment', 'Shared', 'Basement', 'Condo', 'Loft', 'House',
-             'Main Floor', 'Townhouse'
-             ]
 
 
     def get_json(self, url):
@@ -54,9 +48,10 @@ class RentalDataCollector:
         for type in self.types:
 
             url = base_url + f'cities={self.city}&type={type}&price_range_adv[from]={self.min_price}&price_range_adv[to]={self.max_price}'
-            
+            print('url = ', url)
             # scrape based on residence type
             data_json = self.get_json(url)
+            print('df_subset = ', data_json)
             listings = data_json['listings']
             df_subset = pd.DataFrame(listings)
 
