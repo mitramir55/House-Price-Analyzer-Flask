@@ -1,0 +1,24 @@
+{% extends "base.html" %}
+{% block content %}
+
+<section id="scroll">
+    <div class="container px-5">
+        <div class="row gx-5 align-items-center">
+                <div class="p-5">
+                    <h3>City: Calgary</h3>
+                    <div id='chart' class='chart'></div>
+
+                </div>
+            </div>
+        </div>
+</section>
+
+
+<script src='https://cdn.plot.ly/plotly-latest.min.js'></script>
+<script type='text/javascript'>
+  var graphs = {{ histogramJSON | safe }};
+  Plotly.plot('chart', graphs,{});
+</script>
+
+
+{% endblock %}

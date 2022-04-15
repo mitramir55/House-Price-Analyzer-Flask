@@ -18,7 +18,7 @@ from datetime import date
 
 from sympy import minpoly
 from Rentalscraper import RentalDataCollector
-
+from RentalsAnalyzer import RentalsAnalyzer
 app = Flask(__name__)
 
 # config------------------------------------------------
@@ -57,7 +57,7 @@ def determine_min_max(min_price, max_price):
     if min_price=='': min_price=0
     else: pass
 
-    return min_price, max_price
+    return int(min_price), int(max_price)
 
 
 def create_marker_properties(df, i):
@@ -74,7 +74,7 @@ def create_marker_properties(df, i):
     icon = folium.Icon(color="blue",icon="glyphicon glyphicon-home")
     return marker_loc, popup, icon
 
-major_cities = scrape_major_cities()
+
 all_types = ['Apartment', 'Loft', 'House', 'Townhouse', 'Mobile',
     'Vacation', 'Storage', 'Shared', 'Duplex', 'Main Floor', 
     'Basement', 'Condo']
@@ -133,6 +133,11 @@ def inputs(**kwargs):
             return render_template('inputs.html', enumerate=enumerate,
          major_cities=major_cities, types=all_types)
 
+        session['city'] = city
+        session['types'] = types_selected
+        session['min_price'] = min_price
+        session['max_price'] = max_price
+
         # all will be in the analysis page---
         collector = RentalDataCollector(types=types_selected, city=city,
          min_price=min_price, max_price=max_price)
@@ -145,7 +150,7 @@ def inputs(**kwargs):
         else:
             
             df.to_csv(OUTPUT_FOLDER + f'{city}.csv', index=False)
-            return str(df)
+            return redirect(url_for('analysis'))
     else:
         return render_template('inputs.html', enumerate=enumerate,
          major_cities=major_cities, types=all_types)
@@ -153,9 +158,15 @@ def inputs(**kwargs):
 
 @app.route('/preview', methods=['POST', 'GET'])
 def preview(**kwargs):
+    return render_template('analysis.html')
+
+@app.route('/analysis', methods=['POST', 'GET'])
+def analysis(**kwargs):
 
     # sample map-----------------------
-    df = pd.read_csv(DATASETS_BASE_FOLDER + 'Sample_scraped_data_calgary.csv')
+    df = pd.read_csv(OUTPUT_FOLDER + f"{session['city']}.csv")
 
+    analyzer = RentalsAnalyzer(df)
+    histogramJSON = analyzer.plot_histogram()
 
-    return render_template('index.html')
+    return render_template('analysis.html', histogramJSON=histogramJSON)

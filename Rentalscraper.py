@@ -8,7 +8,7 @@ import json
 class RentalDataCollector:
     def __init__(self, city, min_price = 100, max_price = 5000,
     types = ['Apartment', 'Shared', 'Basement', 'Condo', 'Loft', 'House',
-     'Main Floor', 'Townhouse'], search_leap = 100) -> None:
+     'Main Floor', 'Townhouse'], search_leap = 100):
 
 
         self.city = city    
@@ -212,6 +212,7 @@ class RentalDataCollector:
 
         # filtering what we want
         df = self.scrape_data()
+        if len(df)==0: return df
         df = self.drop_unwanted_cols(df)
         df = self.keep_not_rented(df)
         df.dropna(subset=['price', 'sq_feet'], how='all', inplace=True)
