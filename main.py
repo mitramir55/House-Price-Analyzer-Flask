@@ -143,6 +143,7 @@ def inputs(**kwargs):
             major_cities=major_cities, types=all_types)
 
         else:
+            
             df.to_csv(OUTPUT_FOLDER + f'{city}.csv', index=False)
             return str(df)
     else:

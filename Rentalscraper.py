@@ -212,7 +212,6 @@ class RentalDataCollector:
 
         # filtering what we want
         df = self.scrape_data()
-        return df
         df = self.drop_unwanted_cols(df)
         df = self.keep_not_rented(df)
         df.dropna(subset=['price', 'sq_feet'], how='all', inplace=True)
