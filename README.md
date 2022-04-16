@@ -1,5 +1,5 @@
 # House Price Analysis in Canada
-![house](static\assets\house-prices-scaled.jpg)
+![house](https://github.com/mitramir55/House-price-analysis/blob/main/static/assets/house-prices-scaled.jpg)
 
 image source : [yourmoney.com](https://www.yourmoney.com/mortgages/house-prices-rise-at-fastest-pace-since-2007/)
 
