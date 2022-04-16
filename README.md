@@ -4,30 +4,52 @@
 
 Cities supported by RentFaster : [link](https://www.rentfaster.ca/cities/)
 
-### Preprocessing
+### ⚙  How it works? 
+On the index page, there are two options: try it, and preview
+By selecting try it option, you will be sent to a page where you can specify all the 
+variables of the data that will be collected. 
+This dataset will be scraped from one of the ubiquitous renting websites (Rentfaster.com). 
+Then it will be cleaned and filtered to give us records of individual residence options. 
+The preprocessing steps are listed bellow.
 
-Should be removed
-* replace undefined dates with call for ... ✅ 
-* turn a to datetime ✅ 
-* price null ✅ 
-* square feet null ✅ 
-* rented column ✅ 
+
+### 🧹 Preprocessing
+
+#### Filtering steps:
+
+* removing the following columns (for protecting privacy of land owners):
+`['phone', 'phone_2', 'f', 's', 'title', 'city','intro', 'userId','id', 'ref_id', 'email', 'v', 'thumb2', 'marker','preferred_contact']`
+
+* filter out all the "Not Rented" records.
+* dropping records with nulls in either the `price` or `sq_feet` column.
+
+
+
+#### Conversions:
+
+* separate utilities list (`utilities_included`) into separate columns. 
+* separate records which include more than one residence option.
+* convert the date column into datetime. (exception: records with 3000-01-01 will be assigned to `call for availability`)
+* create a month column from the date column. 
+
+
+
+#### cleaning columns and handling types:
+
+* change the type of `sq_feet`, `cats`, `dogs` , `baths`, and `beds` to int. (warning: some records in the `sq_feet` column are strings with descriptions of the space. These will be handled by the `clean_sq_feet_col` function, which will take out the digit based on the text it receives.)
+
+
+
+#### Final steps
+
+* remove duplicates if there are any.
+* reset the index.
 
 
 Should take action
-* create rows when neither sq_feet2 nor price2 are null. ✅ 
-    * To be taken into new rows : bath2, sq_feet2, price2
-    * To be copied: link, location
-* Clean columns
-    * baths ✅
-    * beds ✅
-* turn to int:
-    * cats ✅
-    * dogs ✅
 
-* Create a regression plot showing square feet and price.✅
-* A plot that outlines the price range in all communities✅
-* automatic plotting against price for every column the user chooses.
+
+
 * Create a prediction model with regression
 * calculate statistics for seeing the dependency between variables.✅
 * median and mean price per square feet for each type of residence.
@@ -38,9 +60,10 @@ Check at the end:
     * e.g., price, sq_feet should have int type
 * Can I get whether a house is furnished/unfurnished?
 
-Descriptions
-Date:
-dates that have 3000 in them, are "Call for availability"
+
+
+Notes:
+
 
 ### Observations
 * The only ones that can be explained based on sq_feet a bit, are condo, loft, and main floor.
