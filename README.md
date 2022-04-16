@@ -1,8 +1,7 @@
-# House-price-prediction
-![house](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.theatlantic.com%2Ffamily%2Farchive%2F2022%2F01%2Fwhen-good-time-buy-house%2F621409%2F&psig=AOvVaw1fUz9W7CeJzBkndeCgjFKu&ust=1649678896299000&source=images&cd=vfe&ved=0CAoQjRxqFwoTCMi9tPm6ifcCFQAAAAAdAAAAABAP)
+# House Price Analysis in Canada
+![house](static\assets\house-prices-scaled.jpg)
 
-
-Cities supported by RentFaster : [link](https://www.rentfaster.ca/cities/)
+image source : [yourmoney.com](https://www.yourmoney.com/mortgages/house-prices-rise-at-fastest-pace-since-2007/)
 
 ### ⚙  How it works? 
 On the index page, there are two options: try it, and preview
