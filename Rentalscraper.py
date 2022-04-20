@@ -6,6 +6,20 @@ import json
 
 
 class RentalDataCollector:
+
+    """
+    A collection of functions for scraping, cleaning, and putting together
+    all the info of listings.
+
+    Initial params:
+    default_cols: default columns of a scraped dataset are listed in self.default_cols
+    having this list helps us have a coherent workflow (as some types of residence)
+    don't have specific columns
+    cols_to_drop: we drop these to keep the landlady/lord's privacy
+    others are inputted by the user
+    """
+
+
     def __init__(self, city, min_price = 100, max_price = 5000,
     types = ['Apartment', 'Shared', 'Basement', 'Condo', 'Loft', 'House',
      'Main Floor', 'Townhouse'], search_leap = 100):
@@ -21,6 +35,13 @@ class RentalDataCollector:
              'id', 'ref_id', 'email', 'v', 'thumb2', 'marker',
               'preferred_contact'
               ]
+        self.default_cols = [
+                "ref_id","id","userId","rented", "phone","phone_2", "email",
+                "availability","a","v","f","s","intro", "city", "community", 
+                "latitude", "longitude", "marker", "link", "thumb2", 
+                "preferred_contact","type", "price", "price2", "beds", "beds2",
+                "sq_feet", "baths","baths2", "cats", "dogs","utilities_included"
+            ]
 
 
     def get_json(self, url):
@@ -29,12 +50,29 @@ class RentalDataCollector:
         data_json = json.loads(response.read())
         return data_json
 
+    def _find_this(self, pattern, text):
+        """
+        looks for patterns 
+        returns 0/1
+        """
+        boolean = re.findall(pattern, text)
+        if boolean: return 1
+        else: return 0
+
     def convert_utilities_col(self, df):
-        df.loc[:, 'utility_heat'] = df.loc[:, 'utilities_included'].apply(lambda x: 1 if 'Heat' in x else 0)
-        df.loc[:, 'utility_electricity'] = df.loc[:, 'utilities_included'].apply(lambda x: 1 if 'Electricity' in x else 0)
-        df.loc[:, 'utility_water'] = df.loc[:, 'utilities_included'].apply(lambda x: 1 if 'Water' in x else 0)
-        df.loc[:, 'utility_cable'] = df.loc[:, 'utilities_included'].apply(lambda x: 1 if 'Cable' in x else 0)
-        df.loc[:, 'utility_internet'] = df.loc[:, 'utilities_included'].apply(lambda x: 1 if 'Internet' in x else 0)
+        """
+        we turn every record (which can be list/float/string) into string 
+        to prevent float/str errors because utilities column
+        is inputted by the user
+        """
+
+        utility_col = df.loc[:, 'utilities_included'].apply(lambda x: str(x))
+
+        df.loc[:, 'utility_heat'] = utility_col.apply(lambda x: self._find_this('Heat', x))
+        df.loc[:, 'utility_electricity'] = utility_col.apply(lambda x: self._find_this('Electricity', x))
+        df.loc[:, 'utility_water'] = utility_col.apply(lambda x: self._find_this('Water', x))
+        df.loc[:, 'utility_cable'] = utility_col.apply(lambda x: self._find_this('Cable', x))
+        df.loc[:, 'utility_internet'] = utility_col.apply(lambda x: self._find_this('Internet', x))
 
         df = df.drop(columns=['utilities_included'])
 
@@ -42,18 +80,19 @@ class RentalDataCollector:
 
 
     def scrape_data(self):
-        df_total = pd.DataFrame()
+        df_total = pd.DataFrame(columns=self.cols_to_drop)
 
         base_url = 'https://www.rentfaster.ca/api/map.json?'
         for type in self.types:
 
             url = base_url + f'cities={self.city}&type={type}&price_range_adv[from]={self.min_price}&price_range_adv[to]={self.max_price}'
-            print('url = ', url)
+            
             # scrape based on residence type
             data_json = self.get_json(url)
-            print('df_subset = ', data_json)
+            #print('df_subset = ', data_json)
             listings = data_json['listings']
             df_subset = pd.DataFrame(listings)
+            print('url = ', url)
 
             if len(df_subset) == 0: continue
             else:
@@ -173,6 +212,8 @@ class RentalDataCollector:
                 
 
             except:
+                record = str(record)
+                
                 # lengthy descriptions
                 if len(record)>remove_longer_than or not re.findall('\d+', record):
                     unwanted.append(i)
