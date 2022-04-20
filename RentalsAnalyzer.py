@@ -16,6 +16,33 @@ class RentalsAnalyzer:
     def __init__(self, df) -> None:
         self.df = df
 
+    def overall_view(self):
+        """
+        give an overall view on the df by finding the minimum, maximum, average,
+        and median price of properties
+        """
+        length = len(self.df)
+
+        # maximum price
+        prop_max_price = self.df[self.df.price==max(self.df.price)]
+
+        price_max = prop_max_price.price
+        type_max_price = prop_max_price.type
+
+        # minimum price
+        prop_min_price = self.df[self.df.price==min(self.df.price)]
+
+        price_min = prop_min_price.price
+        type_min_price = prop_min_price.type
+
+        # mean price
+        price_mean = np.round(np.mean(self.df.price), decimals=2)
+        price_median = np.median(self.df.price)
+
+        return length, price_mean, price_median, \
+        price_max, type_max_price, price_min, type_min_price
+
+
     def plot_histogram(self):
 
         fig = px.histogram(self.df, x="price", title='Histogram of Prices',
@@ -73,8 +100,6 @@ class RentalsAnalyzer:
 
 
 
-
-
     def regression_sqfeet_price(self, group_by='type'):
         """
         regression plot based on the sq_feet of each residence option
@@ -102,7 +127,7 @@ class RentalsAnalyzer:
 
 
 
-    def create_encoded_df(self, y_label='price'):
+    def _create_encoded_df(self, y_label='price'):
 
         """
         creates a completely encoded x dataframe for any ml algorithm
@@ -128,7 +153,7 @@ class RentalsAnalyzer:
     def create_feature_importance_df(self, y_label='price', top_n=20):
         
         y = self.df.loc[:, y_label]
-        X = self.create_encoded_df(y_label='price')
+        X = self._create_encoded_df(y_label='price')
 
         model = DecisionTreeRegressor()
         model.fit(X, y)
