@@ -178,17 +178,32 @@ class RentalDataCollector:
 
 
     def clean_baths_col(self, df):
+
+        unwanted = []
+        df.loc[:, 'baths'].fillna(0, inplace=True)
+
         for i in range(len(df)):
+
+            val = df.loc[i, 'baths']
+
             # some have 1.5 baths
             # we convert all to integer
-            try: df.loc[i, 'baths'] = np.floor(float(df.loc[i, 'baths']))
+            try: df.loc[i, 'baths'] = np.floor(float(val))
             except: 
-                df.loc[i, 'baths'] = 0
+                try: df.loc[i, 'baths'] = int(re.findall('\d', val)[0])
+                except: unwanted.append(i)
+
+        df.drop(unwanted, inplace=True)
+        df.reset_index(inplace=True, drop=True)
+
         return df
 
 
 
     def clean_beds_col(self, df):
+
+        unwanted = []
+        df.loc[:, 'beds'].fillna(0, inplace=True)
 
         for i in range(len(df)):
             val = df.loc[i, 'beds']
@@ -197,7 +212,11 @@ class RentalDataCollector:
             except: 
                 # if there isn't a single int
                 try: df.loc[i, 'beds'] = int(re.findall('\d', val)[0])
-                except: df.loc[i, 'beds'] = 0
+                except: unwanted.append(i)
+
+        df.drop(unwanted, inplace=True)
+        df.reset_index(inplace=True, drop=True)
+
         return df
 
         
@@ -257,7 +276,6 @@ class RentalDataCollector:
         df = self.drop_unwanted_cols(df)
         df = self.keep_not_rented(df)
         df.dropna(subset=['price', 'sq_feet'], how='all', inplace=True)
-
         # create new columns and rows
         df = self.convert_utilities_col(df)
         df = self.handle_second_rentals(df)

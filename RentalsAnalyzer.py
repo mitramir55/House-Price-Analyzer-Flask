@@ -11,6 +11,10 @@ import plotly.express as px
 import plotly.graph_objects as go
 from plotly.subplots import make_subplots
 
+x_cols_for_tree = ['community', 'type', 'beds', 'baths',
+ 'cats', 'dogs', 'utility_heat', 'utility_electricity', 'utility_water', 
+ 'utility_cable', 'utility_internet']
+
 
 class RentalsAnalyzer:
     def __init__(self, df) -> None:
@@ -62,7 +66,7 @@ class RentalsAnalyzer:
         creates a plot comparing avg and median of price in each residence type
         """
 
-        self.df.loc[:, 'price_per_sq'] = [np.round(self.df.loc[i, 'price'] / self.df.loc[i, 'sq_feet'], decimals=2) for i in range(len(df))]
+        self.df.loc[:, 'price_per_sq'] = [np.round(self.df.loc[i, 'price'] / self.df.loc[i, 'sq_feet'], decimals=2) for i in range(len(self.df))]
         
         # create the dataset
         df_1 = self.df.groupby([group_by]).agg({'price_per_sq': 'mean'}).rename(columns={'price_per_sq': 'avg_price_per_sq'})
@@ -127,25 +131,21 @@ class RentalsAnalyzer:
 
 
 
-    def _create_encoded_df(self, y_label='price'):
+    def _create_encoded_df(self, y_label='price', x_cols=x_cols_for_tree):
 
         """
         creates a completely encoded x dataframe for any ml algorithm
-        x_cols = ['community_converted', 'type', 'beds', 'sq_feet', 'baths', 'cats',
-        'dogs', 'utility_heat', 'utility_electricity', 'utility_water', 
-        'utility_cable', 'utility_internet']
         """
 
-        x_cols = [col for col in self.df.columns if col!=y_label]
         df_x = self.df.loc[:, x_cols]
 
         #perform one-hot encoding on columns
-        encoder_df1 = self._create_encoded_df(col_name='community')
-        encoder_df2 = self._create_encoded_df(col_name='type')
+        encoder_df1 = self._create_encoded_df_from_column(col_name='community')
+        encoder_df2 = self._create_encoded_df_from_column(col_name='type')
 
         #merge one-hot encoded columns back with original DataFrame
         df_x = df_x.join(encoder_df1).join(encoder_df2)
-        df_x.drop(columns=['community_converted', 'type'], inplace=True)
+        df_x.drop(columns=['community', 'type'], inplace=True)
 
         return df_x
 

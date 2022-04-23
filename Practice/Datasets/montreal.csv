@@ -1,0 +1,814 @@
+availability,a,community,latitude,longitude,link,type,price,beds,sq_feet,baths,cats,dogs,utility_heat,utility_electricity,utility_water,utility_cable,utility_internet,available_month
+Immediate,2000-01-01 00:00:00,Cliff Bungalow,51.0366961,-114.0744921,/ab/calgary/rentals/apartment/studio/cliff-bungalow/357976,Apartment,525,0,420,1.0,0,0,1,1,1,0,0,1.0
+Immediate,2000-01-01 00:00:00,Renfrew,51.0595404,-114.0510065,/ab/calgary/rentals/apartment/1-bedroom/renfrew/pet-friendly/466383,Apartment,700,0,299,1.0,2,2,1,0,1,0,0,1.0
+Immediate,2000-01-01 00:00:00,Beltline,51.0401861,-114.0784295,/ab/calgary/rentals/apartment/studio/beltline/pet-friendly/137984,Apartment,700,0,500,1.0,2,2,0,0,0,0,1,1.0
+Immediate,2000-01-01 00:00:00,Beltline,51.041265,-114.066508,/ab/calgary/rentals/apartment/studio/beltline/pet-friendly/339295,Apartment,695,0,205,1.0,2,2,0,0,0,0,0,1.0
+Immediate,2000-01-01 00:00:00,Cliff Bungalow,51.0366961,-114.0744921,/ab/calgary/rentals/apartment/1-bedroom/cliff-bungalow/476249,Apartment,625,1,465,1.0,0,0,1,1,1,0,0,1.0
+call for availability,call for availability,Renfrew,51.0590298,-114.0524545,/ab/calgary/rentals/apartment/1-bedroom/renfrew/15340,Apartment,,1,500,1.0,0,0,1,0,1,0,0,call for availability
+Immediate,2000-01-01 00:00:00,Bankview,51.031391,-114.099411,/ab/calgary/rentals/apartment/2-bedrooms/bankview/pet-friendly/140644,Apartment,800,2,895,1.0,2,2,0,0,0,0,0,1
+call for availability,call for availability,Dover,51.0294575,-113.9897399,/ab/calgary/rentals/apartment/1-bedroom/dover/pet-friendly/96614,Apartment,730,0,450,1.0,2,0,1,1,1,0,0,call for availability
+call for availability,call for availability,Beltline,51.0397665,-114.0657125,/ab/calgary/rentals/apartment/1-bedroom/beltline/pet-friendly/348260,Apartment,,0,350,1.0,2,2,1,1,1,0,1,call for availability
+call for availability,call for availability,Lower Mount Royal,51.036401700356,-114.09387588501,/ab/calgary/rentals/apartment/1-bedroom/lower-mount-royal/pet-friendly/22158,Apartment,,0,620,1.0,2,0,1,1,1,0,0,call for availability
+Immediate,2000-01-01 00:00:00,Bankview,51.0306332,-114.1038036,/ab/calgary/rentals/apartment/studio/bankview/pet-friendly/355713,Apartment,899,0,397,1.0,2,2,1,0,1,0,0,1
+Immediate,2000-01-01 00:00:00,South Calgary,51.0302907,-114.0989466,/ab/calgary/rentals/apartment/1-bedroom/south-calgary/pet-friendly/2592,Apartment,899,0,450,1.0,2,2,1,0,1,0,0,1
+Immediate,2000-01-01 00:00:00,Bankview,51.0344703,-114.0979487,/ab/calgary/rentals/apartment/studio/bankview/pet-friendly/298604,Apartment,850,0,550,1.0,2,2,1,0,1,0,0,1
+Immediate,2000-01-01 00:00:00,Mission,51.037644,-114.0703651,/ab/calgary/rentals/apartment/1-bedroom/mission/pet-friendly/2243,Apartment,840,0,350,1.0,2,2,1,0,1,0,0,1
+Immediate,2000-01-01 00:00:00,Sunalta,51.0383608,-114.0967737,/ab/calgary/rentals/apartment/1-bedroom/sunalta/pet-friendly/471869,Apartment,895,1,590,1.0,2,2,1,0,1,0,0,1
+Immediate,2000-01-01 00:00:00,Banff Trail,51.0705448,-114.1107904,/ab/calgary/rentals/apartment/1-bedroom/banff-trail/98269,Apartment,895,1,700,1.0,0,0,0,0,1,0,0,1
+Immediate,2000-01-01 00:00:00,Scarboro,51.0375374,-114.1020294,/ab/calgary/rentals/apartment/1-bedroom/scarboro/pet-friendly/299144,Apartment,899,0,335,1.0,2,2,1,0,1,0,0,1
+Immediate,2000-01-01 00:00:00,Mission,51.0369918,-114.0752319,/ab/calgary/rentals/apartment/1-bedroom/mission/pet-friendly/466381,Apartment,875,0,350,1.0,2,2,1,0,1,0,0,1
+Immediate,2000-01-01 00:00:00,Killarney,51.0296161,-114.1351447,/ab/calgary/rentals/apartment/1-bedroom/killarney/pet-friendly/29306,Apartment,895,1,700,1.0,2,2,1,0,1,0,0,1
+Immediate,2000-01-01 00:00:00,Downtown,51.0520442,-114.0768623,/ab/calgary/rentals/apartment/1-bedroom/downtown/436606,Apartment,850,1,525,1.0,0,0,0,0,0,0,0,1
+Immediate,2000-01-01 00:00:00,Dover,51.0294575,-113.9897399,/ab/calgary/rentals/apartment/1-bedroom/dover/pet-friendly/96614,Apartment,900,1,550,1.0,2,0,1,1,1,0,0,1
+Immediate,2000-01-01 00:00:00,Bankview,51.0315177,-114.1019092,/ab/calgary/rentals/apartment/1-bedroom/bankview/45239,Apartment,900,1,500,1.0,0,0,1,1,1,1,0,1
+Immediate,2000-01-01 00:00:00,Mission,51.035457169999,-114.06937122345,/ab/calgary/rentals/apartment/studio/mission/40830,Apartment,825,0,350,1.0,0,0,1,0,1,0,0,1
+May 01,2022-05-01 00:00:00,Shaganappi,51.0382491,-114.1240734,/ab/calgary/rentals/apartment/1-bedroom/shaganappi/470000,Apartment,895,1,500,1.0,0,0,1,0,1,0,0,5
+May 01,2022-05-01 00:00:00,Willow Park,50.962396,-114.058199,/ab/calgary/rentals/apartment/studio/willow-park/477696,Apartment,849,0,300,1.0,0,0,1,0,1,0,0,5
+May 01,2022-05-01 00:00:00,West Hillhurst,51.0536969,-114.1226869,/ab/calgary/rentals/apartment/studio/west-hillhurst/pet-friendly/346829,Apartment,900,0,650,1.0,2,0,1,1,1,0,0,5
+May 01,2022-05-01 00:00:00,Crescent Heights,51.0541659,-114.0565049,/ab/calgary/rentals/apartment/1-bedroom/crescent-heights/9827,Apartment,895,1,650,1.0,0,0,1,0,1,0,0,5
+May 01,2022-05-01 00:00:00,Lower Mount Royal,51.0377678,-114.0915833,/ab/calgary/rentals/apartment/studio/lower-mount-royal/299478,Apartment,900,0,640,1.0,0,0,1,0,0,0,0,5
+May 15,2022-05-15 00:00:00,Rosscarrock,51.0439289,-114.1414509,/ab/calgary/rentals/apartment/1-bedroom/rosscarrock/77086,Apartment,880,1,550,1.0,0,0,1,0,1,0,0,5
+Jun 01,2022-06-01 00:00:00,Lower Mount Royal,51.035979655687,-114.082996129608,/ab/calgary/rentals/apartment/1-bedroom/lower-mount-royal/4379,Apartment,850,1,600,1.0,0,0,1,0,1,0,0,6
+Jul 01,2022-07-01 00:00:00,South Calgary,51.0279067,-114.1035341,/ab/calgary/rentals/apartment/1-bedroom/south-calgary/pet-friendly/303831,Apartment,900,1,750,1.0,2,2,0,0,1,0,0,7
+call for availability,call for availability,Bankview,51.0371688,-114.1056423,/ab/calgary/rentals/apartment/studio/bankview/pet-friendly/446323,Apartment,895,0,650,1.0,2,0,1,1,1,0,0,call for availability
+call for availability,call for availability,Radisson Heights,51.03947,-114.00136,/ab/calgary/rentals/apartment/1-bedroom/radisson-heights/482813,Apartment,,1,500,1.0,0,0,0,0,0,0,0,call for availability
+call for availability,call for availability,Lower Mount Royal,51.036401700356,-114.09387588501,/ab/calgary/rentals/apartment/1-bedroom/lower-mount-royal/pet-friendly/22158,Apartment,,0,520,1.0,2,0,1,0,1,0,0,call for availability
+call for availability,call for availability,Lower Mount Royal,51.0369994,-114.0896461,/ab/calgary/rentals/apartment/1-bedroom/lower-mount-royal/pet-friendly/427020,Apartment,,1,500,1.0,2,2,1,0,1,0,0,call for availability
+call for availability,call for availability,Bankview,51.0367331,-114.1033259,/ab/calgary/rentals/apartment/1-bedroom/bankview/4329,Apartment,,1,950,1.0,0,0,1,0,1,0,0,call for availability
+call for availability,call for availability,Bankview,51.03335,-114.10007,/ab/calgary/rentals/apartment/1-bedroom/bankview/17058,Apartment,,1,600,1.0,0,0,0,0,0,0,0,call for availability
+call for availability,call for availability,Lower Mount Royal,51.0372584,-114.0904398,/ab/calgary/rentals/apartment/1-bedroom/lower-mount-royal/pet-friendly/411860,Apartment,,0,400,1.0,2,0,1,0,1,0,0,call for availability
+Immediate,2000-01-01 00:00:00,South Calgary,51.0302907,-114.0989466,/ab/calgary/rentals/apartment/1-bedroom/south-calgary/pet-friendly/2592,Apartment,950,1,464,1.0,2,2,1,0,1,0,0,1
+Immediate,2000-01-01 00:00:00,Beltline,51.0399846,-114.0693749,/ab/calgary/rentals/apartment/1-bedroom/beltline/pet-friendly/99283,Apartment,975,0,400,1.0,2,2,1,0,1,0,0,1
+Immediate,2000-01-01 00:00:00,Beltline,51.0390969,-114.0731192,/ab/calgary/rentals/apartment/1-bedroom/beltline/pet-friendly/75288,Apartment,925,0,250,1.0,2,2,1,0,1,0,0,1
+Immediate,2000-01-01 00:00:00,Mission,51.037644,-114.0703651,/ab/calgary/rentals/apartment/1-bedroom/mission/pet-friendly/2243,Apartment,900,1,570,1.0,2,2,1,0,1,0,0,1
+Immediate,2000-01-01 00:00:00,Bridgeland,51.0565375,-114.0492047,/ab/calgary/rentals/apartment/1-bedroom/bridgeland/pet-friendly/355717,Apartment,975,0,501,1.0,2,2,1,1,1,0,0,1
+Immediate,2000-01-01 00:00:00,Kingsland,50.9933989,-114.079185,/ab/calgary/rentals/apartment/1-bedroom/kingsland/pet-friendly/95125,Apartment,950,1,700,1.0,2,0,1,0,1,0,0,1
+Immediate,2000-01-01 00:00:00,Sunnyside,51.0554405,-114.0820703,/ab/calgary/rentals/apartment/1-bedroom/sunnyside/pet-friendly/127029,Apartment,985,1,600,1.0,2,0,1,0,1,0,0,1
+Immediate,2000-01-01 00:00:00,Bankview,51.0325951,-114.0980284,/ab/calgary/rentals/apartment/1-bedroom/bankview/pet-friendly/3474,Apartment,999,1,497,1.0,2,2,1,0,1,0,0,1
+Immediate,2000-01-01 00:00:00,Killarney,51.0242857,-114.140771,/ab/calgary/rentals/apartment/1-bedroom/killarney/pet-friendly/378126,Apartment,1000,1,650,1.0,2,0,1,1,1,0,1,1
+Immediate,2000-01-01 00:00:00,Crescent Heights,51.05433488015,-114.053906275024,/ab/calgary/rentals/apartment/1-bedroom/crescent-heights/139575,Apartment,995,1,800,1.0,0,0,1,1,1,0,0,1
+Immediate,2000-01-01 00:00:00,Bankview,51.030137,-114.101078,/ab/calgary/rentals/apartment/1-bedroom/bankview/pet-friendly/51406,Apartment,950,0,420,1.0,2,2,1,0,1,0,0,1
+Immediate,2000-01-01 00:00:00,Bridgeland,51.0542397,-114.0509469,/ab/calgary/rentals/apartment/1-bedroom/bridgeland/pet-friendly/473398,Apartment,999,1,497,1.0,2,2,1,0,1,0,0,1
+Immediate,2000-01-01 00:00:00,Haysboro,50.977276,-114.076662,/ab/calgary/rentals/apartment/1-bedroom/haysboro/pet-friendly/75289,Apartment,950,0,374,1.0,2,2,1,1,1,0,0,1
+Immediate,2000-01-01 00:00:00,Crescent Heights,51.0640666,-114.0573792,/ab/calgary/rentals/apartment/1-bedroom/crescent-heights/pet-friendly/2542,Apartment,999,1,520,1.0,2,2,1,0,1,0,0,1
+Immediate,2000-01-01 00:00:00,Huntington Hills,51.1147884,-114.0682795,/ab/calgary/rentals/apartment/1-bedroom/huntington-hills/pet-friendly/99281,Apartment,925,0,388,1.0,2,2,1,0,1,0,0,1
+Immediate,2000-01-01 00:00:00,Lower Mount Royal,51.0348835,-114.0802295,/ab/calgary/rentals/apartment/1-bedroom/lower-mount-royal/pet-friendly/314015,Apartment,950,0,450,1.0,2,2,1,0,1,0,0,1
+Immediate,2000-01-01 00:00:00,Mission,51.0369918,-114.0752319,/ab/calgary/rentals/apartment/1-bedroom/mission/pet-friendly/466381,Apartment,925,0,350,1.0,2,2,1,0,1,0,0,1
+Immediate,2000-01-01 00:00:00,Connaught,51.0463834,-114.0874283,/ab/calgary/rentals/apartment/1-bedroom/connaught/pet-friendly/2244,Apartment,1000,0,400,1.0,2,2,1,0,1,0,0,1
+Immediate,2000-01-01 00:00:00,Sunalta,51.0389372,-114.0985889,/ab/calgary/rentals/apartment/1-bedroom/sunalta/pet-friendly/413819,Apartment,999,1,550,1.0,2,2,1,0,1,0,0,1
+Immediate,2000-01-01 00:00:00,Mission,51.0345392,-114.0692334,/ab/calgary/rentals/apartment/1-bedroom/mission/pet-friendly/473402,Apartment,999,1,454,1.0,2,2,1,0,1,0,0,1
+Immediate,2000-01-01 00:00:00,Tuxedo,51.0726515,-114.061413,/ab/calgary/rentals/apartment/1-bedroom/tuxedo/32021,Apartment,975,1,550,1.0,0,0,1,0,1,0,0,1
+Immediate,2000-01-01 00:00:00,Bankview,51.0341141,-114.0991242,/ab/calgary/rentals/apartment/2-bedrooms/bankview/484949,Apartment,950,2,800,1.0,0,0,1,0,1,0,0,1
+Immediate,2000-01-01 00:00:00,Altadore,51.01635,-114.0985,/ab/calgary/rentals/apartment/1-bedroom/altadore/117563,Apartment,975,1,600,1.0,0,0,1,0,0,0,0,1
+Immediate,2000-01-01 00:00:00,Bridgeland,51.0521742,-114.0489798,/ab/calgary/rentals/apartment/studio/bridgeland/pet-friendly/393082,Apartment,926,0,429,1.0,2,2,1,0,1,0,0,1
+Immediate,2000-01-01 00:00:00,Beltline,51.0413127,-114.0848539,/ab/calgary/rentals/apartment/studio/beltline/22940,Apartment,925,0,500,1.0,0,0,1,0,1,0,0,1
+Immediate,2000-01-01 00:00:00,Mission,51.0327199,-114.0706328,/ab/calgary/rentals/apartment/1-bedroom/mission/439597,Apartment,995,0,520,1.0,0,0,1,0,1,0,1,1
+Immediate,2000-01-01 00:00:00,Altadore,51.021994,-114.109543,/ab/calgary/rentals/apartment/2-bedrooms/altadore/pet-friendly/290727,Apartment,975,2,1000,1.0,2,0,0,0,0,0,0,1
+Immediate,2000-01-01 00:00:00,Inglewood,51.040263,-114.032654,/ab/calgary/rentals/apartment/studio/inglewood/pet-friendly/403605,Apartment,950,0,500,1.0,2,0,1,0,1,0,0,1
+Immediate,2000-01-01 00:00:00,Deer Run,50.9322881,-114.0113261,/ab/calgary/rentals/apartment/1-bedroom/deer-run/pet-friendly/141307,Apartment,980,1,690,1.0,2,0,1,0,1,0,0,1
+Immediate,2000-01-01 00:00:00,Dalhousie,51.1030746,-114.150732,/ab/calgary/rentals/apartment/1-bedroom/dalhousie/147423,Apartment,1000,1,651,1.0,0,0,1,1,1,0,0,1
+May 01,2022-05-01 00:00:00,Windsor Park,51.002642,-114.0793716,/ab/calgary/rentals/apartment/1-bedroom/windsor-park/139121,Apartment,925,1,592,1.0,0,0,1,0,1,0,0,5
+May 01,2022-05-01 00:00:00,Mayland Heights,51.059599,-114.015407,/ab/calgary/rentals/apartment/studio/mayland-heights/pet-friendly/415568,Apartment,1000,0,620,1.0,2,2,1,0,1,0,0,5
+May 01,2022-05-01 00:00:00,Rosscarrock,51.0395315,-114.1423165,/ab/calgary/rentals/apartment/1-bedroom/rosscarrock/pet-friendly/6910,Apartment,1000,1,700,1.0,2,0,1,0,1,0,0,5
+May 01,2022-05-01 00:00:00,Mission,51.0292343,-114.0649091,/ab/calgary/rentals/apartment/1-bedroom/mission/pet-friendly/453881,Apartment,919,0,430,1.0,2,2,1,0,1,0,0,5
+May 01,2022-05-01 00:00:00,Sunalta,51.0437267,-114.1057707,/ab/calgary/rentals/apartment/2-bedrooms/sunalta/139759,Apartment,995,2,1000,1.0,0,0,1,0,1,0,0,5
+May 01,2022-05-01 00:00:00,Bankview,51.0317966,-114.0974172,/ab/calgary/rentals/apartment/1-bedroom/bankview/74881,Apartment,950,1,500,1.0,0,0,1,0,1,0,0,5
+May 01,2022-05-01 00:00:00,Lower Mount Royal,51.0376662,-114.0822965,/ab/calgary/rentals/apartment/1-bedroom/lower-mount-royal/pet-friendly/133915,Apartment,995,1,700,1.0,2,0,1,0,1,0,0,5
+May 01,2022-05-01 00:00:00,Connaught,51.038102,-114.076197,/ab/calgary/rentals/apartment/1-bedroom/connaught/pet-friendly/483811,Apartment,910,1,330,1.0,2,0,1,1,0,0,1,5
+May 01,2022-05-01 00:00:00,Cliff Bungalow,51.032271,-114.0745192,/ab/calgary/rentals/apartment/1-bedroom/cliff-bungalow/pet-friendly/484161,Apartment,950,1,600,1.0,2,0,1,1,1,0,0,5
+May 01,2022-05-01 00:00:00,Beltline,51.0413127,-114.0848539,/ab/calgary/rentals/apartment/studio/beltline/22831,Apartment,945,0,500,1.0,0,0,1,0,1,0,0,5
+May 01,2022-05-01 00:00:00,Capitol Hill,51.0676484,-114.0858241,/ab/calgary/rentals/apartment/1-bedroom/capitol-hill/483112,Apartment,950,1,650,1.0,0,0,1,0,1,0,0,5
+May 01,2022-05-01 00:00:00,Lower Mount Royal,51.0369847,-114.0918323,/ab/calgary/rentals/apartment/1-bedroom/lower-mount-royal/pet-friendly/297950,Apartment,925,1,800,1.0,2,0,1,0,1,0,0,5
+May 15,2022-05-15 00:00:00,Crescent Heights,51.0658943,-114.0602542,/ab/calgary/rentals/apartment/1-bedroom/crescent-heights/73269,Apartment,950,1,520,1.0,0,0,1,0,1,0,0,5
+May 15,2022-05-15 00:00:00,Huntington Hills,51.111386,-114.080169,/ab/calgary/rentals/apartment/1-bedroom/huntington-hills/56745,Apartment,1000,1,700,1.0,0,0,1,0,1,0,0,5
+May 16,2022-05-16 00:00:00,Acadia,50.9749038,-114.0664404,/ab/calgary/rentals/apartment/1-bedroom/acadia/146439,Apartment,980,1,695,1.0,0,0,1,0,1,0,0,5
+Jun 01,2022-06-01 00:00:00,Lower Mount Royal,51.0354768,-114.0815721,/ab/calgary/rentals/apartment/1-bedroom/lower-mount-royal/444839,Apartment,950,0,350,1.0,0,0,1,1,1,1,1,6
+Jun 01,2022-06-01 00:00:00,Downtown,51.0436825,-114.0650951,/ab/calgary/rentals/apartment/1-bedroom/downtown/pet-friendly/63434,Apartment,995,0,425,1.0,2,0,1,1,1,0,0,6
+Jun 01,2022-06-01 00:00:00,Sunalta,51.042852,-114.104515,/ab/calgary/rentals/apartment/1-bedroom/sunalta/pet-friendly/139206,Apartment,975,1,650,1.0,2,2,1,0,1,0,0,6
+Jun 01,2022-06-01 00:00:00,Mission,51.0367603,-114.0730631,/ab/calgary/rentals/apartment/1-bedroom/mission/91277,Apartment,995,1,500,1.0,0,0,1,0,1,0,0,6
+Jun 01,2022-06-01 00:00:00,Crescent Heights,51.0649602,-114.0602717,/ab/calgary/rentals/apartment/1-bedroom/crescent-heights/60729,Apartment,1000,1,850,1.0,0,0,1,0,1,0,0,6
+call for availability,call for availability,South Calgary,51.0302244,-114.0968833,/ab/calgary/rentals/apartment/2-bedrooms/south-calgary/pet-friendly/443323,Apartment,975,0,880,1.0,2,2,1,0,1,0,0,call for availability
+call for availability,call for availability,Southwood,50.9512148,-114.0853209,/ab/calgary/rentals/apartment/1-bedroom/southwood/pet-friendly/59980,Apartment,950,1,650,1.0,2,0,1,0,1,0,0,call for availability
+call for availability,call for availability,Downtown,51.047748282615,-114.077661308598,/ab/calgary/rentals/apartment/1-bedroom/downtown/pet-friendly/14548,Apartment,950,0,480,1.0,2,0,1,1,1,0,0,call for availability
+call for availability,call for availability,Downtown,51.0457187,-114.0805283,/ab/calgary/rentals/apartment/1-bedroom/downtown/pet-friendly/17394,Apartment,,1,630,1.0,2,2,1,0,1,0,0,call for availability
+call for availability,call for availability,Beltline,51.0408851,-114.0838949,/ab/calgary/rentals/apartment/1-bedroom/beltline/pet-friendly/312965,Apartment,,1,600,1.0,2,0,1,1,1,1,1,call for availability
+call for availability,call for availability,Mission,51.035494268744,-114.068883411765,/ab/calgary/rentals/apartment/1-bedroom/mission/pet-friendly/346849,Apartment,,0,400,1.0,2,0,1,0,1,0,0,call for availability
+call for availability,call for availability,Lower Mount Royal,51.036401700356,-114.09387588501,/ab/calgary/rentals/apartment/1-bedroom/lower-mount-royal/pet-friendly/22158,Apartment,,1,520,1.0,2,0,1,0,1,0,0,call for availability
+call for availability,call for availability,Acadia,50.972543,-114.066826,/ab/calgary/rentals/apartment/1-bedroom/acadia/47994,Apartment,,0,550,1.0,0,0,1,0,1,0,0,call for availability
+call for availability,call for availability,Mission,51.0370632,-114.070252,/ab/calgary/rentals/apartment/1-bedroom/mission/pet-friendly/431998,Apartment,,1,500,1.0,2,2,1,0,1,0,0,call for availability
+call for availability,call for availability,Walden,50.8736601,-114.0374756,/ab/calgary/rentals/apartment/1-bedroom/walden/327176,Apartment,,1,638,1.0,0,0,1,0,1,0,0,call for availability
+call for availability,call for availability,Beltline,51.040089,-114.0733298,/ab/calgary/rentals/apartment/1-bedroom/beltline/pet-friendly/360868,Apartment,,1,650,1.0,2,2,1,0,1,0,0,call for availability
+call for availability,call for availability,Cambrian Heights,51.0844195,-114.0880892,/ab/calgary/rentals/apartment/1-bedroom/cambrian-heights/403746,Apartment,,1,672,1.0,0,0,0,0,0,0,0,call for availability
+call for availability,call for availability,Bankview,51.03335,-114.10007,/ab/calgary/rentals/apartment/1-bedroom/bankview/17058,Apartment,,2,900,1.0,0,0,0,0,0,0,0,call for availability
+call for availability,call for availability,Lower Mount Royal,51.0372584,-114.0904398,/ab/calgary/rentals/apartment/1-bedroom/lower-mount-royal/pet-friendly/411860,Apartment,,1,580,1.0,2,0,1,0,1,0,0,call for availability
+Immediate,2000-01-01 00:00:00,Downtown,51.047691,-114.081481,/ab/calgary/rentals/apartment/1-bedroom/downtown/pet-friendly/393080,Apartment,1075,1,492,1.0,2,2,0,0,0,0,0,1
+Immediate,2000-01-01 00:00:00,Beltline,51.0408325,-114.0752992,/ab/calgary/rentals/apartment/1-bedroom/beltline/pet-friendly/351340,Apartment,1095,1,484,1.0,2,2,1,0,1,0,0,1
+Jul 15,2022-07-15 00:00:00,Forest Heights,51.0446273,-113.9703201,/ab/calgary/rentals/apartment/1-bedroom/forest-heights/pet-friendly/430315,Apartment,1020,1,523,1.0,2,2,1,0,1,0,0,7
+Immediate,2000-01-01 00:00:00,Beltline,51.0399846,-114.0693749,/ab/calgary/rentals/apartment/1-bedroom/beltline/pet-friendly/99283,Apartment,1049,1,518,1.0,2,2,1,0,1,0,0,1
+Immediate,2000-01-01 00:00:00,Bankview,51.0322456,-114.100702,/ab/calgary/rentals/apartment/1-bedroom/bankview/pet-friendly/51407,Apartment,1075,1,500,1.0,2,2,1,0,1,0,0,1
+Immediate,2000-01-01 00:00:00,Marlborough,51.059013,-113.9776631,/ab/calgary/rentals/apartment/1-bedroom/marlborough/pet-friendly/481053,Apartment,1030,1,670,1.0,2,2,1,0,1,0,0,1
+Immediate,2000-01-01 00:00:00,Beltline,51.0390969,-114.0731192,/ab/calgary/rentals/apartment/1-bedroom/beltline/pet-friendly/75288,Apartment,1025,1,450,1.0,2,2,1,0,1,0,0,1
+Immediate,2000-01-01 00:00:00,Bridgeland,51.0565375,-114.0492047,/ab/calgary/rentals/apartment/1-bedroom/bridgeland/pet-friendly/355717,Apartment,1049,1,532,1.0,2,2,1,1,1,0,0,1
+Immediate,2000-01-01 00:00:00,Acadia,50.9749038,-114.0664404,/ab/calgary/rentals/apartment/1-bedroom/acadia/146439,Apartment,1070,2,890,1.0,0,0,1,0,1,0,0,1
+Immediate,2000-01-01 00:00:00,Meadowlark Park,51.0016178,-114.0768808,/ab/calgary/rentals/apartment/1-bedroom/meadowlark-park/pet-friendly/328916,Apartment,1055,1,628,1.0,2,2,1,0,1,0,0,1
+Immediate,2000-01-01 00:00:00,Altadore,51.0230615,-114.0970589,/ab/calgary/rentals/apartment/2-bedrooms/altadore/338557,Apartment,1100,2,850,1.0,0,0,1,0,1,0,0,1
+Immediate,2000-01-01 00:00:00,Altadore,51.0198076,-114.1001265,/ab/calgary/rentals/apartment/1-bedroom/altadore/pet-friendly/359908,Apartment,1099,1,542,1.0,2,2,1,0,1,0,0,1
+Immediate,2000-01-01 00:00:00,Bankview,51.0307731,-114.0991578,/ab/calgary/rentals/apartment/1-bedroom/bankview/pet-friendly/2844,Apartment,1099,1,614,1.0,2,2,1,0,1,0,0,1
+Immediate,2000-01-01 00:00:00,South Calgary,51.0237308,-114.1148425,/ab/calgary/rentals/apartment/1-bedroom/south-calgary/pet-friendly/342039,Apartment,1075,1,550,1.0,2,2,1,0,1,0,0,1
+Immediate,2000-01-01 00:00:00,Huntington Hills,51.1147884,-114.0682795,/ab/calgary/rentals/apartment/1-bedroom/huntington-hills/pet-friendly/99281,Apartment,1099,1,633,1.0,2,2,1,0,1,0,0,1
+Immediate,2000-01-01 00:00:00,Bankview,51.030137,-114.101078,/ab/calgary/rentals/apartment/1-bedroom/bankview/pet-friendly/51406,Apartment,1099,1,631,1.0,2,2,1,0,1,0,0,1
+Immediate,2000-01-01 00:00:00,Capitol Hill,51.067638,-114.093356,/ab/calgary/rentals/apartment/1-bedroom/capitol-hill/pet-friendly/2544,Apartment,1050,1,438,1.0,2,2,1,0,1,0,0,1
+Immediate,2000-01-01 00:00:00,Rosscarrock,51.0436382,-114.1415541,/ab/calgary/rentals/apartment/1-bedroom/rosscarrock/pet-friendly/51405,Apartment,1100,1,600,1.0,2,2,1,0,1,0,0,1
+Immediate,2000-01-01 00:00:00,Bankview,51.0358117,-114.1020999,/ab/calgary/rentals/apartment/1-bedroom/bankview/pet-friendly/309609,Apartment,1025,1,524,1.0,2,2,1,0,1,0,0,1
+Immediate,2000-01-01 00:00:00,Bankview,51.0324264,-114.0962183,/ab/calgary/rentals/apartment/1-bedroom/bankview/pet-friendly/337415,Apartment,1075,1,564,1.0,2,2,1,0,1,0,0,1
+Immediate,2000-01-01 00:00:00,Bridgeland,51.0533337,-114.0543425,/ab/calgary/rentals/apartment/1-bedroom/bridgeland/pet-friendly/350947,Apartment,1050,1,509,1.0,2,2,1,0,1,0,0,1
+Immediate,2000-01-01 00:00:00,Scarboro,51.0375374,-114.1020294,/ab/calgary/rentals/apartment/1-bedroom/scarboro/pet-friendly/299144,Apartment,1025,1,519,1.0,2,2,1,0,1,0,0,1
+Immediate,2000-01-01 00:00:00,Cedarbrae,50.9536955,-114.1201631,/ab/calgary/rentals/apartment/1-bedroom/cedarbrae/pet-friendly/374359,Apartment,1050,1,670,1.0,2,2,1,0,1,0,0,1
+Immediate,2000-01-01 00:00:00,Bankview,51.0356789,-114.0970703,/ab/calgary/rentals/apartment/1-bedroom/bankview/pet-friendly/473397,Apartment,1075,1,558,1.0,2,2,1,0,1,0,0,1
+Immediate,2000-01-01 00:00:00,Sunalta,51.0433457,-114.1052338,/ab/calgary/rentals/apartment/1-bedroom/sunalta/pet-friendly/373063,Apartment,1085,1,489,1.0,2,2,1,0,1,0,0,1
+Immediate,2000-01-01 00:00:00,Mission,51.0369918,-114.0752319,/ab/calgary/rentals/apartment/1-bedroom/mission/pet-friendly/466381,Apartment,1050,1,450,1.0,2,2,1,0,1,0,0,1
+Immediate,2000-01-01 00:00:00,Sunalta,51.0425868,-114.0960443,/ab/calgary/rentals/apartment/1-bedroom/sunalta/pet-friendly/347214,Apartment,1099,1,513,1.0,2,2,1,0,1,0,0,1
+Immediate,2000-01-01 00:00:00,Hillhurst,51.0506619,-114.0935426,/ab/calgary/rentals/apartment/1-bedroom/hillhurst/pet-friendly/479918,Apartment,1075,1,440,1.0,2,2,1,0,1,0,0,1
+Immediate,2000-01-01 00:00:00,Triwood,51.0875663,-114.1101186,/ab/calgary/rentals/apartment/1-bedroom/triwood/pet-friendly/359909,Apartment,1075,1,608,1.0,2,2,1,0,1,0,0,1
+Immediate,2000-01-01 00:00:00,Beltline,51.0414679,-114.0896591,/ab/calgary/rentals/apartment/1-bedroom/beltline/pet-friendly/3408,Apartment,1099,1,562,1.0,2,2,1,0,1,0,0,1
+Immediate,2000-01-01 00:00:00,South Calgary,51.0302325,-114.101516,/ab/calgary/rentals/apartment/1-bedroom/south-calgary/pet-friendly/75880,Apartment,1050,1,473,1.0,2,2,1,0,1,0,0,1
+Immediate,2000-01-01 00:00:00,Braeside,50.962467,-114.1097039,/ab/calgary/rentals/apartment/1-bedroom/braeside/pet-friendly/481050,Apartment,1033,1,616,1.0,2,2,1,0,1,0,0,1
+Immediate,2000-01-01 00:00:00,Stanley Park,51.0095674,-114.0685416,/ab/calgary/rentals/apartment/2-bedrooms/stanley-park/435890,Apartment,1100,2,1000,1.0,0,0,1,0,1,0,0,1
+Immediate,2000-01-01 00:00:00,Beltline,51.0404892,-114.0898093,/ab/calgary/rentals/apartment/1-bedroom/beltline/pet-friendly/87827,Apartment,1050,1,700,1.0,2,0,1,0,1,0,0,1
+Immediate,2000-01-01 00:00:00,Thorncliffe,51.1103273,-114.0676882,/ab/calgary/rentals/apartment/1-bedroom/thorncliffe/pet-friendly/484798,Apartment,1050,1,646,1.0,2,0,1,0,1,0,1,1
+Immediate,2000-01-01 00:00:00,Ranchlands,51.1167363,-114.1768329,/ab/calgary/rentals/apartment/2-bedrooms/ranchlands/pet-friendly/146362,Apartment,1100,2,890,1.0,2,0,1,0,1,0,0,1
+Immediate,2000-01-01 00:00:00,Lower Mount Royal,51.037179,-114.079018,/ab/calgary/rentals/apartment/1-bedroom/lower-mount-royal/pet-friendly/151337,Apartment,1100,1,800,1.0,2,0,1,0,1,0,0,1
+Immediate,2000-01-01 00:00:00,Tuxedo Park,51.0735251,-114.0613755,/ab/calgary/rentals/apartment/2-bedrooms/tuxedo-park/88411,Apartment,1100,2,850,1.0,0,0,1,0,1,0,0,1
+Immediate,2000-01-01 00:00:00,Downtown,51.0419372,-114.0905068,/ab/calgary/rentals/apartment/2-bedrooms/downtown/319238,Apartment,1050,2,750,1.0,0,0,0,0,0,0,0,1
+Immediate,2000-01-01 00:00:00,Beltline,51.0413904,-114.0762163,/ab/calgary/rentals/apartment/1-bedroom/beltline/75443,Apartment,1099,1,550,1.0,0,0,1,0,1,0,0,1
+Immediate,2000-01-01 00:00:00,Silver Springs,51.1136152,-114.2015411,/ab/calgary/rentals/apartment/2-bedrooms/silver-springs/pet-friendly/146448,Apartment,1100,2,890,1.0,2,0,1,0,1,0,0,1
+Immediate,2000-01-01 00:00:00,Bankview,51.03335,-114.10007,/ab/calgary/rentals/apartment/1-bedroom/bankview/17058,Apartment,1050,2,900,1.0,0,0,0,0,0,0,0,1
+Immediate,2000-01-01 00:00:00,Deer Run,50.9322881,-114.0113261,/ab/calgary/rentals/apartment/1-bedroom/deer-run/pet-friendly/141307,Apartment,1100,2,800,1.0,2,0,1,0,1,0,0,1
+Immediate,2000-01-01 00:00:00,Red Carpet,51.0389421,-113.9299716,/ab/calgary/rentals/apartment/1-bedroom/red-carpet/pet-friendly/305440,Apartment,1090,1,542,1.0,2,2,1,0,1,0,0,1
+May 01,2022-05-01 00:00:00,Beltline,51.041582,-114.077916,/ab/calgary/rentals/apartment/1-bedroom/beltline/pet-friendly/127453,Apartment,1025,1,437,1.0,2,0,1,0,1,0,0,5
+May 01,2022-05-01 00:00:00,Connaught,51.041461,-114.089317,/ab/calgary/rentals/apartment/1-bedroom/connaught/pet-friendly/126703,Apartment,1075,1,732,1.0,2,0,1,0,1,0,0,5
+May 01,2022-05-01 00:00:00,Highland Park,51.0921887,-114.0711492,/ab/calgary/rentals/apartment/2-bedrooms/highland-park/485577,Apartment,1100,2,850,1.0,0,0,1,0,1,0,0,5
+May 01,2022-05-01 00:00:00,Mission,51.0360207,-114.0707496,/ab/calgary/rentals/apartment/1-bedroom/mission/485538,Apartment,1100,1,500,1.0,0,0,1,0,1,0,0,5
+May 01,2022-05-01 00:00:00,Glendale,51.0300606,-114.1450603,/ab/calgary/rentals/apartment/1-bedroom/glendale/478247,Apartment,1075,1,800,1.0,0,0,1,0,1,0,0,5
+May 01,2022-05-01 00:00:00,Richmond/Knob Hill,51.0366966,-114.1070523,/ab/calgary/rentals/apartment/1-bedroom/richmond-knob-hill/pet-friendly/480081,Apartment,1095,0,417,1.0,2,0,1,1,1,0,0,5
+May 01,2022-05-01 00:00:00,Renfrew,51.0611896,-114.0549484,/ab/calgary/rentals/apartment/1-bedroom/renfrew/116321,Apartment,1100,1,750,1.0,0,0,1,0,1,0,0,5
+May 15,2022-05-15 00:00:00,Renfrew,51.0661123,-114.0379336,/ab/calgary/rentals/apartment/1-bedroom/renfrew/44157,Apartment,1050,1,750,1.0,0,0,1,0,1,0,0,5
+Jun 01,2022-06-01 00:00:00,Southwood,50.952848,-114.086414,/ab/calgary/rentals/apartment/2-bedrooms/southwood/pet-friendly/485450,Apartment,1100,2,820,1.0,2,0,1,0,1,0,0,6
+Jun 01,2022-06-01 00:00:00,Sunalta,51.0398317,-114.0988503,/ab/calgary/rentals/apartment/1-bedroom/sunalta/pet-friendly/146925,Apartment,1050,1,550,1.0,2,2,1,0,1,0,0,6
+Jun 01,2022-06-01 00:00:00,Bowness,51.0930771,-114.1986974,/ab/calgary/rentals/apartment/1-bedroom/bowness/pet-friendly/418,Apartment,1075,1,700,1.0,2,2,1,0,1,0,0,6
+Jun 01,2022-06-01 00:00:00,Windsor Park,51.0015146,-114.0738689,/ab/calgary/rentals/apartment/2-bedrooms/windsor-park/126942,Apartment,1100,2,1100,1.0,0,0,1,0,1,0,0,6
+Jul 01,2022-07-01 00:00:00,Sunnyside,51.0580139,-114.0754401,/ab/calgary/rentals/apartment/1-bedroom/sunnyside/456,Apartment,1090,1,700,1.0,0,0,1,0,1,0,0,7
+Aug 01,2022-08-01 00:00:00,West Hillhurst,51.0536969,-114.122687,/ab/calgary/rentals/apartment/2-bedrooms/west-hillhurst/pet-friendly/67904,Apartment,1100,2,850,1.0,2,0,0,0,1,0,0,8
+call for availability,call for availability,Downtown,51.0488249,-114.0824361,/ab/calgary/rentals/apartment/1-bedroom/downtown/pet-friendly/481230,Apartment,1095,1,500,1.0,2,2,1,1,1,0,0,call for availability
+call for availability,call for availability,Sunalta,51.0402381,-114.095706,/ab/calgary/rentals/apartment/1-bedroom/sunalta/483389,Apartment,1100,1,700,1.0,0,0,1,0,1,0,0,call for availability
+call for availability,call for availability,Southwood,50.9512148,-114.0853209,/ab/calgary/rentals/apartment/1-bedroom/southwood/pet-friendly/59980,Apartment,1050,2,850,1.0,2,0,1,0,1,0,0,call for availability
+call for availability,call for availability,Downtown,51.0467224,-114.0820723,/ab/calgary/rentals/apartment/1-bedroom/downtown/pet-friendly/17396,Apartment,1050,1,685,1.0,2,2,1,0,1,0,0,call for availability
+call for availability,call for availability,Beltline,51.0408851,-114.0838949,/ab/calgary/rentals/apartment/1-bedroom/beltline/pet-friendly/312965,Apartment,,1,600,1.0,2,0,1,0,1,0,0,call for availability
+call for availability,call for availability,Downtown,51.0457187,-114.0805283,/ab/calgary/rentals/apartment/1-bedroom/downtown/pet-friendly/17394,Apartment,,1,560,1.0,2,2,1,0,1,0,0,call for availability
+call for availability,call for availability,Lower Mount Royal,51.0354768,-114.0815721,/ab/calgary/rentals/apartment/1-bedroom/lower-mount-royal/444839,Apartment,,1,550,1.0,0,0,1,1,1,0,1,call for availability
+call for availability,call for availability,Lower Mount Royal,51.0366916,-114.083831,/ab/calgary/rentals/apartment/1-bedroom/lower-mount-royal/pet-friendly/333403,Apartment,,2,1000,1.0,2,2,1,0,1,0,0,call for availability
+call for availability,call for availability,Beltline,51.0422674,-114.0845042,/ab/calgary/rentals/apartment/1-bedroom/beltline/pet-friendly/139573,Apartment,,1,514,1.0,2,2,1,0,1,0,0,call for availability
+call for availability,call for availability,Beltline,51.0423207,-114.0834087,/ab/calgary/rentals/apartment/1-bedroom/beltline/pet-friendly/335626,Apartment,,0,516,1.0,2,2,1,0,1,0,0,call for availability
+call for availability,call for availability,Highland Park,51.090537,-114.0598406,/ab/calgary/rentals/apartment/1-bedroom/highland-park/pet-friendly/102502,Apartment,,1,545,1.0,0,2,1,0,0,0,0,call for availability
+call for availability,call for availability,Cliff Bungalow,51.0322636,-114.0752951,/ab/calgary/rentals/apartment/1-bedroom/cliff-bungalow/481917,Apartment,,1,620,1.0,0,0,1,0,1,0,0,call for availability
+call for availability,call for availability,Beltline,51.0397665,-114.0657125,/ab/calgary/rentals/apartment/1-bedroom/beltline/pet-friendly/348260,Apartment,,1,450,1.0,2,2,1,1,1,0,1,call for availability
+call for availability,call for availability,Bankview,51.0347959,-114.1012606,/ab/calgary/rentals/apartment/1-bedroom/bankview/pet-friendly/449922,Apartment,,0,500,1.0,2,2,1,0,1,0,0,call for availability
+call for availability,call for availability,Mount Pleasant,51.0676898,-114.0810832,/ab/calgary/rentals/apartment/1-bedroom/mount-pleasant/pet-friendly/344812,Apartment,,1,615,1.0,2,2,1,1,1,0,0,call for availability
+call for availability,call for availability,Bankview,51.0340614,-114.102587,/ab/calgary/rentals/apartment/1-bedroom/bankview/41174,Apartment,,1,575,1.0,0,0,1,0,1,0,0,call for availability
+call for availability,call for availability,Lower Mount Royal,51.036648,-114.078988,/ab/calgary/rentals/apartment/1-bedroom/lower-mount-royal/51253,Apartment,,1,535,1.0,0,0,1,0,1,0,0,call for availability
+call for availability,call for availability,Renfrew,51.0590298,-114.0524545,/ab/calgary/rentals/apartment/1-bedroom/renfrew/15340,Apartment,,2,1000,1.0,0,0,1,0,1,0,0,call for availability
+call for availability,call for availability,Acadia,50.972543,-114.066826,/ab/calgary/rentals/apartment/1-bedroom/acadia/47994,Apartment,,1,600,1.0,0,0,1,0,1,0,0,call for availability
+call for availability,call for availability,Dover,51.0294575,-113.9897399,/ab/calgary/rentals/apartment/1-bedroom/dover/pet-friendly/96614,Apartment,,2,850,1.0,2,0,1,0,1,0,0,call for availability
+call for availability,call for availability,Dalhousie,51.1006179,-114.1501253,/ab/calgary/rentals/apartment/1-bedroom/dalhousie/47042,Apartment,,1,654,1.0,0,0,1,1,1,1,0,call for availability
+call for availability,call for availability,Varsity,51.0924967,-114.1425089,/ab/calgary/rentals/apartment/1-bedroom/varsity/pet-friendly/466357,Apartment,,1,660,1.0,2,2,1,0,1,0,0,call for availability
+Immediate,2000-01-01 00:00:00,Beltline,51.0408325,-114.0752992,/ab/calgary/rentals/apartment/1-bedroom/beltline/pet-friendly/351340,Apartment,1110,2,683,1.0,2,2,1,0,1,0,0,1
+Immediate,2000-01-01 00:00:00,Forest Heights,51.0446273,-113.9703201,/ab/calgary/rentals/apartment/1-bedroom/forest-heights/pet-friendly/430315,Apartment,1149,1,524,1.0,2,2,1,0,1,0,0,1
+May 15,2022-05-15 00:00:00,Downtown,51.048506,-114.076532,/ab/calgary/rentals/apartment/1-bedroom/downtown/pet-friendly/21994,Apartment,1189,0,550,1.0,2,0,1,0,1,0,0,5
+May 15,2022-05-15 00:00:00,Rutland Park,51.0201453,-114.1439234,/ab/calgary/rentals/apartment/1-bedroom/rutland-park/pet-friendly/21997,Apartment,1187,1,588,1.0,2,2,1,0,1,0,0,5
+Immediate,2000-01-01 00:00:00,Marlborough,51.059013,-113.9776631,/ab/calgary/rentals/apartment/1-bedroom/marlborough/pet-friendly/481053,Apartment,1194,2,882,1.0,2,2,1,0,1,0,0,1
+Immediate,2000-01-01 00:00:00,Acadia,50.9749038,-114.0664404,/ab/calgary/rentals/apartment/1-bedroom/acadia/146439,Apartment,1100,2,890,1.0,0,0,1,0,1,0,0,1
+Immediate,2000-01-01 00:00:00,Inglewood,51.040263,-114.032654,/ab/calgary/rentals/apartment/1-bedroom/inglewood/pet-friendly/406247,Apartment,1150,1,800,1.0,2,0,1,0,1,0,0,1
+Immediate,2000-01-01 00:00:00,Downtown,51.0403727,-114.065099,/ab/calgary/rentals/apartment/1-bedroom/downtown/pet-friendly/311903,Apartment,1125,1,575,1.0,2,2,1,0,1,0,0,1
+Immediate,2000-01-01 00:00:00,Pineridge,51.0780821,-113.9544194,/ab/calgary/rentals/apartment/1-bedroom/pineridge/pet-friendly/19666,Apartment,1178,1,625,1.0,2,2,1,0,1,0,0,1
+Immediate,2000-01-01 00:00:00,Beltline,51.0388282,-114.0669184,/ab/calgary/rentals/apartment/2-bedrooms/beltline/pet-friendly/318929,Apartment,1200,2,900,1.0,2,2,1,0,1,0,0,1
+Immediate,2000-01-01 00:00:00,Sunalta,51.0428329,-114.1031282,/ab/calgary/rentals/apartment/2-bedrooms/sunalta/pet-friendly/478524,Apartment,1200,2,900,1.0,2,0,1,0,1,0,0,1
+Immediate,2000-01-01 00:00:00,Seton,50.876173875284,-113.944515369836,/ab/calgary/rentals/apartment/1-bedroom/seton/pet-friendly/482468,Apartment,1200,1,505,1.0,2,2,0,0,0,0,0,1
+Immediate,2000-01-01 00:00:00,Haysboro,50.9720354,-114.0825932,/ab/calgary/rentals/apartment/1-bedroom/haysboro/pet-friendly/432141,Apartment,1101,1,678,0,2,2,1,0,1,0,0,1
+Immediate,2000-01-01 00:00:00,Mission,51.0322881,-114.0727083,/ab/calgary/rentals/apartment/1-bedroom/mission/pet-friendly/481846,Apartment,1150,1,565,1.0,2,2,0,0,0,0,0,1
+Immediate,2000-01-01 00:00:00,Bankview,51.0347959,-114.1012606,/ab/calgary/rentals/apartment/1-bedroom/bankview/pet-friendly/449922,Apartment,1125,1,650,1.0,2,2,1,0,1,0,0,1
+Immediate,2000-01-01 00:00:00,Haysboro,50.977276,-114.076662,/ab/calgary/rentals/apartment/1-bedroom/haysboro/pet-friendly/75289,Apartment,1150,1,455,1.0,2,2,1,1,1,0,0,1
+Immediate,2000-01-01 00:00:00,Altadore,51.0198076,-114.1001265,/ab/calgary/rentals/apartment/1-bedroom/altadore/pet-friendly/359908,Apartment,1125,1,542,1.0,2,2,1,0,1,0,0,1
+Immediate,2000-01-01 00:00:00,Lower Mount Royal,51.0348835,-114.0802295,/ab/calgary/rentals/apartment/1-bedroom/lower-mount-royal/pet-friendly/314015,Apartment,1150,1,550,1.0,2,2,1,0,1,0,0,1
+Immediate,2000-01-01 00:00:00,South Calgary,51.0237308,-114.1148425,/ab/calgary/rentals/apartment/1-bedroom/south-calgary/pet-friendly/342039,Apartment,1125,1,550,1.0,2,2,1,0,1,0,0,1
+Immediate,2000-01-01 00:00:00,Renfrew,51.0595404,-114.0510065,/ab/calgary/rentals/apartment/1-bedroom/renfrew/pet-friendly/466383,Apartment,1150,1,578,1.0,2,2,1,0,1,0,0,1
+Immediate,2000-01-01 00:00:00,Falconridge,51.108143,-113.936489,/ab/calgary/rentals/apartment/1-bedroom/falconridge/pet-friendly/2248,Apartment,1150,1,500,1.0,2,2,1,0,1,0,0,1
+Immediate,2000-01-01 00:00:00,Beltline,51.0401374,-114.0897926,/ab/calgary/rentals/apartment/1-bedroom/beltline/pet-friendly/355714,Apartment,1125,1,528,1.0,2,2,1,0,1,0,0,1
+Immediate,2000-01-01 00:00:00,Mission,51.0369918,-114.0752319,/ab/calgary/rentals/apartment/1-bedroom/mission/pet-friendly/466381,Apartment,1150,1,450,1.0,2,2,1,0,1,0,0,1
+Immediate,2000-01-01 00:00:00,Sunalta,51.0389372,-114.0985889,/ab/calgary/rentals/apartment/1-bedroom/sunalta/pet-friendly/413819,Apartment,1150,1,550,1.0,2,2,1,0,1,0,0,1
+Immediate,2000-01-01 00:00:00,Sunalta,51.0425868,-114.0960443,/ab/calgary/rentals/apartment/1-bedroom/sunalta/pet-friendly/347214,Apartment,1100,1,513,1.0,2,2,1,0,1,0,0,1
+Immediate,2000-01-01 00:00:00,Braeside,50.962467,-114.1097039,/ab/calgary/rentals/apartment/1-bedroom/braeside/pet-friendly/481050,Apartment,1133,1,616,1.0,2,2,1,0,1,0,0,1
+Immediate,2000-01-01 00:00:00,Killarney,51.0372133,-114.1270253,/ab/calgary/rentals/apartment/2-bedrooms/killarney/389440,Apartment,1195,2,800,1.0,0,0,0,0,0,0,0,1
+Immediate,2000-01-01 00:00:00,Erlton,51.0305083,-114.0650367,/ab/calgary/rentals/apartment/1-bedroom/erlton/481016,Apartment,1125,1,710,1.0,0,0,1,0,1,0,0,1
+Immediate,2000-01-01 00:00:00,Lower Mount Royal,51.0414986,-114.0907323,/ab/calgary/rentals/apartment/1-bedroom/lower-mount-royal/pet-friendly/426440,Apartment,1151,1,670,0,2,2,1,0,1,0,0,1
+Immediate,2000-01-01 00:00:00,Seton,50.8703069,-113.9585035,/ab/calgary/rentals/apartment/2-bedrooms/seton/pet-friendly/478185,Apartment,1150,0,463,1.0,2,2,1,0,1,0,0,1
+Immediate,2000-01-01 00:00:00,Seton,50.875064259647,-113.95097853121,/ab/calgary/rentals/apartment/1-bedroom/seton/pet-friendly/478187,Apartment,1200,1,429,1.0,2,2,1,0,1,0,0,1
+Immediate,2000-01-01 00:00:00,Mission,51.0368878,-114.0708571,/ab/calgary/rentals/apartment/1-bedroom/mission/pet-friendly/468621,Apartment,1127,0,460,1.0,2,2,1,0,1,0,0,1
+Immediate,2000-01-01 00:00:00,Mission,51.0301756,-114.0653515,/ab/calgary/rentals/apartment/1-bedroom/mission/pet-friendly/405957,Apartment,1176,1,575,1.0,2,2,1,1,1,0,0,1
+Immediate,2000-01-01 00:00:00,Cliff Bungalow,51.0376176,-114.0727493,/ab/calgary/rentals/apartment/1-bedroom/cliff-bungalow/pet-friendly/147776,Apartment,1200,1,700,1.0,2,2,1,0,1,0,0,1
+Immediate,2000-01-01 00:00:00,Beltline,51.041837187973,-114.07202629444,/ab/calgary/rentals/apartment/1-bedroom/beltline/pet-friendly/433243,Apartment,1175,0,363,1.0,2,2,1,0,1,0,0,1
+Immediate,2000-01-01 00:00:00,Connaught,51.0418433,-114.0768948,/ab/calgary/rentals/apartment/1-bedroom/connaught/pet-friendly/428303,Apartment,1126,0,700,0,2,2,1,0,1,0,0,1
+Immediate,2000-01-01 00:00:00,Crescent Heights,51.05769,-114.059801,/ab/calgary/rentals/apartment/2-bedrooms/crescent-heights/124428,Apartment,1195,2,900,1.0,0,0,1,0,1,0,0,1
+Immediate,2000-01-01 00:00:00,Tuxedo,51.072706,-114.0607665,/ab/calgary/rentals/apartment/1-bedroom/tuxedo/pet-friendly/134848,Apartment,1195,1,700,1.0,2,2,1,0,1,0,0,1
+Immediate,2000-01-01 00:00:00,Acadia,50.9668952,-114.0671346,/ab/calgary/rentals/apartment/2-bedrooms/acadia/pet-friendly/129082,Apartment,1200,2,890,1.0,2,2,1,0,1,0,0,1
+Immediate,2000-01-01 00:00:00,Red Carpet,51.0389421,-113.9299716,/ab/calgary/rentals/apartment/1-bedroom/red-carpet/pet-friendly/305440,Apartment,1110,1,605,1.0,2,2,1,0,1,0,0,1
+May 01,2022-05-01 00:00:00,Windsor Park,51.0021523,-114.0807813,/ab/calgary/rentals/apartment/2-bedrooms/windsor-park/485013,Apartment,1200,2,832,1.0,0,0,1,0,1,0,0,5
+May 01,2022-05-01 00:00:00,Altadore,51.0227401,-114.1001647,/ab/calgary/rentals/apartment/1-bedroom/altadore/34030,Apartment,1125,1,800,1.0,0,0,1,0,1,0,0,5
+May 01,2022-05-01 00:00:00,Sunalta,51.0437224,-114.101435,/ab/calgary/rentals/apartment/1-bedroom/sunalta/485493,Apartment,1200,1,800,1.0,0,0,1,0,1,0,0,5
+May 01,2022-05-01 00:00:00,Crescent Heights,51.0541659,-114.0565049,/ab/calgary/rentals/apartment/2-bedrooms/crescent-heights/6948,Apartment,1195,2,900,1.0,0,0,1,0,1,0,0,5
+May 01,2022-05-01 00:00:00,Mission,51.0362566,-114.0693171,/ab/calgary/rentals/apartment/1-bedroom/mission/pet-friendly/139047,Apartment,1175,1,800,1.0,2,2,1,0,1,0,0,5
+May 01,2022-05-01 00:00:00,Mission,51.03354616612,-114.069112571411,/ab/calgary/rentals/apartment/1-bedroom/mission/306892,Apartment,1150,1,500,1.0,0,0,1,0,1,0,0,5
+May 10,2022-05-10 00:00:00,Glenbrook,51.030344,-114.163134,/ab/calgary/rentals/apartment/1-bedroom/glenbrook/pet-friendly/19664,Apartment,1141,1,600,1.0,2,2,1,0,1,0,0,5
+May 15,2022-05-15 00:00:00,Downtown,51.0542869,-114.046037,/ab/calgary/rentals/apartment/1-bedroom/downtown/479261,Apartment,1150,1,600,1.0,0,0,1,0,1,0,0,5
+May 31,2022-05-31 00:00:00,Varsity,51.0843701,-114.1592641,/ab/calgary/rentals/apartment/1-bedroom/varsity/pet-friendly/22006,Apartment,1119,1,484,1.0,2,0,1,0,1,0,0,5
+Jun 01,2022-06-01 00:00:00,Eau Claire,51.0513588,-114.0764941,/ab/calgary/rentals/apartment/1-bedroom/eau-claire/pet-friendly/100159,Apartment,1195,1,600,1.0,2,0,1,0,1,0,0,6
+Jun 01,2022-06-01 00:00:00,Mission,51.0292343,-114.0649091,/ab/calgary/rentals/apartment/1-bedroom/mission/pet-friendly/453881,Apartment,1104,0,517,1.0,2,2,1,0,1,0,0,6
+Jun 01,2022-06-01 00:00:00,South Calgary,51.028364,-114.096268,/ab/calgary/rentals/apartment/2-bedrooms/south-calgary/307215,Apartment,1150,2,900,1.0,0,0,1,0,1,0,0,6
+Jun 01,2022-06-01 00:00:00,Varsity,51.0891985,-114.1398477,/ab/calgary/rentals/apartment/2-bedrooms/varsity/308239,Apartment,1200,2,878,1.0,0,0,0,0,0,0,0,6
+Jun 01,2022-06-01 00:00:00,Lower Mount Royal,51.035721,-114.083918,/ab/calgary/rentals/apartment/1-bedroom/lower-mount-royal/pet-friendly/406917,Apartment,1175,1,544,1.0,2,0,1,0,1,0,0,6
+Jun 08,2022-06-08 00:00:00,Kingsland,50.9893919,-114.0759151,/ab/calgary/rentals/apartment/1-bedroom/kingsland/pet-friendly/328918,Apartment,1140,1,685,1.0,2,2,1,0,1,0,0,6
+Jul 01,2022-07-01 00:00:00,Capitol Hill,51.0672244,-114.0965029,/ab/calgary/rentals/apartment/1-bedroom/capitol-hill/pet-friendly/453885,Apartment,1141,1,421,1.0,2,2,1,0,1,0,0,7
+Jul 01,2022-07-01 00:00:00,Bridgeland,51.0541713,-114.0533083,/ab/calgary/rentals/apartment/1-bedroom/bridgeland/43499,Apartment,1145,1,535,1.0,0,0,1,1,1,0,0,7
+Aug 01,2022-08-01 00:00:00,Mission,51.0376633,-114.0631462,/ab/calgary/rentals/apartment/1-bedroom/mission/pet-friendly/453880,Apartment,1175,1,559,1.0,2,2,1,0,1,0,0,8
+call for availability,call for availability,Bankview,51.0305832,-114.0986086,/ab/calgary/rentals/apartment/2-bedrooms/bankview/pet-friendly/62353,Apartment,1200,2,900,1.0,2,0,1,0,1,0,0,call for availability
+call for availability,call for availability,Seton,50.885391963462,-113.953482454956,/ab/calgary/rentals/apartment/1-bedroom/seton/485637,Apartment,1170,1,635,1.0,0,0,1,0,0,0,0,call for availability
+call for availability,call for availability,Connaught,51.0406581,-114.0924003,/ab/calgary/rentals/apartment/1-bedroom/connaught/pet-friendly/39621,Apartment,1125,1,719,1.0,2,2,1,0,1,0,0,call for availability
+call for availability,call for availability,Edgemont,51.126592,-114.137232,/ab/calgary/rentals/apartment/1-bedroom/edgemont/pet-friendly/5596,Apartment,1200,1,710,1.0,2,0,1,0,1,0,0,call for availability
+call for availability,call for availability,Lower Mount Royal,51.0354768,-114.0815721,/ab/calgary/rentals/apartment/1-bedroom/lower-mount-royal/444839,Apartment,,1,600,1.0,0,0,1,1,1,1,1,call for availability
+call for availability,call for availability,Mission,51.0367603,-114.0730631,/ab/calgary/rentals/apartment/1-bedroom/mission/91277,Apartment,,1,500,1.0,0,0,1,0,1,0,0,call for availability
+call for availability,call for availability,Mission,51.035494268744,-114.068883411765,/ab/calgary/rentals/apartment/1-bedroom/mission/pet-friendly/346849,Apartment,,1,551,1.0,2,0,1,0,1,0,0,call for availability
+call for availability,call for availability,Bankview,51.0318654,-114.1015524,/ab/calgary/rentals/apartment/1-bedroom/bankview/pet-friendly/395365,Apartment,,1,600,1.0,2,0,1,1,1,0,0,call for availability
+call for availability,call for availability,Kingsland,50.9834541,-114.0727649,/ab/calgary/rentals/apartment/1-bedroom/kingsland/pet-friendly/410845,Apartment,,1,473,1.0,2,2,1,0,1,0,0,call for availability
+call for availability,call for availability,Mount Pleasant,51.0676898,-114.0810832,/ab/calgary/rentals/apartment/1-bedroom/mount-pleasant/pet-friendly/344812,Apartment,,1,564,1.0,2,2,1,0,1,0,0,call for availability
+call for availability,call for availability,Kingsland,50.9840753,-114.0727635,/ab/calgary/rentals/apartment/1-bedroom/kingsland/pet-friendly/448227,Apartment,,1,477,1.0,2,2,1,0,1,0,0,call for availability
+call for availability,call for availability,Bankview,51.0340614,-114.102587,/ab/calgary/rentals/apartment/1-bedroom/bankview/41174,Apartment,,2,902,1.0,0,0,1,0,1,0,0,call for availability
+call for availability,call for availability,Richmond/Knob Hill,51.0241944,-114.1149641,/ab/calgary/rentals/apartment/1-bedroom/richmond-knob-hill/pet-friendly/355606,Apartment,,1,485,1.0,2,2,1,0,1,0,0,call for availability
+call for availability,call for availability,Acadia,50.972543,-114.066826,/ab/calgary/rentals/apartment/1-bedroom/acadia/47994,Apartment,,1,870,1.0,0,0,1,0,1,0,0,call for availability
+call for availability,call for availability,Walden,50.8736601,-114.0374756,/ab/calgary/rentals/apartment/1-bedroom/walden/327176,Apartment,,2,854,2.0,0,0,1,0,1,0,0,call for availability
+call for availability,call for availability,Bankview,51.03377,-114.1026338,/ab/calgary/rentals/apartment/1-bedroom/bankview/pet-friendly/307463,Apartment,,1,630,1.0,2,0,1,0,1,0,0,call for availability
+call for availability,call for availability,Bankview,51.0335943,-114.1007674,/ab/calgary/rentals/apartment/1-bedroom/bankview/342417,Apartment,,1,600,1.0,0,0,1,1,1,0,0,call for availability
+call for availability,call for availability,Mission,51.0327199,-114.0706328,/ab/calgary/rentals/apartment/1-bedroom/mission/439597,Apartment,,1,780,1.0,0,0,1,0,1,0,1,call for availability
+call for availability,call for availability,Crescent Heights,51.057301,-114.0571056,/ab/calgary/rentals/apartment/1-bedroom/crescent-heights/305938,Apartment,,1,577,1.0,0,0,1,0,1,0,0,call for availability
+Immediate,2000-01-01 00:00:00,Downtown,51.048506,-114.076532,/ab/calgary/rentals/apartment/1-bedroom/downtown/pet-friendly/21994,Apartment,1232,1,700,1.0,2,0,1,0,1,0,0,1
+Immediate,2000-01-01 00:00:00,Downtown,51.047691,-114.081481,/ab/calgary/rentals/apartment/1-bedroom/downtown/pet-friendly/393080,Apartment,1300,2,763,1.0,2,2,0,0,0,0,0,1
+Immediate,2000-01-01 00:00:00,Bayview,50.971823,-114.108811,/ab/calgary/rentals/apartment/1-bedroom/bayview/pet-friendly/343051,Apartment,1299,1,790,1.0,2,2,1,0,1,0,0,1
+Immediate,2000-01-01 00:00:00,Lower Mount Royal,51.038478,-114.08591,/ab/calgary/rentals/apartment/1-bedroom/lower-mount-royal/pet-friendly/22012,Apartment,1268,1,800,1.0,2,2,1,0,1,0,0,1
+May 01,2022-05-01 00:00:00,University Heights,51.0702357,-114.1252561,/ab/calgary/rentals/apartment/1-bedroom/university-heights/pet-friendly/20548,Apartment,1219,1,650,1.0,2,2,1,0,1,0,0,5
+Immediate,2000-01-01 00:00:00,Glenbrook,51.0243269,-114.1627659,/ab/calgary/rentals/apartment/2-bedrooms/glenbrook/pet-friendly/462352,Apartment,1275,2,1050,2.0,2,2,1,0,1,0,0,1
+Immediate,2000-01-01 00:00:00,Bridgeland,51.0565375,-114.0492047,/ab/calgary/rentals/apartment/1-bedroom/bridgeland/pet-friendly/355717,Apartment,1275,2,811,1.0,2,2,1,1,1,0,0,1
+Immediate,2000-01-01 00:00:00,Mission,51.0292343,-114.0649091,/ab/calgary/rentals/apartment/1-bedroom/mission/pet-friendly/453881,Apartment,1234,1,695,1.0,2,2,1,0,1,0,0,1
+Immediate,2000-01-01 00:00:00,Beltline,51.0396021,-114.0757989,/ab/calgary/rentals/apartment/1-bedroom/beltline/299469,Apartment,1300,1,990,1.0,0,0,1,0,1,0,0,1
+Immediate,2000-01-01 00:00:00,Windsor Park,51.0026511,-114.074333,/ab/calgary/rentals/apartment/2-bedrooms/windsor-park/pet-friendly/462353,Apartment,1285,2,830,1.0,2,2,1,0,1,0,0,1
+Immediate,2000-01-01 00:00:00,Carrington,51.184118227946,-114.07281422356,/ab/calgary/rentals/apartment/1-bedroom/carrington/pet-friendly/472666,Apartment,1248,1,641,1.0,2,2,0,0,1,0,0,1
+Immediate,2000-01-01 00:00:00,Somerset,50.8961114,-114.0688941,/ab/calgary/rentals/apartment/2-bedrooms/somerset/485791,Apartment,1290,2,900,2.0,0,0,1,1,1,0,0,1
+Immediate,2000-01-01 00:00:00,University Heights,51.0707435,-114.1279537,/ab/calgary/rentals/apartment/2-bedrooms/university-heights/pet-friendly/485741,Apartment,1300,2,700,1.0,2,0,1,0,1,0,0,1
+Immediate,2000-01-01 00:00:00,Beltline,51.0391999,-114.0963065,/ab/calgary/rentals/apartment/1-bedroom/beltline/pet-friendly/356502,Apartment,1269,1,700,1.0,2,0,1,0,1,0,0,1
+Immediate,2000-01-01 00:00:00,Montgomery,51.073699,-114.1633141,/ab/calgary/rentals/apartment/2-bedrooms/montgomery/pet-friendly/435330,Apartment,1201,2,800,0,2,2,1,0,1,0,0,1
+Immediate,2000-01-01 00:00:00,Bankview,51.0374002,-114.1020563,/ab/calgary/rentals/apartment/1-bedroom/bankview/pet-friendly/470017,Apartment,1225,1,669,1.0,2,2,1,0,1,0,0,1
+Immediate,2000-01-01 00:00:00,Triwood,51.0875663,-114.1101186,/ab/calgary/rentals/apartment/1-bedroom/triwood/pet-friendly/359909,Apartment,1300,2,741,1.0,2,2,1,0,1,0,0,1
+Immediate,2000-01-01 00:00:00,Rosscarrock,51.0436382,-114.1415541,/ab/calgary/rentals/apartment/1-bedroom/rosscarrock/pet-friendly/51405,Apartment,1299,2,750,1.0,2,2,1,0,1,0,0,1
+Immediate,2000-01-01 00:00:00,Huntington Hills,51.1147884,-114.0682795,/ab/calgary/rentals/apartment/1-bedroom/huntington-hills/pet-friendly/99281,Apartment,1275,2,804,1.0,2,2,1,0,1,0,0,1
+Immediate,2000-01-01 00:00:00,Altadore,51.0198076,-114.1001265,/ab/calgary/rentals/apartment/1-bedroom/altadore/pet-friendly/359908,Apartment,1299,2,788,1.0,2,2,1,0,1,0,0,1
+Immediate,2000-01-01 00:00:00,Bridgeland,51.0542397,-114.0509469,/ab/calgary/rentals/apartment/1-bedroom/bridgeland/pet-friendly/473398,Apartment,1300,2,666,1.0,2,2,1,0,1,0,0,1
+Immediate,2000-01-01 00:00:00,Capitol Hill,51.067638,-114.093356,/ab/calgary/rentals/apartment/1-bedroom/capitol-hill/pet-friendly/2544,Apartment,1299,2,700,1.0,2,2,1,0,1,0,0,1
+Immediate,2000-01-01 00:00:00,Bankview,51.0324264,-114.0962183,/ab/calgary/rentals/apartment/1-bedroom/bankview/pet-friendly/337415,Apartment,1299,2,968,1.0,2,2,1,0,1,0,0,1
+Immediate,2000-01-01 00:00:00,Crescent Heights,51.0640666,-114.0573792,/ab/calgary/rentals/apartment/1-bedroom/crescent-heights/pet-friendly/2542,Apartment,1250,2,820,1.0,2,2,1,0,1,0,0,1
+Immediate,2000-01-01 00:00:00,Cedarbrae,50.9536955,-114.1201631,/ab/calgary/rentals/apartment/1-bedroom/cedarbrae/pet-friendly/374359,Apartment,1225,2,708,1.0,2,2,1,0,1,0,0,1
+Immediate,2000-01-01 00:00:00,Haysboro,50.977276,-114.076662,/ab/calgary/rentals/apartment/1-bedroom/haysboro/pet-friendly/75289,Apartment,1299,2,870,1.0,2,2,1,1,1,0,0,1
+Immediate,2000-01-01 00:00:00,Bridgeland,51.0533337,-114.0543425,/ab/calgary/rentals/apartment/1-bedroom/bridgeland/pet-friendly/350947,Apartment,1249,2,764,1.0,2,2,1,0,1,0,0,1
+Immediate,2000-01-01 00:00:00,Braeside,50.962467,-114.1097039,/ab/calgary/rentals/apartment/1-bedroom/braeside/pet-friendly/481050,Apartment,1281,2,824,1.0,2,2,1,0,1,0,0,1
+Immediate,2000-01-01 00:00:00,Beltline,51.040504,-114.089806,/ab/calgary/rentals/apartment/2-bedrooms/beltline/pet-friendly/121385,Apartment,1250,2,800,1.0,2,0,1,0,1,0,0,1
+Immediate,2000-01-01 00:00:00,Mahogany,50.894226994473,-113.91024964816,/ab/calgary/rentals/apartment/1-bedroom/mahogany/pet-friendly/482796,Apartment,1278,1,638,1.0,2,2,0,0,1,0,0,1
+Immediate,2000-01-01 00:00:00,Greenview,51.1020364,-114.0537402,/ab/calgary/rentals/apartment/1-bedroom/greenview/pet-friendly/374053,Apartment,1299,1,905,1.0,2,2,1,0,1,0,0,1
+Immediate,2000-01-01 00:00:00,Lower Mount Royal,51.0357929,-114.0758108,/ab/calgary/rentals/apartment/2-bedrooms/lower-mount-royal/90153,Apartment,1250,2,900,1.0,0,0,1,0,1,0,1,1
+Immediate,2000-01-01 00:00:00,Beltline,51.0408474,-114.067481,/ab/calgary/rentals/apartment/1-bedroom/beltline/331832,Apartment,1250,1,900,1.0,0,0,1,0,1,0,0,1
+Immediate,2000-01-01 00:00:00,Beltline,51.038793,-114.077172,/ab/calgary/rentals/apartment/1-bedroom/beltline/482532,Apartment,1295,1,449,1.0,0,0,1,0,1,0,0,1
+Immediate,2000-01-01 00:00:00,Mission,51.0368878,-114.0708571,/ab/calgary/rentals/apartment/1-bedroom/mission/pet-friendly/468621,Apartment,1270,1,630,1.0,2,2,1,0,1,0,0,1
+Immediate,2000-01-01 00:00:00,Downtown,51.0474854,-114.0877257,/ab/calgary/rentals/apartment/1-bedroom/downtown/pet-friendly/400444,Apartment,1286,1,543,1.0,2,2,1,0,1,1,1,1
+Immediate,2000-01-01 00:00:00,Lower Mount Royal,51.037179,-114.079018,/ab/calgary/rentals/apartment/2-bedrooms/lower-mount-royal/pet-friendly/139007,Apartment,1300,2,1000,1.0,2,0,1,0,1,0,0,1
+Immediate,2000-01-01 00:00:00,Chinook Park,50.9803906,-114.0524379,/ab/calgary/rentals/apartment/3-bedrooms/chinook-park/pet-friendly/477703,Apartment,1250,3,465,1.0,2,0,1,0,1,0,0,1
+Immediate,2000-01-01 00:00:00,Lower Mount Royal,51.0387505,-114.086703,/ab/calgary/rentals/apartment/1-bedroom/lower-mount-royal/481965,Apartment,1300,1,470,1.0,0,0,1,1,1,0,0,1
+Immediate,2000-01-01 00:00:00,Bankview,51.035142,-114.0999207,/ab/calgary/rentals/apartment/1-bedroom/bankview/307481,Apartment,1275,1,740,1.0,0,0,1,0,1,0,0,1
+Immediate,2000-01-01 00:00:00,Acadia,50.9668952,-114.0671346,/ab/calgary/rentals/apartment/2-bedrooms/acadia/pet-friendly/129082,Apartment,1200,2,1030,1.0,2,2,1,0,1,0,0,1
+Immediate,2000-01-01 00:00:00,Oliver,50.9675572,-114.0739902,/ab/calgary/rentals/apartment/1-bedroom/oliver/pet-friendly/131502,Apartment,1275,1,752,1.0,2,2,1,0,1,0,0,1
+Immediate,2000-01-01 00:00:00,Dalhousie,51.1030746,-114.150732,/ab/calgary/rentals/apartment/1-bedroom/dalhousie/147423,Apartment,1250,2,998,1.0,0,0,1,1,1,0,0,1
+Apr 30,2022-04-30 00:00:00,Thorncliffe,51.1094739,-114.0676836,/ab/calgary/rentals/apartment/2-bedrooms/thorncliffe/pet-friendly/22935,Apartment,1259,2,751,1.0,2,2,1,0,1,0,0,4
+May 01,2022-05-01 00:00:00,Connaught,51.04338,-114.08903,/ab/calgary/rentals/apartment/1-bedroom/connaught/pet-friendly/480178,Apartment,1250,0,482,1.0,2,2,1,0,1,0,0,5
+May 01,2022-05-01 00:00:00,Walden,50.8738894,-114.0390593,/ab/calgary/rentals/apartment/1-bedroom/walden/314007,Apartment,1225,1,686,1.0,0,0,1,0,1,0,0,5
+May 01,2022-05-01 00:00:00,Southwood,50.952848,-114.086414,/ab/calgary/rentals/apartment/2-bedrooms/southwood/pet-friendly/106122,Apartment,1270,2,800,1.0,2,0,1,0,1,0,0,5
+May 01,2022-05-01 00:00:00,Kingsland,50.9840753,-114.0727635,/ab/calgary/rentals/apartment/1-bedroom/kingsland/pet-friendly/448227,Apartment,1244,1,553,1.0,2,2,1,0,1,0,0,5
+May 01,2022-05-01 00:00:00,Sunnyside,51.0574393,-114.0757826,/ab/calgary/rentals/apartment/2-bedrooms/sunnyside/238,Apartment,1280,2,1025,1.0,0,0,1,0,1,0,0,5
+May 06,2022-05-06 00:00:00,Beltline,51.04313,-114.0640803,/ab/calgary/rentals/apartment/1-bedroom/beltline/pet-friendly/111726,Apartment,1275,1,644,1.0,2,2,1,0,1,0,0,5
+May 08,2022-05-08 00:00:00,Lower Mount Royal,51.0410158,-114.0924132,/ab/calgary/rentals/apartment/1-bedroom/lower-mount-royal/pet-friendly/20330,Apartment,1269,1,657,1.0,2,2,1,0,1,0,0,5
+May 15,2022-05-15 00:00:00,Mahogany,50.8986843,-113.9392556,/ab/calgary/rentals/apartment/1-bedroom/mahogany/412051,Apartment,1300,1,601,1.0,0,0,1,0,1,0,0,5
+May 15,2022-05-15 00:00:00,Downtown,51.098753,-114.056178,/ab/calgary/rentals/apartment/1-bedroom/downtown/pet-friendly/27229,Apartment,1229,1,560,1.0,2,2,1,0,1,0,0,5
+May 15,2022-05-15 00:00:00,University Heights,51.0717464,-114.1271966,/ab/calgary/rentals/apartment/1-bedroom/university-heights/pet-friendly/22009,Apartment,1279,1,675,1.0,2,2,1,1,1,0,0,5
+May 15,2022-05-15 00:00:00,Vista Heights,51.0660494,-114.0101472,/ab/calgary/rentals/apartment/1-bedroom/vista-heights/pet-friendly/463114,Apartment,1269,1,600,1.0,2,2,1,0,1,0,0,5
+May 17,2022-05-17 00:00:00,Radisson Heights,51.048814,-113.988562,/ab/calgary/rentals/apartment/2-bedrooms/radisson-heights/pet-friendly/35003,Apartment,1259,2,894,1.0,2,2,1,0,1,0,0,5
+May 17,2022-05-17 00:00:00,Red Carpet,51.038967,-113.931151,/ab/calgary/rentals/apartment/2-bedrooms/red-carpet/pet-friendly/479453,Apartment,1270,2,744,1.0,2,2,0,0,0,0,0,5
+Jun 01,2022-06-01 00:00:00,Eau Claire,51.0509475,-114.0763966,/ab/calgary/rentals/apartment/1-bedroom/eau-claire/pet-friendly/139382,Apartment,1245,1,600,1.0,2,2,1,0,1,0,0,6
+Jun 01,2022-06-01 00:00:00,Sunalta,51.042099,-114.098389,/ab/calgary/rentals/apartment/2-bedrooms/sunalta/pet-friendly/455100,Apartment,1299,2,1100,1.0,2,2,1,1,1,0,0,6
+Jun 01,2022-06-01 00:00:00,Eau Claire,51.0513588,-114.0764941,/ab/calgary/rentals/apartment/1-bedroom/eau-claire/pet-friendly/100159,Apartment,1225,1,600,1.0,2,0,1,0,1,0,0,6
+Jun 01,2022-06-01 00:00:00,Bankview,51.036202,-114.100612,/ab/calgary/rentals/apartment/2-bedrooms/bankview/pet-friendly/430402,Apartment,1300,2,750,1.0,2,2,1,0,1,0,0,6
+Jun 01,2022-06-01 00:00:00,Erlton,51.028421,-114.061178,/ab/calgary/rentals/apartment/2-bedrooms/erlton/pet-friendly/95525,Apartment,1250,2,1100,1.0,2,0,1,0,0,0,0,6
+Jun 01,2022-06-01 00:00:00,Beltline,51.0392117,-114.0763558,/ab/calgary/rentals/apartment/1-bedroom/beltline/485826,Apartment,1250,1,550,1.0,0,0,1,0,1,0,0,6
+Jun 01,2022-06-01 00:00:00,Skyview,51.164257,-113.950593,/ab/calgary/rentals/apartment/1-bedroom/skyview/pet-friendly/290307,Apartment,1259,1,593,1.0,2,2,1,0,1,0,0,6
+Jun 01,2022-06-01 00:00:00,New Brighton,50.9204412,-113.9337497,/ab/calgary/rentals/apartment/2-bedrooms/new-brighton/130959,Apartment,1300,2,644,1.0,0,0,1,0,1,0,0,6
+Jun 01,2022-06-01 00:00:00,Capitol Hill,51.0672244,-114.0965029,/ab/calgary/rentals/apartment/1-bedroom/capitol-hill/pet-friendly/453885,Apartment,1300,2,593,1.0,2,2,1,0,1,0,0,6
+Jun 01,2022-06-01 00:00:00,Lincoln Park,51.0075293,-114.1330461,/ab/calgary/rentals/apartment/1-bedroom/lincoln-park/pet-friendly/407707,Apartment,1300,1,540,1.0,2,2,1,0,1,0,0,6
+Jun 01,2022-06-01 00:00:00,Thorncliffe,51.109139,-114.067578,/ab/calgary/rentals/apartment/2-bedrooms/thorncliffe/3614,Apartment,1245,2,800,1.0,0,0,1,0,1,0,0,6
+Jun 08,2022-06-08 00:00:00,Connaught,51.0393172,-114.0831205,/ab/calgary/rentals/apartment/1-bedroom/connaught/pet-friendly/328914,Apartment,1290,1,615,1.0,2,2,1,0,1,0,0,6
+Jun 15,2022-06-15 00:00:00,Renfrew,51.06168945438,-114.053045879745,/ab/calgary/rentals/apartment/1-bedroom/renfrew/pet-friendly/146466,Apartment,1250,1,750,1.0,2,2,1,1,1,0,0,6
+Aug 20,2022-08-20 00:00:00,Belmont,50.8672188,-114.0662682,/ab/calgary/rentals/apartment/1-bedroom/belmont/412056,Apartment,1300,1,650,1.0,0,0,1,1,1,1,1,8
+call for availability,call for availability,University Heights,51.069674873442,-114.127019422754,/ab/calgary/rentals/apartment/2-bedrooms/university-heights/483259,Apartment,1223,2,825,1.0,0,0,1,1,1,0,0,call for availability
+call for availability,call for availability,Seton,50.885391963462,-113.953482454956,/ab/calgary/rentals/apartment/1-bedroom/seton/485637,Apartment,1290,1,700,1.0,0,0,1,0,0,0,0,call for availability
+call for availability,call for availability,Connaught,51.0406581,-114.0924003,/ab/calgary/rentals/apartment/1-bedroom/connaught/pet-friendly/39621,Apartment,1225,2,801,1.0,2,2,1,0,1,0,0,call for availability
+call for availability,call for availability,Sunalta,51.0402381,-114.095706,/ab/calgary/rentals/apartment/1-bedroom/sunalta/483389,Apartment,1300,2,850,1.0,0,0,1,0,1,0,0,call for availability
+call for availability,call for availability,Southwood,50.9512148,-114.0853209,/ab/calgary/rentals/apartment/1-bedroom/southwood/pet-friendly/59980,Apartment,1250,3,1020,1.0,2,0,1,0,1,0,0,call for availability
+call for availability,call for availability,Downtown,51.047748282615,-114.077661308598,/ab/calgary/rentals/apartment/1-bedroom/downtown/pet-friendly/14548,Apartment,1299,2,748,1.0,2,0,1,1,1,0,0,call for availability
+call for availability,call for availability,Victoria Park,51.0415203,-114.055738,/ab/calgary/rentals/apartment/1-bedroom/victoria-park/pet-friendly/416372,Apartment,,1,441,1.0,2,2,1,0,1,0,0,call for availability
+call for availability,call for availability,Downtown,51.049105,-114.0805519,/ab/calgary/rentals/apartment/1-bedroom/downtown/340058,Apartment,,2,838,1.0,0,0,1,0,1,0,0,call for availability
+call for availability,call for availability,Beltline,51.0408851,-114.0838949,/ab/calgary/rentals/apartment/1-bedroom/beltline/pet-friendly/312965,Apartment,,1,700,1.0,2,0,1,1,1,1,1,call for availability
+call for availability,call for availability,Downtown,51.0457187,-114.0805283,/ab/calgary/rentals/apartment/1-bedroom/downtown/pet-friendly/17394,Apartment,,2,833,1.0,2,2,1,0,1,0,0,call for availability
+call for availability,call for availability,South Calgary,51.0302244,-114.0968833,/ab/calgary/rentals/apartment/2-bedrooms/south-calgary/pet-friendly/443323,Apartment,,2,850,1.0,2,2,1,0,1,0,0,call for availability
+call for availability,call for availability,Highland Park,51.090537,-114.0598406,/ab/calgary/rentals/apartment/1-bedroom/highland-park/pet-friendly/102502,Apartment,,1,536,1.0,0,2,1,0,1,0,0,call for availability
+call for availability,call for availability,Lower Mount Royal,51.035721,-114.083918,/ab/calgary/rentals/apartment/1-bedroom/lower-mount-royal/pet-friendly/406917,Apartment,,1,613,1.0,2,0,1,0,1,0,0,call for availability
+call for availability,call for availability,Windsor Park,51.002155,-114.07774,/ab/calgary/rentals/apartment/2-bedrooms/windsor-park/328458,Apartment,,2,850,1.0,0,0,1,0,1,0,0,call for availability
+call for availability,call for availability,Beltline,51.039783,-114.07958,/ab/calgary/rentals/apartment/1-bedroom/beltline/pet-friendly/440472,Apartment,,1,517,1.0,2,2,1,0,1,1,1,call for availability
+call for availability,call for availability,Cornerstone,51.1639501,-113.9457195,/ab/calgary/rentals/apartment/1-bedroom/cornerstone/pet-friendly/406865,Apartment,,1,632,1.0,2,2,1,0,1,0,0,call for availability
+call for availability,call for availability,Richmond/Knob Hill,51.0366966,-114.1070523,/ab/calgary/rentals/apartment/1-bedroom/richmond-knob-hill/pet-friendly/480081,Apartment,,1,688,1.0,2,0,1,0,1,0,0,call for availability
+call for availability,call for availability,Beltline,51.041047,-114.0745879,/ab/calgary/rentals/apartment/1-bedroom/beltline/pet-friendly/316346,Apartment,,1,545,1.0,2,2,1,0,1,0,0,call for availability
+call for availability,call for availability,Springbank Hill,51.0263635,-114.2093598,/ab/calgary/rentals/apartment/1-bedroom/springbank-hill/472610,Apartment,,1,600,1.0,0,0,1,1,1,0,0,call for availability
+call for availability,call for availability,Acadia,50.972543,-114.066826,/ab/calgary/rentals/apartment/1-bedroom/acadia/47994,Apartment,,2,1050,1.0,0,0,1,0,1,0,0,call for availability
+call for availability,call for availability,Hillhurst,51.0541824,-114.0934656,/ab/calgary/rentals/apartment/1-bedroom/hillhurst/93202,Apartment,,2,900,1.0,0,0,0,0,0,0,0,call for availability
+call for availability,call for availability,Hillhurst,51.0573022,-114.0912385,/ab/calgary/rentals/apartment/1-bedroom/hillhurst/pet-friendly/406644,Apartment,,1,466,1.0,0,2,1,0,1,0,0,call for availability
+call for availability,call for availability,Dalhousie,51.1006179,-114.1501253,/ab/calgary/rentals/apartment/1-bedroom/dalhousie/47042,Apartment,,2,907,1.0,0,0,1,1,1,1,0,call for availability
+call for availability,call for availability,Somerset,50.896387,-114.0702863,/ab/calgary/rentals/apartment/1-bedroom/somerset/pet-friendly/304559,Apartment,,1,778,1.0,2,2,1,0,1,0,0,call for availability
+call for availability,call for availability,Cambrian Heights,51.0844195,-114.0880892,/ab/calgary/rentals/apartment/1-bedroom/cambrian-heights/403746,Apartment,,2,812,1.0,0,0,0,0,0,0,0,call for availability
+call for availability,call for availability,Downtown,51.0467224,-114.0820723,/ab/calgary/rentals/apartment/1-bedroom/downtown/pet-friendly/17396,Apartment,,2,840,1.0,2,2,1,0,1,0,0,call for availability
+call for availability,call for availability,Crescent Heights,51.057301,-114.0571056,/ab/calgary/rentals/apartment/1-bedroom/crescent-heights/305938,Apartment,,2,830,1.0,0,0,1,0,1,0,0,call for availability
+call for availability,call for availability,Red Carpet,51.0389421,-113.9299716,/ab/calgary/rentals/apartment/1-bedroom/red-carpet/pet-friendly/305440,Apartment,,2,744,1.0,2,2,1,0,1,0,0,call for availability
+Immediate,2000-01-01 00:00:00,Beltline,51.0394624,-114.0705531,/ab/calgary/rentals/apartment/studio/beltline/pet-friendly/19662,Apartment,1333,0,455,1.0,2,2,1,0,1,0,0,1
+May 01,2022-05-01 00:00:00,Skyview,51.1566762,-113.9614519,/ab/calgary/rentals/apartment/1-bedroom/skyview/pet-friendly/430647,Apartment,1307,1,949,2.0,2,2,1,0,1,0,0,5
+May 15,2022-05-15 00:00:00,Lower Mount Royal,51.038478,-114.08591,/ab/calgary/rentals/apartment/1-bedroom/lower-mount-royal/pet-friendly/22012,Apartment,1310,2,850,1.0,2,2,1,0,1,0,0,5
+May 15,2022-05-15 00:00:00,Brentwood,51.0841687,-114.1287177,/ab/calgary/rentals/apartment/1-bedroom/brentwood/pet-friendly/377368,Apartment,1359,1,527,1.0,2,2,1,1,1,0,0,5
+May 31,2022-05-31 00:00:00,Rutland Park,51.0201453,-114.1439234,/ab/calgary/rentals/apartment/1-bedroom/rutland-park/pet-friendly/21997,Apartment,1319,1,704,1.0,2,2,1,0,1,0,0,5
+Immediate,2000-01-01 00:00:00,Bankview,51.034549,-114.0951214,/ab/calgary/rentals/apartment/2-bedrooms/bankview/pet-friendly/404960,Apartment,1301,2,665,1.0,2,2,1,0,1,0,0,1
+Immediate,2000-01-01 00:00:00,Downtown,51.043534,-114.082819,/ab/calgary/rentals/apartment/1-bedroom/downtown/pet-friendly/417846,Apartment,1356,0,389,1.0,2,2,1,0,0,0,0,1
+Immediate,2000-01-01 00:00:00,South Calgary,51.0302907,-114.0989466,/ab/calgary/rentals/apartment/1-bedroom/south-calgary/pet-friendly/2592,Apartment,1325,2,837,1.0,2,2,1,0,1,0,0,1
+Immediate,2000-01-01 00:00:00,Downtown,51.0403727,-114.065099,/ab/calgary/rentals/apartment/1-bedroom/downtown/pet-friendly/311903,Apartment,1375,2,711,1.0,2,2,1,0,1,0,0,1
+Immediate,2000-01-01 00:00:00,Beltline,51.0396021,-114.0757989,/ab/calgary/rentals/apartment/1-bedroom/beltline/299469,Apartment,1300,1,1098,1.0,0,0,1,0,1,0,0,1
+Immediate,2000-01-01 00:00:00,Sherwood,51.162123,-114.158091,/ab/calgary/rentals/apartment/1-bedroom/sherwood/82259,Apartment,1350,1,628,1.0,0,0,1,0,1,0,0,1
+Immediate,2000-01-01 00:00:00,Bankview,51.0325951,-114.0980284,/ab/calgary/rentals/apartment/1-bedroom/bankview/pet-friendly/3474,Apartment,1350,2,782,1.0,2,2,1,0,1,0,0,1
+Immediate,2000-01-01 00:00:00,Sage Hill,51.173242279807,-114.14254939591,/ab/calgary/rentals/apartment/1-bedroom/sage-hill/pet-friendly/406494,Apartment,1395,1,690,1.0,2,2,1,0,1,0,0,1
+Immediate,2000-01-01 00:00:00,Downtown,51.098753,-114.056178,/ab/calgary/rentals/apartment/1-bedroom/downtown/pet-friendly/27229,Apartment,1376,2,900,1.0,2,2,1,0,1,0,0,1
+Immediate,2000-01-01 00:00:00,Montgomery,51.0710815,-114.1589135,/ab/calgary/rentals/apartment/1-bedroom/montgomery/pet-friendly/467763,Apartment,1360,1,509,1.0,2,2,1,0,0,1,1,1
+Immediate,2000-01-01 00:00:00,Beltline,51.0391999,-114.0963065,/ab/calgary/rentals/apartment/1-bedroom/beltline/pet-friendly/356502,Apartment,1399,1,700,1.0,2,0,1,0,1,0,0,1
+Immediate,2000-01-01 00:00:00,Beltline,51.0414679,-114.0896591,/ab/calgary/rentals/apartment/1-bedroom/beltline/pet-friendly/3408,Apartment,1375,2,700,1.0,2,2,1,0,1,0,0,1
+Immediate,2000-01-01 00:00:00,Sunalta,51.0433457,-114.1052338,/ab/calgary/rentals/apartment/1-bedroom/sunalta/pet-friendly/373063,Apartment,1350,2,989,1.0,2,2,1,0,1,0,0,1
+Immediate,2000-01-01 00:00:00,Bankview,51.0307731,-114.0991578,/ab/calgary/rentals/apartment/1-bedroom/bankview/pet-friendly/2844,Apartment,1350,2,777,1.0,2,2,1,0,1,0,0,1
+Immediate,2000-01-01 00:00:00,Renfrew,51.0595404,-114.0510065,/ab/calgary/rentals/apartment/1-bedroom/renfrew/pet-friendly/466383,Apartment,1325,2,787,1.0,2,2,1,0,1,0,0,1
+Immediate,2000-01-01 00:00:00,Bankview,51.030137,-114.101078,/ab/calgary/rentals/apartment/1-bedroom/bankview/pet-friendly/51406,Apartment,1400,2,824,1.0,2,2,1,0,1,0,0,1
+Immediate,2000-01-01 00:00:00,Mission,51.0369918,-114.0752319,/ab/calgary/rentals/apartment/1-bedroom/mission/pet-friendly/466381,Apartment,1350,2,680,1.0,2,2,1,0,1,0,0,1
+Immediate,2000-01-01 00:00:00,Dover,51.0278599,-113.968347,/ab/calgary/rentals/apartment/1-bedroom/dover/pet-friendly/2247,Apartment,1325,1,550,1.0,2,2,1,0,1,0,0,1
+Immediate,2000-01-01 00:00:00,South Calgary,51.0302325,-114.101516,/ab/calgary/rentals/apartment/1-bedroom/south-calgary/pet-friendly/75880,Apartment,1325,2,736,1.0,2,2,1,0,1,0,0,1
+Immediate,2000-01-01 00:00:00,Sunalta,51.0425868,-114.0960443,/ab/calgary/rentals/apartment/1-bedroom/sunalta/pet-friendly/347214,Apartment,1400,2,812,1.0,2,2,1,0,1,0,0,1
+Immediate,2000-01-01 00:00:00,Dover Glen,51.021581,-113.9996748,/ab/calgary/rentals/apartment/1-bedroom/dover-glen/pet-friendly/32351,Apartment,1350,1,479,1.0,2,2,1,0,1,0,0,1
+Immediate,2000-01-01 00:00:00,Cliff Bungalow,51.0349101,-114.0774354,/ab/calgary/rentals/apartment/2-bedrooms/cliff-bungalow/pet-friendly/462351,Apartment,1375,2,760,1.0,2,2,1,0,1,0,0,1
+Immediate,2000-01-01 00:00:00,Manchester,51.003851858431,-114.068871734393,/ab/calgary/rentals/apartment/1-bedroom/manchester/pet-friendly/462707,Apartment,1395,1,552,1.0,2,2,1,1,1,0,1,1
+Immediate,2000-01-01 00:00:00,Bankview,51.0324953,-114.1021155,/ab/calgary/rentals/apartment/1-bedroom/bankview/pet-friendly/306895,Apartment,1330,1,600,1.0,2,0,1,0,1,0,0,1
+Immediate,2000-01-01 00:00:00,Greenview,51.1020364,-114.0537402,/ab/calgary/rentals/apartment/1-bedroom/greenview/pet-friendly/374053,Apartment,1369,1,876,1.0,2,2,1,0,1,0,0,1
+Immediate,2000-01-01 00:00:00,Parkhill-Stanley Park,51.0198885,-114.063747,/ab/calgary/rentals/apartment/1-bedroom/parkhill-stanley-park/482193,Apartment,1350,1,574,1.0,0,0,1,0,1,0,0,1
+Immediate,2000-01-01 00:00:00,Spruce Cliff,51.05055,-114.13387,/ab/calgary/rentals/apartment/2-bedrooms/spruce-cliff/483880,Apartment,1350,2,800,1.0,0,0,1,0,1,0,0,1
+Immediate,2000-01-01 00:00:00,Downtown,51.0474854,-114.0877257,/ab/calgary/rentals/apartment/1-bedroom/downtown/pet-friendly/400444,Apartment,1360,1,543,1.0,2,2,1,0,1,1,1,1
+Immediate,2000-01-01 00:00:00,East Village,51.0458488,-114.0498504,/ab/calgary/rentals/apartment/1-bedroom/east-village/pet-friendly/454557,Apartment,1400,0,475,1.0,2,2,1,0,1,1,0,1
+Immediate,2000-01-01 00:00:00,Connaught,51.0418433,-114.0768948,/ab/calgary/rentals/apartment/1-bedroom/connaught/pet-friendly/428303,Apartment,1301,1,750,0,2,2,1,0,1,0,0,1
+Immediate,2000-01-01 00:00:00,Beltline,51.040975,-114.089754,/ab/calgary/rentals/apartment/2-bedrooms/beltline/pet-friendly/315846,Apartment,1400,2,1000,2.0,2,2,0,0,0,0,0,1
+Immediate,2000-01-01 00:00:00,Oliver,50.9675572,-114.0739902,/ab/calgary/rentals/apartment/1-bedroom/oliver/pet-friendly/131502,Apartment,1325,1,752,1.0,2,2,1,0,1,0,0,1
+Immediate,2000-01-01 00:00:00,Acadia,50.9668952,-114.0671346,/ab/calgary/rentals/apartment/2-bedrooms/acadia/pet-friendly/129082,Apartment,1310,2,1030,1.0,2,2,1,0,1,0,0,1
+Immediate,2000-01-01 00:00:00,Tuxedo Park,51.071003,-114.062093,/ab/calgary/rentals/apartment/1-bedroom/tuxedo-park/pet-friendly/453887,Apartment,1315,1,563,1.0,2,2,1,0,1,0,0,1
+Apr 28,2022-04-28 00:00:00,Beltline,51.0395675,-114.0909057,/ab/calgary/rentals/apartment/1-bedroom/beltline/454949,Apartment,1350,1,627,1.0,0,0,1,1,1,0,0,4
+May 01,2022-05-01 00:00:00,Wildwood,51.0522649,-114.143739,/ab/calgary/rentals/apartment/1-bedroom/wildwood/pet-friendly/29347,Apartment,1319,1,756,1.0,2,2,1,0,1,0,0,5
+May 01,2022-05-01 00:00:00,Victoria Park,51.0415203,-114.055738,/ab/calgary/rentals/apartment/1-bedroom/victoria-park/pet-friendly/416372,Apartment,1300,1,441,1.0,2,2,1,0,1,0,0,5
+May 01,2022-05-01 00:00:00,Beltline,51.0398048,-114.0802735,/ab/calgary/rentals/apartment/1-bedroom/beltline/pet-friendly/435439,Apartment,1400,2,988,1.0,2,0,1,1,1,0,0,5
+May 01,2022-05-01 00:00:00,Connaught,51.04338,-114.08903,/ab/calgary/rentals/apartment/1-bedroom/connaught/pet-friendly/480178,Apartment,1400,0,537,1.0,2,2,1,0,1,0,0,5
+May 01,2022-05-01 00:00:00,Kingsland,50.9840753,-114.0727635,/ab/calgary/rentals/apartment/1-bedroom/kingsland/pet-friendly/448227,Apartment,1330,1,565,1.0,2,2,1,0,1,0,0,5
+May 01,2022-05-01 00:00:00,Lower Mount Royal,51.0367289,-114.0875194,/ab/calgary/rentals/apartment/2-bedrooms/lower-mount-royal/pet-friendly/318587,Apartment,1375,2,724,1.0,2,0,1,0,1,0,0,5
+May 01,2022-05-01 00:00:00,Hillhurst,51.0580776,-114.10591,/ab/calgary/rentals/apartment/1-bedroom/hillhurst/pet-friendly/485189,Apartment,1350,1,1000,1.0,2,2,0,0,0,0,0,5
+May 01,2022-05-01 00:00:00,Hillhurst,51.05879,-114.09376,/ab/calgary/rentals/apartment/2-bedrooms/hillhurst/485086,Apartment,1350,2,860,1.0,0,0,1,0,1,0,0,5
+May 01,2022-05-01 00:00:00,Beltline,51.0429559,-114.0885973,/ab/calgary/rentals/apartment/1-bedroom/beltline/pet-friendly/468620,Apartment,1328,1,699,1.0,2,2,1,0,1,0,0,5
+May 01,2022-05-01 00:00:00,Canyon Meadows,50.9496955,-114.0833709,/ab/calgary/rentals/apartment/2-bedrooms/canyon-meadows/130452,Apartment,1350,2,758,1.0,0,0,1,1,1,0,0,5
+May 01,2022-05-01 00:00:00,Inglewood,51.0400702,-114.0308983,/ab/calgary/rentals/apartment/1-bedroom/inglewood/pet-friendly/453951,Apartment,1365,1,690,1.0,2,2,1,0,1,0,0,5
+May 01,2022-05-01 00:00:00,Mission,51.0342074,-114.0702795,/ab/calgary/rentals/apartment/2-bedrooms/mission/413065,Apartment,1370,2,780,1.0,0,0,1,0,1,0,0,5
+May 13,2022-05-13 00:00:00,Beltline,51.0423884,-114.0657116,/ab/calgary/rentals/apartment/1-bedroom/beltline/pet-friendly/303992,Apartment,1385,1,575,1.0,2,2,1,0,1,0,0,5
+May 15,2022-05-15 00:00:00,Fonda,51.050119,-113.984449,/ab/calgary/rentals/apartment/2-bedrooms/fonda/pet-friendly/24334,Apartment,1353,2,894,1.0,2,2,1,0,1,0,0,5
+May 15,2022-05-15 00:00:00,Pineridge,51.0780821,-113.9544194,/ab/calgary/rentals/apartment/1-bedroom/pineridge/pet-friendly/19666,Apartment,1388,2,811,1.0,2,2,1,0,1,0,0,5
+May 15,2022-05-15 00:00:00,Skyview,51.164257,-113.950593,/ab/calgary/rentals/apartment/1-bedroom/skyview/pet-friendly/290307,Apartment,1379,2,851,1.0,2,2,1,0,1,0,0,5
+Jun 01,2022-06-01 00:00:00,Cliff Bungalow,51.037581,-114.0724697,/ab/calgary/rentals/apartment/2-bedrooms/cliff-bungalow/pet-friendly/63014,Apartment,1395,2,1090,1.0,2,2,1,0,1,0,0,6
+Jun 01,2022-06-01 00:00:00,Eau Claire,51.0513588,-114.0764941,/ab/calgary/rentals/apartment/1-bedroom/eau-claire/pet-friendly/100159,Apartment,1345,1,750,1.0,2,0,1,0,1,0,0,6
+Jun 01,2022-06-01 00:00:00,Tuxedo Park,51.0708639,-114.0580045,/ab/calgary/rentals/apartment/2-bedrooms/tuxedo-park/485890,Apartment,1400,2,1100,1.0,0,0,0,0,0,0,0,6
+Jun 01,2022-06-01 00:00:00,Skyview,51.1631271,-113.9578191,/ab/calgary/rentals/apartment/2-bedrooms/skyview/pet-friendly/305820,Apartment,1368,2,851,1.0,2,2,0,0,1,0,0,6
+Jun 01,2022-06-01 00:00:00,Mission,51.0315872,-114.0644094,/ab/calgary/rentals/apartment/1-bedroom/mission/pet-friendly/340784,Apartment,1350,1,2000,1.0,2,2,1,1,1,0,1,6
+Jun 01,2022-06-01 00:00:00,Quarry Park,50.961519460415,-114.007880666132,/ab/calgary/rentals/apartment/1-bedroom/quarry-park/pet-friendly/444016,Apartment,1330,1,520,1.0,2,2,1,0,1,0,0,6
+Jun 01,2022-06-01 00:00:00,Downtown,51.0498366,-114.0558229,/ab/calgary/rentals/apartment/1-bedroom/downtown/pet-friendly/56770,Apartment,1400,1,607,1.0,2,2,1,0,1,0,0,6
+Jun 01,2022-06-01 00:00:00,Pineridge,51.0749436,-113.9391706,/ab/calgary/rentals/apartment/2-bedrooms/pineridge/141108,Apartment,1400,2,1044,2.0,0,0,1,1,1,0,0,6
+Jul 01,2022-07-01 00:00:00,Mission,51.0292343,-114.0649091,/ab/calgary/rentals/apartment/1-bedroom/mission/pet-friendly/453881,Apartment,1355,1,695,1.0,2,2,1,0,1,0,0,7
+Aug 15,2022-08-15 00:00:00,Eau Claire,51.0511109,-114.0775748,/ab/calgary/rentals/apartment/1-bedroom/eau-claire/458376,Apartment,1395,1,550,1.0,0,0,1,1,1,0,0,8
+Sep 01,2022-09-01 00:00:00,Lower Mount Royal,51.036195647603,-114.0839861,/ab/calgary/rentals/apartment/1-bedroom/lower-mount-royal/139365,Apartment,1400,1,484,1.0,0,0,1,0,1,0,0,9
+call for availability,call for availability,Dalhousie,51.105631410141,-114.13927079895,/ab/calgary/rentals/apartment/2-bedrooms/dalhousie/pet-friendly/304565,Apartment,1370,2,1000,1.0,2,2,0,0,0,0,0,call for availability
+call for availability,call for availability,Beltline,51.0408851,-114.0838949,/ab/calgary/rentals/apartment/1-bedroom/beltline/pet-friendly/312965,Apartment,,2,800,1.0,2,0,1,0,1,0,0,call for availability
+call for availability,call for availability,Downtown,51.0436825,-114.0650951,/ab/calgary/rentals/apartment/1-bedroom/downtown/pet-friendly/63434,Apartment,,2,1020,1.0,2,0,1,1,1,0,0,call for availability
+call for availability,call for availability,Beltline,51.041582,-114.077916,/ab/calgary/rentals/apartment/1-bedroom/beltline/pet-friendly/127453,Apartment,,2,804,1.0,2,0,1,0,1,0,0,call for availability
+call for availability,call for availability,Lower Mount Royal,51.0366916,-114.083831,/ab/calgary/rentals/apartment/1-bedroom/lower-mount-royal/pet-friendly/333403,Apartment,,1,800,1.0,2,2,1,0,1,0,0,call for availability
+call for availability,call for availability,Walden,50.8738894,-114.0390593,/ab/calgary/rentals/apartment/1-bedroom/walden/314007,Apartment,,2,790,2.0,0,0,1,0,1,0,0,call for availability
+call for availability,call for availability,Kingsland,50.9838397,-114.072764,/ab/calgary/rentals/apartment/1-bedroom/kingsland/pet-friendly/426571,Apartment,,1,660,1.0,2,2,1,0,1,0,0,call for availability
+call for availability,call for availability,Beltline,51.039783,-114.07958,/ab/calgary/rentals/apartment/1-bedroom/beltline/pet-friendly/440472,Apartment,,1,485,1.0,2,2,1,0,1,0,0,call for availability
+call for availability,call for availability,Cornerstone,51.1639501,-113.9457195,/ab/calgary/rentals/apartment/1-bedroom/cornerstone/pet-friendly/406865,Apartment,,2,645,1.0,2,2,1,0,1,0,0,call for availability
+call for availability,call for availability,Beltline,51.0380278,-114.0746476,/ab/calgary/rentals/apartment/1-bedroom/beltline/pet-friendly/465134,Apartment,,1,578,1.0,2,2,1,0,1,0,0,call for availability
+call for availability,call for availability,Beltline,51.041047,-114.0745879,/ab/calgary/rentals/apartment/1-bedroom/beltline/pet-friendly/316346,Apartment,,1,559,1.0,2,2,1,0,1,0,0,call for availability
+call for availability,call for availability,Richmond/Knob Hill,51.0241944,-114.1149641,/ab/calgary/rentals/apartment/1-bedroom/richmond-knob-hill/pet-friendly/355606,Apartment,,1,575,1.0,2,2,1,0,1,0,0,call for availability
+call for availability,call for availability,Hillhurst,51.0564614,-114.0856152,/ab/calgary/rentals/apartment/1-bedroom/hillhurst/pet-friendly/142108,Apartment,,1,625,1.0,2,2,1,1,1,0,0,call for availability
+call for availability,call for availability,Crescent Heights,51.06451,-114.0635343,/ab/calgary/rentals/apartment/2-bedrooms/crescent-heights/pet-friendly/128138,Apartment,,2,810,1.0,2,2,1,0,1,0,0,call for availability
+call for availability,call for availability,Bankview,51.0335943,-114.1007674,/ab/calgary/rentals/apartment/1-bedroom/bankview/342417,Apartment,,2,1000,1.0,0,0,1,1,1,0,0,call for availability
+call for availability,call for availability,Somerset,50.896387,-114.0702863,/ab/calgary/rentals/apartment/1-bedroom/somerset/pet-friendly/304559,Apartment,,2,903,1.0,2,2,1,0,1,0,0,call for availability
+call for availability,call for availability,Red Carpet,51.0389421,-113.9299716,/ab/calgary/rentals/apartment/1-bedroom/red-carpet/pet-friendly/305440,Apartment,,2,800,1.0,2,2,1,0,1,0,0,call for availability
+May 01,2022-05-01 00:00:00,Sunalta,51.0423222,-114.0915126,/ab/calgary/rentals/apartment/1-bedroom/sunalta/pet-friendly/19955,Apartment,1479,1,630,1.0,2,2,1,0,1,0,0,5
+May 15,2022-05-15 00:00:00,Rundle,51.0773687,-113.9781017,/ab/calgary/rentals/apartment/2-bedrooms/rundle/pet-friendly/21358,Apartment,1499,2,820,1.0,2,2,0,0,0,0,0,5
+Jun 15,2022-06-15 00:00:00,Glamorgan,51.0160163,-114.1621168,/ab/calgary/rentals/apartment/2-bedrooms/glamorgan/pet-friendly/19663,Apartment,1418,2,994,1.0,2,2,1,0,1,0,0,6
+Jul 07,2022-07-07 00:00:00,Altadore,51.0229848,-114.1098195,/ab/calgary/rentals/apartment/1-bedroom/altadore/pet-friendly/468619,Apartment,1437,1,536,1.0,2,2,1,0,1,0,0,7
+Immediate,2000-01-01 00:00:00,Beltline,51.0396021,-114.0757989,/ab/calgary/rentals/apartment/1-bedroom/beltline/299469,Apartment,1425,0,900,1.0,0,0,1,0,1,0,0,1
+Immediate,2000-01-01 00:00:00,Sherwood,51.162123,-114.158091,/ab/calgary/rentals/apartment/1-bedroom/sherwood/82259,Apartment,1425,1,743,1.0,0,0,1,0,1,0,0,1
+Immediate,2000-01-01 00:00:00,Sunalta,51.040744,-114.098536,/ab/calgary/rentals/apartment/2-bedrooms/sunalta/pet-friendly/148465,Apartment,1450,2,1100,1.0,2,2,1,0,1,0,0,1
+Immediate,2000-01-01 00:00:00,Greenview,51.1020364,-114.0537402,/ab/calgary/rentals/apartment/2-bedrooms/greenview/pet-friendly/392874,Apartment,1463,2,876,1.0,2,2,1,0,1,0,0,1
+Immediate,2000-01-01 00:00:00,Kingsland,50.9922233,-114.0758158,/ab/calgary/rentals/apartment/3-bedrooms/kingsland/pet-friendly/354042,Apartment,1495,3,1100,1.0,2,2,1,1,1,0,1,1
+Immediate,2000-01-01 00:00:00,Connaught,51.0463834,-114.0874283,/ab/calgary/rentals/apartment/1-bedroom/connaught/pet-friendly/2244,Apartment,1450,2,850,1.0,2,2,1,0,1,0,0,1
+Immediate,2000-01-01 00:00:00,Haysboro,50.977276,-114.076662,/ab/calgary/rentals/apartment/1-bedroom/haysboro/pet-friendly/75289,Apartment,1500,3,949,1.0,2,2,1,1,1,0,0,1
+Immediate,2000-01-01 00:00:00,Currie Barracks,51.0155795,-114.1297034,/ab/calgary/rentals/apartment/1-bedroom/currie-barracks/pet-friendly/318260,Apartment,1475,1,650,1.0,0,2,1,0,1,0,0,1
+Immediate,2000-01-01 00:00:00,Springbank Hill,51.0263635,-114.2093598,/ab/calgary/rentals/apartment/1-bedroom/springbank-hill/472610,Apartment,1450,1,700,1.0,0,0,1,1,1,0,0,1
+Immediate,2000-01-01 00:00:00,Beltline,51.0408834,-114.067514,/ab/calgary/rentals/apartment/2-bedrooms/beltline/339120,Apartment,1450,2,1100,1.0,0,0,1,0,1,0,0,1
+Immediate,2000-01-01 00:00:00,Seton,50.875064259647,-113.95097853121,/ab/calgary/rentals/apartment/1-bedroom/seton/pet-friendly/478187,Apartment,1450,1,611,1.0,2,2,1,0,1,0,0,1
+Immediate,2000-01-01 00:00:00,Downtown,51.0474854,-114.0877257,/ab/calgary/rentals/apartment/1-bedroom/downtown/pet-friendly/400444,Apartment,1458,1,616,1.0,2,2,1,0,1,1,1,1
+Immediate,2000-01-01 00:00:00,Beltline,51.041837187973,-114.07202629444,/ab/calgary/rentals/apartment/1-bedroom/beltline/pet-friendly/433243,Apartment,1475,1,530,1.0,2,2,1,0,1,0,0,1
+Immediate,2000-01-01 00:00:00,Acadia,50.9668952,-114.0671346,/ab/calgary/rentals/apartment/2-bedrooms/acadia/pet-friendly/129082,Apartment,1440,3,1140,1.0,2,2,1,0,1,0,0,1
+Immediate,2000-01-01 00:00:00,Oliver,50.9675572,-114.0739902,/ab/calgary/rentals/apartment/1-bedroom/oliver/pet-friendly/131502,Apartment,1420,2,916,1.0,2,2,1,0,1,0,0,1
+May 01,2022-05-01 00:00:00,Downtown,51.0493489,-114.0720248,/ab/calgary/rentals/apartment/1-bedroom/downtown/pet-friendly/479758,Apartment,1475,1,850,1.0,2,0,1,1,1,0,0,5
+May 01,2022-05-01 00:00:00,Kingsland,50.9838397,-114.072764,/ab/calgary/rentals/apartment/1-bedroom/kingsland/pet-friendly/426571,Apartment,1422,1,571,1.0,2,2,1,0,1,0,0,5
+May 01,2022-05-01 00:00:00,Brentwood,51.086565,-114.128886,/ab/calgary/rentals/apartment/2-bedrooms/brentwood/48783,Apartment,1495,2,625,1.0,0,0,1,0,1,0,0,5
+May 01,2022-05-01 00:00:00,Bridlewood,50.9055494,-114.1186185,/ab/calgary/rentals/apartment/2-bedrooms/bridlewood/74887,Apartment,1495,2,980,2.0,0,0,1,1,1,0,0,5
+May 01,2022-05-01 00:00:00,West Hillhurst,51.05303,-114.118786,/ab/calgary/rentals/apartment/2-bedrooms/west-hillhurst/305204,Apartment,1500,2,1150,2.0,0,0,1,1,1,0,0,5
+May 13,2022-05-13 00:00:00,Beltline,51.0429559,-114.0885973,/ab/calgary/rentals/apartment/1-bedroom/beltline/pet-friendly/468620,Apartment,1471,1,611,1.0,2,2,1,0,1,0,0,5
+May 31,2022-05-31 00:00:00,Beltline,51.0405578,-114.0737581,/ab/calgary/rentals/apartment/2-bedrooms/beltline/339850,Apartment,1460,2,835,1.0,0,0,1,0,1,0,0,5
+Jun 01,2022-06-01 00:00:00,Brentwood,51.104918,-114.141668,/ab/calgary/rentals/apartment/2-bedrooms/brentwood/pet-friendly/479452,Apartment,1463,2,1145,1.0,2,2,0,0,0,0,0,6
+Jun 01,2022-06-01 00:00:00,South Calgary,51.0238338,-114.1043286,/ab/calgary/rentals/apartment/1-bedroom/south-calgary/pet-friendly/481246,Apartment,1495,1,536,1.0,2,2,1,0,1,0,0,6
+Jun 01,2022-06-01 00:00:00,West Hillhurst,51.0592961,-114.1107739,/ab/calgary/rentals/apartment/2-bedrooms/west-hillhurst/485530,Apartment,1470,2,1100,1.0,0,0,1,1,1,0,0,6
+Jun 01,2022-06-01 00:00:00,Erlton,51.028421,-114.061178,/ab/calgary/rentals/apartment/3-bedrooms/erlton/pet-friendly/68154,Apartment,1450,3,1200,1.0,2,0,1,0,0,0,0,6
+Jun 01,2022-06-01 00:00:00,Quarry Park,50.961519460415,-114.007880666132,/ab/calgary/rentals/apartment/1-bedroom/quarry-park/pet-friendly/444016,Apartment,1415,1,570,1.0,2,2,1,0,1,0,0,6
+Jun 01,2022-06-01 00:00:00,Bridgeland,51.0527055,-114.0425746,/ab/calgary/rentals/apartment/1-bedroom/bridgeland/pet-friendly/485210,Apartment,1500,1,665,1.0,2,2,1,0,1,0,0,6
+Jun 01,2022-06-01 00:00:00,Beltline,51.04134058437,-114.090017313533,/ab/calgary/rentals/apartment/2-bedrooms/beltline/pet-friendly/99685,Apartment,1450,2,800,1.0,2,0,1,1,1,0,0,6
+Jun 01,2022-06-01 00:00:00,South Calgary,51.0292889,-114.0960283,/ab/calgary/rentals/apartment/2-bedrooms/south-calgary/pet-friendly/391872,Apartment,1450,2,1020,1.0,2,2,0,0,0,0,0,6
+Jun 01,2022-06-01 00:00:00,West Hillhurst,51.0518728,-114.111145,/ab/calgary/rentals/apartment/2-bedrooms/west-hillhurst/pet-friendly/450051,Apartment,1500,2,800,1.0,2,2,0,0,0,0,0,6
+Jul 01,2022-07-01 00:00:00,Skyview,51.164257,-113.950593,/ab/calgary/rentals/apartment/1-bedroom/skyview/pet-friendly/290307,Apartment,1429,2,845,1.0,2,2,1,0,1,0,0,7
+Jul 01,2022-07-01 00:00:00,Windsor Park,51.00805,-114.081114,/ab/calgary/rentals/apartment/1-bedroom/windsor-park/pet-friendly/387408,Apartment,1500,1,723,1.0,2,2,1,0,1,0,0,7
+Aug 01,2022-08-01 00:00:00,Sunalta,51.0428872,-114.1062419,/ab/calgary/rentals/apartment/2-bedrooms/sunalta/pet-friendly/482499,Apartment,1495,2,1000,1.0,2,0,0,0,0,0,0,8
+call for availability,call for availability,Victoria Park,51.0415203,-114.055738,/ab/calgary/rentals/apartment/1-bedroom/victoria-park/pet-friendly/416372,Apartment,,1,545,1.0,2,2,1,0,1,0,0,call for availability
+call for availability,call for availability,Lower Mount Royal,51.0366916,-114.083831,/ab/calgary/rentals/apartment/1-bedroom/lower-mount-royal/pet-friendly/333403,Apartment,,2,800,1.0,2,2,1,0,1,0,0,call for availability
+call for availability,call for availability,Beltline,51.0423207,-114.0834087,/ab/calgary/rentals/apartment/1-bedroom/beltline/pet-friendly/335626,Apartment,,1,699,1.0,2,2,1,0,1,0,0,call for availability
+call for availability,call for availability,Beltline,51.0422674,-114.0845042,/ab/calgary/rentals/apartment/1-bedroom/beltline/pet-friendly/139573,Apartment,,1,680,1.0,2,2,1,0,1,0,0,call for availability
+call for availability,call for availability,Walden,50.8738894,-114.0390593,/ab/calgary/rentals/apartment/1-bedroom/walden/314007,Apartment,,2,808,2.0,0,0,1,0,1,0,0,call for availability
+call for availability,call for availability,Bankview,51.0318654,-114.1015524,/ab/calgary/rentals/apartment/1-bedroom/bankview/pet-friendly/395365,Apartment,,2,850,1.0,2,0,1,1,1,0,0,call for availability
+call for availability,call for availability,Kingsland,50.9834541,-114.0727649,/ab/calgary/rentals/apartment/1-bedroom/kingsland/pet-friendly/410845,Apartment,,1,576,1.0,2,2,1,0,1,0,0,call for availability
+call for availability,call for availability,Mount Pleasant,51.0676898,-114.0810832,/ab/calgary/rentals/apartment/1-bedroom/mount-pleasant/pet-friendly/344812,Apartment,,2,739,1.0,2,2,1,0,1,0,0,call for availability
+call for availability,call for availability,Lower Mount Royal,51.0367289,-114.0875194,/ab/calgary/rentals/apartment/2-bedrooms/lower-mount-royal/pet-friendly/318587,Apartment,,2,724,1.0,2,0,1,0,1,0,0,call for availability
+call for availability,call for availability,Lower Mount Royal,51.0376312,-114.0831935,/ab/calgary/rentals/apartment/1-bedroom/lower-mount-royal/316344,Apartment,,0,450,1.0,0,0,1,1,1,0,0,call for availability
+call for availability,call for availability,Cornerstone,51.1639501,-113.9457195,/ab/calgary/rentals/apartment/1-bedroom/cornerstone/pet-friendly/406865,Apartment,,2,721,1.0,2,2,1,0,1,0,0,call for availability
+call for availability,call for availability,Edgemont,51.126592,-114.137232,/ab/calgary/rentals/apartment/1-bedroom/edgemont/pet-friendly/5596,Apartment,,2,940,2.0,2,0,1,0,1,0,0,call for availability
+call for availability,call for availability,Beltline,51.0380278,-114.0746476,/ab/calgary/rentals/apartment/1-bedroom/beltline/pet-friendly/465134,Apartment,,1,551,1.0,2,2,1,0,1,0,0,call for availability
+call for availability,call for availability,West Springs,51.0640232,-114.2002681,/ab/calgary/rentals/apartment/1-bedroom/west-springs/pet-friendly/435770,Apartment,,1,628,1.0,2,2,1,1,1,0,0,call for availability
+call for availability,call for availability,Richmond/Knob Hill,51.0241944,-114.1149641,/ab/calgary/rentals/apartment/1-bedroom/richmond-knob-hill/pet-friendly/355606,Apartment,,1,650,1.0,2,2,1,0,1,0,0,call for availability
+call for availability,call for availability,Acadia,50.972543,-114.066826,/ab/calgary/rentals/apartment/1-bedroom/acadia/47994,Apartment,,2,1200,1.0,0,0,1,0,1,0,0,call for availability
+call for availability,call for availability,Walden,50.8736601,-114.0374756,/ab/calgary/rentals/apartment/1-bedroom/walden/327176,Apartment,,2,800,1.0,0,0,1,0,1,0,0,call for availability
+call for availability,call for availability,Somerset,50.896387,-114.0702863,/ab/calgary/rentals/apartment/1-bedroom/somerset/pet-friendly/304559,Apartment,,2,900,2.0,2,2,1,0,1,0,0,call for availability
+call for availability,call for availability,Bankview,51.035142,-114.0999207,/ab/calgary/rentals/apartment/1-bedroom/bankview/307481,Apartment,,2,940,1.0,0,0,1,0,1,0,1,call for availability
+Immediate,2000-01-01 00:00:00,Beltline,51.044004,-114.075438,/ab/calgary/rentals/apartment/1-bedroom/beltline/pet-friendly/361795,Apartment,1588,1,507,1.0,2,2,1,0,1,0,0,1
+Immediate,2000-01-01 00:00:00,Victoria Park,51.0405707,-114.0586474,/ab/calgary/rentals/apartment/1-bedroom/victoria-park/pet-friendly/476038,Apartment,1595,1,541,1.0,2,2,1,0,0,0,0,1
+Immediate,2000-01-01 00:00:00,Connaught,51.045561201644,-114.08818162038,/ab/calgary/rentals/apartment/1-bedroom/connaught/pet-friendly/471183,Apartment,1595,1,637,1.0,2,2,1,0,1,0,0,1
+Immediate,2000-01-01 00:00:00,University District,51.0775801,-114.1475871,/ab/calgary/rentals/apartment/1-bedroom/university-district/pet-friendly/434051,Apartment,1525,1,537,1.0,2,2,1,0,1,0,0,1
+May 01,2022-05-01 00:00:00,Skyview,51.1566762,-113.9614519,/ab/calgary/rentals/apartment/1-bedroom/skyview/pet-friendly/430647,Apartment,1563,2,1015,2.0,2,2,1,0,1,0,0,5
+May 01,2022-05-01 00:00:00,Oliver,51.04366769609,-114.07208817361,/ab/calgary/rentals/apartment/1-bedroom/oliver/pet-friendly/483743,Apartment,1505,1,500,1.0,2,2,1,0,1,0,1,5
+May 07,2022-05-07 00:00:00,Beltline,51.038842,-114.092201,/ab/calgary/rentals/apartment/1-bedroom/beltline/pet-friendly/318403,Apartment,1585,1,460,1.0,2,2,1,0,1,0,0,5
+May 07,2022-05-07 00:00:00,Bayview,50.971823,-114.108811,/ab/calgary/rentals/apartment/1-bedroom/bayview/pet-friendly/343051,Apartment,1550,1,790,1.0,2,2,1,0,1,0,0,5
+Immediate,2000-01-01 00:00:00,Beltline,51.0396021,-114.0757989,/ab/calgary/rentals/apartment/1-bedroom/beltline/299469,Apartment,1525,2,1324,1.0,0,0,1,0,1,0,0,1
+Immediate,2000-01-01 00:00:00,Beltline,51.038595,-114.09294,/ab/calgary/rentals/apartment/2-bedrooms/beltline/pet-friendly/29842,Apartment,1597,2,865,1.0,2,2,1,0,1,0,0,1
+Immediate,2000-01-01 00:00:00,Lakeview,50.994972,-114.119563,/ab/calgary/rentals/apartment/2-bedrooms/lakeview/pet-friendly/343049,Apartment,1576,2,840,1.0,2,0,1,0,1,0,0,1
+Immediate,2000-01-01 00:00:00,Kingsland,50.993504,-114.076081,/ab/calgary/rentals/apartment/1-bedroom/kingsland/pet-friendly/338360,Apartment,1502,1,740,1.0,2,2,1,0,1,0,0,1
+Immediate,2000-01-01 00:00:00,Downtown,51.043534,-114.082819,/ab/calgary/rentals/apartment/1-bedroom/downtown/pet-friendly/417846,Apartment,1574,1,696,1.0,2,2,1,0,0,0,0,1
+Immediate,2000-01-01 00:00:00,Lower Mount Royal,51.037553950372,-114.08528381847,/ab/calgary/rentals/apartment/1-bedroom/lower-mount-royal/pet-friendly/479609,Apartment,1549,1,775,1.0,2,2,1,0,1,0,0,1
+Immediate,2000-01-01 00:00:00,Carrington,51.184118227946,-114.07281422356,/ab/calgary/rentals/apartment/1-bedroom/carrington/pet-friendly/472666,Apartment,1548,2,814,1.0,2,2,0,0,1,0,0,1
+Immediate,2000-01-01 00:00:00,Skyview,51.1589191,-113.9612406,/ab/calgary/rentals/apartment/2-bedrooms/skyview/485737,Apartment,1550,2,822,2.0,0,0,1,0,1,0,0,1
+Immediate,2000-01-01 00:00:00,Beltline,51.0423207,-114.0834087,/ab/calgary/rentals/apartment/1-bedroom/beltline/pet-friendly/335626,Apartment,1575,2,958,1.0,2,2,1,0,1,0,0,1
+Immediate,2000-01-01 00:00:00,Hillhurst,51.0573254,-114.091283,/ab/calgary/rentals/apartment/1-bedroom/hillhurst/pet-friendly/427369,Apartment,1600,1,502,1.0,2,2,1,0,1,0,0,1
+Immediate,2000-01-01 00:00:00,Skyview,51.1589191,-113.9612406,/ab/calgary/rentals/apartment/2-bedrooms/skyview/pet-friendly/446819,Apartment,1600,2,943,2.0,2,2,1,0,1,0,0,1
+Immediate,2000-01-01 00:00:00,Seton,50.88121,-113.94732,/ab/calgary/rentals/apartment/2-bedrooms/seton/pet-friendly/483933,Apartment,1574,2,915,2.0,2,2,1,0,1,0,0,1
+Immediate,2000-01-01 00:00:00,Crescent Heights,51.0655858,-114.0614407,/ab/calgary/rentals/apartment/2-bedrooms/crescent-heights/484707,Apartment,1550,2,850,2.0,0,0,0,0,0,0,0,1
+Immediate,2000-01-01 00:00:00,Dover,51.0278599,-113.968347,/ab/calgary/rentals/apartment/1-bedroom/dover/pet-friendly/2247,Apartment,1525,2,800,1.0,2,2,1,0,1,0,0,1
+Immediate,2000-01-01 00:00:00,Dover Glen,51.021581,-113.9996748,/ab/calgary/rentals/apartment/1-bedroom/dover-glen/pet-friendly/32351,Apartment,1599,2,785,1.0,2,2,1,0,1,0,0,1
+Immediate,2000-01-01 00:00:00,Beltline,51.0418914,-114.0688895,/ab/calgary/rentals/apartment/1-bedroom/beltline/405813,Apartment,1600,1,570,1.0,0,0,1,0,1,0,0,1
+Immediate,2000-01-01 00:00:00,Seton,50.8777212,-113.9527732,/ab/calgary/rentals/apartment/2-bedrooms/seton/484346,Apartment,1600,2,800,1.0,0,0,0,0,1,0,0,1
+Immediate,2000-01-01 00:00:00,East Village,51.0458488,-114.0498504,/ab/calgary/rentals/apartment/1-bedroom/east-village/pet-friendly/454557,Apartment,1500,1,562,1.0,2,2,1,0,1,1,0,1
+Immediate,2000-01-01 00:00:00,Skyview,51.165190945056,-113.9567198,/ab/calgary/rentals/apartment/2-bedrooms/skyview/398409,Apartment,1560,2,744,2.0,0,0,1,0,1,0,0,1
+Immediate,2000-01-01 00:00:00,Acadia,50.9668952,-114.0671346,/ab/calgary/rentals/apartment/2-bedrooms/acadia/pet-friendly/129082,Apartment,1515,3,1140,1.0,2,2,1,0,1,0,0,1
+May 01,2022-05-01 00:00:00,Wildwood,51.0522649,-114.143739,/ab/calgary/rentals/apartment/1-bedroom/wildwood/pet-friendly/29347,Apartment,1589,2,945,1.0,2,2,1,0,1,0,0,5
+May 01,2022-05-01 00:00:00,Beltline,51.0398048,-114.0802735,/ab/calgary/rentals/apartment/1-bedroom/beltline/pet-friendly/435439,Apartment,1500,2,988,1.0,2,0,1,1,1,0,0,5
+May 01,2022-05-01 00:00:00,Auburn Bay,50.8947229,-113.9468356,/ab/calgary/rentals/apartment/2-bedrooms/auburn-bay/485867,Apartment,1600,2,800,2.0,0,0,1,0,1,0,0,5
+May 01,2022-05-01 00:00:00,Hillhurst,51.0598544,-114.0974074,/ab/calgary/rentals/apartment/2-bedrooms/hillhurst/pet-friendly/485617,Apartment,1600,2,882,1.0,2,2,1,1,1,0,0,5
+May 01,2022-05-01 00:00:00,Fairview,50.9813481,-114.0682095,/ab/calgary/rentals/apartment/2-bedrooms/fairview/pet-friendly/19658,Apartment,1589,2,864,1.0,2,0,1,0,1,0,0,5
+May 01,2022-05-01 00:00:00,Kingsland,50.9838397,-114.072764,/ab/calgary/rentals/apartment/1-bedroom/kingsland/pet-friendly/426571,Apartment,1500,1,687,1.0,2,2,1,0,1,0,0,5
+May 01,2022-05-01 00:00:00,Mckenzie Towne,50.918406,-113.9718359,/ab/calgary/rentals/apartment/2-bedrooms/mckenzie-towne/pet-friendly/485180,Apartment,1550,2,750,1.0,2,2,1,0,1,0,0,5
+May 01,2022-05-01 00:00:00,Mahogany,50.8985696,-113.9381964,/ab/calgary/rentals/apartment/2-bedrooms/mahogany/pet-friendly/114605,Apartment,1575,2,700,1.0,2,2,1,0,1,0,0,5
+May 01,2022-05-01 00:00:00,Cliff Bungalow,51.0317079,-114.0730935,/ab/calgary/rentals/apartment/1-bedroom/cliff-bungalow/pet-friendly/466588,Apartment,1525,1,516,1.0,2,2,1,0,1,0,0,5
+May 01,2022-05-01 00:00:00,Victoria Park,51.0398526,-114.0665193,/ab/calgary/rentals/apartment/1-bedroom/victoria-park/pet-friendly/368446,Apartment,1550,1,498,1.0,2,2,1,0,1,0,0,5
+May 06,2022-05-06 00:00:00,Beltline,51.04313,-114.0640803,/ab/calgary/rentals/apartment/1-bedroom/beltline/pet-friendly/111726,Apartment,1555,2,831,1.0,2,2,1,0,1,0,0,5
+May 15,2022-05-15 00:00:00,South Calgary,51.0302396,-114.1029538,/ab/calgary/rentals/apartment/2-bedrooms/south-calgary/pet-friendly/485614,Apartment,1600,2,745,1.0,2,0,1,0,1,0,0,5
+May 15,2022-05-15 00:00:00,University Heights,51.0717464,-114.1271966,/ab/calgary/rentals/apartment/1-bedroom/university-heights/pet-friendly/22009,Apartment,1549,2,900,1.0,2,2,1,1,1,0,0,5
+May 15,2022-05-15 00:00:00,Panorama Hills,51.1697359,-114.0708562,/ab/calgary/rentals/apartment/1-bedroom/panorama-hills/pet-friendly/466353,Apartment,1549,1,950,2.0,2,2,0,0,0,1,1,5
+May 15,2022-05-15 00:00:00,Kingsland,50.9834541,-114.0727649,/ab/calgary/rentals/apartment/1-bedroom/kingsland/pet-friendly/410845,Apartment,1533,1,664,1.0,2,2,1,0,1,0,0,5
+Jun 01,2022-06-01 00:00:00,Skyview,51.1631271,-113.9578191,/ab/calgary/rentals/apartment/2-bedrooms/skyview/pet-friendly/305820,Apartment,1548,2,945,2.0,2,2,0,0,1,0,0,6
+Jun 01,2022-06-01 00:00:00,Somerset,50.8971854,-114.0689736,/ab/calgary/rentals/apartment/2-bedrooms/somerset/pet-friendly/19310,Apartment,1550,2,900,1.0,2,0,1,1,1,0,0,6
+Jun 01,2022-06-01 00:00:00,Bowness,51.083297035573,-114.19659258532,/ab/calgary/rentals/apartment/2-bedrooms/bowness/427573,Apartment,1600,2,900,1.0,0,0,1,1,1,0,0,6
+Jun 01,2022-06-01 00:00:00,Beltline,51.038793,-114.077172,/ab/calgary/rentals/apartment/1-bedroom/beltline/485623,Apartment,1595,1,548,1.0,0,0,1,0,1,0,0,6
+Jun 01,2022-06-01 00:00:00,Quarry Park,50.961519460415,-114.007880666132,/ab/calgary/rentals/apartment/1-bedroom/quarry-park/pet-friendly/444016,Apartment,1500,1,610,1.0,2,2,1,0,1,0,0,6
+Jun 01,2022-06-01 00:00:00,Tuxedo Park,51.071003,-114.062093,/ab/calgary/rentals/apartment/1-bedroom/tuxedo-park/pet-friendly/453887,Apartment,1600,2,780,1.0,2,2,1,0,1,0,0,6
+Jul 01,2022-07-01 00:00:00,Mission,51.0292343,-114.0649091,/ab/calgary/rentals/apartment/1-bedroom/mission/pet-friendly/453881,Apartment,1559,2,830,1.0,2,2,1,0,1,0,0,7
+Jul 01,2022-07-01 00:00:00,East Village,51.0473453,-114.0502366,/ab/calgary/rentals/apartment/1-bedroom/east-village/140360,Apartment,1600,1,675,1.0,0,0,1,1,1,0,0,7
+call for availability,call for availability,Seton,50.885391963462,-113.953482454956,/ab/calgary/rentals/apartment/1-bedroom/seton/485637,Apartment,1530,2,958,2.0,0,0,1,0,1,0,0,call for availability
+call for availability,call for availability,Victoria Park,51.0415203,-114.055738,/ab/calgary/rentals/apartment/1-bedroom/victoria-park/pet-friendly/416372,Apartment,,1,572,1.0,2,2,1,0,1,0,0,call for availability
+call for availability,call for availability,Highland Park,51.090537,-114.0598406,/ab/calgary/rentals/apartment/1-bedroom/highland-park/pet-friendly/102502,Apartment,,2,890,2.0,0,2,1,0,1,0,0,call for availability
+call for availability,call for availability,Mount Pleasant,51.0676898,-114.0810832,/ab/calgary/rentals/apartment/1-bedroom/mount-pleasant/pet-friendly/344812,Apartment,,2,777,1.0,2,2,1,0,1,0,0,call for availability
+call for availability,call for availability,Cornerstone,51.1639501,-113.9457195,/ab/calgary/rentals/apartment/1-bedroom/cornerstone/pet-friendly/406865,Apartment,,2,901,2.0,2,2,1,0,1,0,0,call for availability
+call for availability,call for availability,Beltline,51.041047,-114.0745879,/ab/calgary/rentals/apartment/1-bedroom/beltline/pet-friendly/316346,Apartment,,2,752,2.0,2,2,1,0,1,0,0,call for availability
+call for availability,call for availability,Richmond/Knob Hill,51.0241944,-114.1149641,/ab/calgary/rentals/apartment/1-bedroom/richmond-knob-hill/pet-friendly/355606,Apartment,,2,720,2.0,2,2,1,0,1,0,0,call for availability
+call for availability,call for availability,Walden,50.8736601,-114.0374756,/ab/calgary/rentals/apartment/1-bedroom/walden/327176,Apartment,,2,914,2.0,0,0,1,0,1,0,0,call for availability
+call for availability,call for availability,Renfrew,51.058042,-114.049127,/ab/calgary/rentals/apartment/1-bedroom/renfrew/302543,Apartment,,1,745,1.0,0,0,1,0,1,0,0,call for availability
+Immediate,2000-01-01 00:00:00,Bayview,50.971823,-114.108811,/ab/calgary/rentals/apartment/1-bedroom/bayview/pet-friendly/343051,Apartment,1654,2,1040,2.0,2,2,1,0,1,0,0,1
+Immediate,2000-01-01 00:00:00,Beltline,51.044004,-114.075438,/ab/calgary/rentals/apartment/1-bedroom/beltline/pet-friendly/361795,Apartment,1648,1,611,1.0,2,2,1,0,1,0,0,1
+Immediate,2000-01-01 00:00:00,Victoria Park,51.0405707,-114.0586474,/ab/calgary/rentals/apartment/1-bedroom/victoria-park/pet-friendly/476038,Apartment,1618,1,535,1.0,2,2,1,0,0,0,0,1
+Immediate,2000-01-01 00:00:00,Skyview,51.1566762,-113.9614519,/ab/calgary/rentals/apartment/1-bedroom/skyview/pet-friendly/430647,Apartment,1632,2,1016,2.0,2,2,1,0,1,0,0,1
+Immediate,2000-01-01 00:00:00,University District,51.0775801,-114.1475871,/ab/calgary/rentals/apartment/1-bedroom/university-district/pet-friendly/434051,Apartment,1650,1,532,1.0,2,2,1,0,1,0,0,1
+Apr 28,2022-04-28 00:00:00,Beltline,51.038842,-114.092201,/ab/calgary/rentals/apartment/1-bedroom/beltline/pet-friendly/318403,Apartment,1677,1,445,1.0,2,2,1,0,1,0,0,4
+May 01,2022-05-01 00:00:00,Skyview,51.1564511,-113.9592373,/ab/calgary/rentals/apartment/2-bedrooms/skyview/pet-friendly/430648,Apartment,1636,2,1030,2.0,2,2,1,0,1,0,0,5
+May 09,2022-05-09 00:00:00,Downtown,51.043,-114.0602964,/ab/calgary/rentals/apartment/1-bedroom/downtown/pet-friendly/422955,Apartment,1668,1,600,1.0,2,2,1,0,1,0,0,5
+Immediate,2000-01-01 00:00:00,Kingsland,50.993504,-114.076081,/ab/calgary/rentals/apartment/1-bedroom/kingsland/pet-friendly/338360,Apartment,1635,2,945,1.0,2,2,1,0,1,0,0,1
+Immediate,2000-01-01 00:00:00,West Hillhurst,51.054636,-114.1167639,/ab/calgary/rentals/apartment/1-bedroom/west-hillhurst/pet-friendly/319079,Apartment,1650,1,684,1.0,2,2,1,0,1,0,0,1
+Immediate,2000-01-01 00:00:00,Bayview,50.971396,-114.109609,/ab/calgary/rentals/apartment/1-bedroom/bayview/pet-friendly/109509,Apartment,1643,1,629,1.0,2,2,1,0,1,0,0,1
+Immediate,2000-01-01 00:00:00,Lower Mount Royal,51.037553950372,-114.08528381847,/ab/calgary/rentals/apartment/1-bedroom/lower-mount-royal/pet-friendly/479609,Apartment,1606,1,775,1.0,2,2,1,0,1,0,0,1
+Immediate,2000-01-01 00:00:00,Carrington,51.184118227946,-114.07281422356,/ab/calgary/rentals/apartment/1-bedroom/carrington/pet-friendly/472666,Apartment,1648,2,902,2.0,2,2,0,0,1,0,0,1
+Immediate,2000-01-01 00:00:00,Montgomery,51.0710815,-114.1589135,/ab/calgary/rentals/apartment/1-bedroom/montgomery/pet-friendly/467763,Apartment,1630,2,734,1.0,2,2,1,0,0,1,1,1
+Immediate,2000-01-01 00:00:00,Montgomery,51.0710815,-114.1589135,/ab/calgary/rentals/apartment/2-bedrooms/montgomery/pet-friendly/485362,Apartment,1670,2,734,1.0,2,2,1,0,1,0,0,1
+Immediate,2000-01-01 00:00:00,Beltline,51.0414679,-114.0896591,/ab/calgary/rentals/apartment/1-bedroom/beltline/pet-friendly/3408,Apartment,1650,3,1012,1.0,2,2,1,0,1,0,0,1
+Immediate,2000-01-01 00:00:00,Victoria Park,51.0398526,-114.0665193,/ab/calgary/rentals/apartment/1-bedroom/victoria-park/pet-friendly/368446,Apartment,1650,1,570,1.0,2,2,1,0,1,0,0,1
+Immediate,2000-01-01 00:00:00,Mahogany,50.894226994473,-113.91024964816,/ab/calgary/rentals/apartment/1-bedroom/mahogany/pet-friendly/482796,Apartment,1608,2,810,1.0,2,2,0,0,1,0,0,1
+Immediate,2000-01-01 00:00:00,Renfrew,51.0592726,-114.0524325,/ab/calgary/rentals/apartment/2-bedrooms/renfrew/437791,Apartment,1700,2,800,1.0,0,0,1,1,1,0,1,1
+Immediate,2000-01-01 00:00:00,Downtown,51.0474854,-114.0877257,/ab/calgary/rentals/apartment/1-bedroom/downtown/pet-friendly/400444,Apartment,1650,1,543,1.0,2,2,1,0,1,1,1,1
+Immediate,2000-01-01 00:00:00,East Village,51.0470923,-114.0500534,/ab/calgary/rentals/apartment/1-bedroom/east-village/pet-friendly/404269,Apartment,1650,1,650,1.0,2,2,1,0,1,0,0,1
+Immediate,2000-01-01 00:00:00,Downtown,51.043534,-114.082819,/ab/calgary/rentals/apartment/1-bedroom/downtown/pet-friendly/417846,Apartment,1636,1,620,1.0,2,2,1,0,0,0,0,1
+May 01,2022-05-01 00:00:00,Banff Trail,51.0795299,-114.1154007,/ab/calgary/rentals/apartment/3-bedrooms/banff-trail/pet-friendly/461765,Apartment,1650,3,850,1.0,2,2,1,1,1,0,0,5
+May 01,2022-05-01 00:00:00,Kingsland,50.9834541,-114.0727649,/ab/calgary/rentals/apartment/1-bedroom/kingsland/pet-friendly/410845,Apartment,1691,2,782,1.0,2,2,1,0,1,0,0,5
+May 01,2022-05-01 00:00:00,Montgomery,51.0710815,-114.1589135,/ab/calgary/rentals/apartment/2-bedrooms/montgomery/pet-friendly/485299,Apartment,1670,2,734,1.0,2,2,1,0,1,0,0,5
+May 01,2022-05-01 00:00:00,Kingsland,50.9838397,-114.072764,/ab/calgary/rentals/apartment/1-bedroom/kingsland/pet-friendly/426571,Apartment,1663,2,779,1.0,2,2,1,0,1,0,0,5
+May 01,2022-05-01 00:00:00,Legacy,50.8741456,-114.0309653,/ab/calgary/rentals/apartment/2-bedrooms/legacy/485218,Apartment,1695,2,1040,2.0,0,0,1,0,1,0,0,5
+May 07,2022-05-07 00:00:00,Lakeview,50.994972,-114.119563,/ab/calgary/rentals/apartment/2-bedrooms/lakeview/pet-friendly/343049,Apartment,1660,2,870,1.0,2,0,1,0,1,0,0,5
+May 15,2022-05-15 00:00:00,Wildwood,51.0522649,-114.143739,/ab/calgary/rentals/apartment/1-bedroom/wildwood/pet-friendly/29347,Apartment,1609,2,945,1.0,2,2,1,0,1,0,0,5
+May 15,2022-05-15 00:00:00,University Heights,51.0717464,-114.1271966,/ab/calgary/rentals/apartment/1-bedroom/university-heights/pet-friendly/22009,Apartment,1679,2,900,1.0,2,2,1,1,1,0,0,5
+Jun 01,2022-06-01 00:00:00,South Calgary,51.0238338,-114.1043286,/ab/calgary/rentals/apartment/1-bedroom/south-calgary/pet-friendly/481246,Apartment,1695,1,607,1.0,2,2,1,0,1,0,0,6
+Jun 01,2022-06-01 00:00:00,Albert Park,51.0413985,-113.996870668262,/ab/calgary/rentals/apartment/2-bedrooms/albert-park/143556,Apartment,1650,2,998,2.0,0,0,1,0,1,0,0,6
+Jun 01,2022-06-01 00:00:00,Beltline,51.0431874,-114.0763767,/ab/calgary/rentals/apartment/2-bedrooms/beltline/448506,Apartment,1650,2,768,1.0,0,0,1,0,1,0,0,6
+Jun 01,2022-06-01 00:00:00,Auburn Bay,50.8841836,-113.9517528,/ab/calgary/rentals/apartment/2-bedrooms/auburn-bay/pet-friendly/449494,Apartment,1650,2,950,2.0,2,2,1,0,1,0,0,6
+Jun 01,2022-06-01 00:00:00,Sunalta,51.0432375,-114.1026627,/ab/calgary/rentals/apartment/2-bedrooms/sunalta/pet-friendly/370806,Apartment,1680,2,850,1.0,2,2,1,1,1,0,1,6
+Jul 01,2022-07-01 00:00:00,Eau Claire,51.0530356,-114.0661001,/ab/calgary/rentals/apartment/1-bedroom/eau-claire/pet-friendly/132584,Apartment,1700,1,560,1.0,0,2,1,1,1,0,0,7
+call for availability,call for availability,West Springs,51.064735378703,-114.209955114017,/ab/calgary/rentals/apartment/1-bedroom/west-springs/pet-friendly/407788,Apartment,,1,552,1.0,2,2,1,0,1,0,0,call for availability
+call for availability,call for availability,Beltline,51.0423207,-114.0834087,/ab/calgary/rentals/apartment/1-bedroom/beltline/pet-friendly/335626,Apartment,,2,936,1.0,2,2,1,0,1,0,0,call for availability
+call for availability,call for availability,Beltline,51.0422674,-114.0845042,/ab/calgary/rentals/apartment/1-bedroom/beltline/pet-friendly/139573,Apartment,,1,969,1.0,2,2,1,0,1,0,0,call for availability
+call for availability,call for availability,Windsor Park,51.00805,-114.081114,/ab/calgary/rentals/apartment/1-bedroom/windsor-park/pet-friendly/387408,Apartment,,1,827,1.0,2,2,1,0,1,0,0,call for availability
+call for availability,call for availability,Kingsland,50.9840753,-114.0727635,/ab/calgary/rentals/apartment/1-bedroom/kingsland/pet-friendly/448227,Apartment,,2,772,1.0,2,2,1,0,1,0,0,call for availability
+call for availability,call for availability,Mount Pleasant,51.0676898,-114.0810832,/ab/calgary/rentals/apartment/1-bedroom/mount-pleasant/pet-friendly/344812,Apartment,,2,807,1.0,2,2,1,0,1,0,0,call for availability
+call for availability,call for availability,Beltline,51.039783,-114.07958,/ab/calgary/rentals/apartment/1-bedroom/beltline/pet-friendly/440472,Apartment,,2,713,2.0,2,2,1,0,1,0,0,call for availability
+call for availability,call for availability,Cornerstone,51.1639501,-113.9457195,/ab/calgary/rentals/apartment/1-bedroom/cornerstone/pet-friendly/406865,Apartment,,3,907,2.0,2,2,1,0,1,0,0,call for availability
+call for availability,call for availability,West Springs,51.0640232,-114.2002681,/ab/calgary/rentals/apartment/1-bedroom/west-springs/pet-friendly/435770,Apartment,,1,636,1.0,2,2,1,1,1,1,0,call for availability
+call for availability,call for availability,Richmond/Knob Hill,51.0241944,-114.1149641,/ab/calgary/rentals/apartment/1-bedroom/richmond-knob-hill/pet-friendly/355606,Apartment,,1,685,1.0,2,2,1,0,1,0,0,call for availability
+call for availability,call for availability,Hillhurst,51.0541824,-114.0934656,/ab/calgary/rentals/apartment/1-bedroom/hillhurst/93202,Apartment,,2,1000,1.0,0,0,0,0,0,0,0,call for availability
+call for availability,call for availability,Hillhurst,51.0564614,-114.0856152,/ab/calgary/rentals/apartment/1-bedroom/hillhurst/pet-friendly/142108,Apartment,,2,802,1.0,2,2,1,1,1,0,0,call for availability
+Immediate,2000-01-01 00:00:00,Beltline,51.044004,-114.075438,/ab/calgary/rentals/apartment/1-bedroom/beltline/pet-friendly/361795,Apartment,1730,1,612,1.0,2,2,1,0,1,0,0,1
+Immediate,2000-01-01 00:00:00,Altadore,51.0229848,-114.1098195,/ab/calgary/rentals/apartment/1-bedroom/altadore/pet-friendly/468619,Apartment,1729,1,604,1.0,2,2,1,0,1,0,0,1
+Immediate,2000-01-01 00:00:00,Downtown,51.043,-114.0602964,/ab/calgary/rentals/apartment/1-bedroom/downtown/pet-friendly/422955,Apartment,1733,1,616,1.0,2,2,1,0,1,0,0,1
+Immediate,2000-01-01 00:00:00,University District,51.0775801,-114.1475871,/ab/calgary/rentals/apartment/1-bedroom/university-district/pet-friendly/434051,Apartment,1700,1,532,1.0,2,2,1,0,1,0,0,1
+May 01,2022-05-01 00:00:00,Skyview,51.1564511,-113.9592373,/ab/calgary/rentals/apartment/2-bedrooms/skyview/pet-friendly/430648,Apartment,1700,2,996,2.0,2,2,1,0,1,0,0,5
+May 01,2022-05-01 00:00:00,Oliver,51.04366769609,-114.07208817361,/ab/calgary/rentals/apartment/1-bedroom/oliver/pet-friendly/483743,Apartment,1755,1,600,1.0,2,2,1,0,1,0,1,5
+May 08,2022-05-08 00:00:00,Brentwood,51.0868171,-114.1280086,/ab/calgary/rentals/apartment/1-bedroom/brentwood/pet-friendly/403415,Apartment,1750,1,637,1.0,2,2,1,0,1,0,0,5
+Immediate,2000-01-01 00:00:00,Altadore,51.023203,-114.099628,/ab/calgary/rentals/apartment/2-bedrooms/altadore/484439,Apartment,1750,2,766,1.0,0,0,1,0,0,0,0,1
+Immediate,2000-01-01 00:00:00,West Springs,51.064735378703,-114.209955114017,/ab/calgary/rentals/apartment/1-bedroom/west-springs/pet-friendly/407788,Apartment,1700,1,628,1.0,2,2,1,0,1,0,0,1
+Immediate,2000-01-01 00:00:00,Seton,50.8755517,-113.9514506,/ab/calgary/rentals/apartment/2-bedrooms/seton/pet-friendly/430566,Apartment,1765,2,900,2.0,2,2,1,0,1,0,0,1
+Immediate,2000-01-01 00:00:00,University District,51.0765234,-114.1488951,/ab/calgary/rentals/apartment/1-bedroom/university-district/pet-friendly/471634,Apartment,1775,1,567,1.0,2,2,1,1,1,0,0,1
+Immediate,2000-01-01 00:00:00,Victoria Park,51.0418149,-114.0538211,/ab/calgary/rentals/apartment/1-bedroom/victoria-park/pet-friendly/305923,Apartment,1797,1,861,1.0,2,2,1,0,1,0,0,1
+Immediate,2000-01-01 00:00:00,Tuxedo Park,51.08306,-114.055003784131,/ab/calgary/rentals/apartment/3-bedrooms/tuxedo-park/pet-friendly/437509,Apartment,1750,3,1250,2.0,2,2,0,0,0,0,1,1
+Immediate,2000-01-01 00:00:00,Hillhurst,51.0573403,-114.0875332,/ab/calgary/rentals/apartment/1-bedroom/hillhurst/pet-friendly/470158,Apartment,1750,1,628,1.0,2,2,1,0,1,0,0,1
+Immediate,2000-01-01 00:00:00,Beltline,51.0382326,-114.0836706,/ab/calgary/rentals/apartment/1-bedroom/beltline/484289,Apartment,1800,1,586,1.0,0,0,1,0,1,0,0,1
+Immediate,2000-01-01 00:00:00,Downtown,51.0474854,-114.0877257,/ab/calgary/rentals/apartment/1-bedroom/downtown/pet-friendly/400444,Apartment,1750,1,616,1.0,2,2,1,0,1,1,1,1
+Immediate,2000-01-01 00:00:00,Bowness,51.0896352,-114.1938567,/ab/calgary/rentals/apartment/1-bedroom/bowness/413219,Apartment,1800,1,600,1.0,0,0,1,0,1,0,0,1
+Immediate,2000-01-01 00:00:00,Cliff Bungalow,51.0317079,-114.0730935,/ab/calgary/rentals/apartment/1-bedroom/cliff-bungalow/pet-friendly/466588,Apartment,1800,0,350,1.0,2,2,1,1,1,1,1,1
+May 01,2022-05-01 00:00:00,Cougar Ridge,51.0805889,-114.2042344,/ab/calgary/rentals/apartment/2-bedrooms/cougar-ridge/pet-friendly/417059,Apartment,1800,2,976,2.0,2,2,1,0,0,0,0,5
+May 01,2022-05-01 00:00:00,Beltline,51.0418914,-114.0688895,/ab/calgary/rentals/apartment/1-bedroom/beltline/349484,Apartment,1750,1,560,1.0,0,0,1,0,1,0,1,5
+May 01,2022-05-01 00:00:00,Mount Pleasant,51.0676277,-114.0758008,/ab/calgary/rentals/apartment/2-bedrooms/mount-pleasant/pet-friendly/475721,Apartment,1800,2,842,2.0,2,0,1,0,1,0,0,5
+May 01,2022-05-01 00:00:00,Kingsland,50.9838397,-114.072764,/ab/calgary/rentals/apartment/1-bedroom/kingsland/pet-friendly/426571,Apartment,1750,2,825,2.0,2,2,1,0,1,0,0,5
+May 01,2022-05-01 00:00:00,Lower Mount Royal,51.0376312,-114.0831935,/ab/calgary/rentals/apartment/1-bedroom/lower-mount-royal/316344,Apartment,1800,1,562,1.0,0,0,1,1,1,0,0,5
+May 01,2022-05-01 00:00:00,Beltline,51.0409823,-114.0867919,/ab/calgary/rentals/apartment/1-bedroom/beltline/309547,Apartment,1800,1,732,1.0,0,0,1,1,1,0,1,5
+May 08,2022-05-08 00:00:00,Wildwood,51.0522649,-114.143739,/ab/calgary/rentals/apartment/1-bedroom/wildwood/pet-friendly/29347,Apartment,1739,2,945,1.0,2,2,1,0,1,0,0,5
+May 15,2022-05-15 00:00:00,Montgomery,51.0710815,-114.1589135,/ab/calgary/rentals/apartment/1-bedroom/montgomery/pet-friendly/467763,Apartment,1765,2,785,2.0,2,2,1,0,0,1,1,5
+Jun 01,2022-06-01 00:00:00,Beltline,51.0423757,-114.0876612,/ab/calgary/rentals/apartment/2-bedrooms/beltline/485563,Apartment,1750,2,941,2.0,0,0,1,0,1,0,0,6
+Jun 01,2022-06-01 00:00:00,South Calgary,51.0238338,-114.1043286,/ab/calgary/rentals/apartment/1-bedroom/south-calgary/pet-friendly/481246,Apartment,1725,2,697,2.0,2,2,1,0,1,0,0,6
+Jun 01,2022-06-01 00:00:00,Mckenzie Towne,50.9280807,-113.9640357,/ab/calgary/rentals/apartment/2-bedrooms/mckenzie-towne/428278,Apartment,1800,2,1000,2.0,0,0,1,0,1,0,0,6
+Jun 01,2022-06-01 00:00:00,Kingsland,50.9834541,-114.0727649,/ab/calgary/rentals/apartment/1-bedroom/kingsland/pet-friendly/410845,Apartment,1737,2,839,2.0,2,2,1,0,1,0,0,6
+Jul 01,2022-07-01 00:00:00,Lower Mount Royal,51.0372257,-114.0837624,/ab/calgary/rentals/apartment/3-bedrooms/lower-mount-royal/447633,Apartment,1750,3,849,1.0,0,0,1,0,1,0,0,7
+Nov 01,2022-11-01 00:00:00,East Village,51.0476241,-114.0509814,/ab/calgary/rentals/apartment/1-bedroom/east-village/89068,Apartment,1800,1,680,1.0,0,0,1,0,1,0,0,11
+call for availability,call for availability,Kingsland,50.9840753,-114.0727635,/ab/calgary/rentals/apartment/1-bedroom/kingsland/pet-friendly/448227,Apartment,,2,813,2.0,2,2,1,0,1,0,0,call for availability
+call for availability,call for availability,Victoria Park,51.0398526,-114.0665193,/ab/calgary/rentals/apartment/1-bedroom/victoria-park/pet-friendly/368446,Apartment,,1,672,1.0,2,2,1,0,1,0,0,call for availability
+call for availability,call for availability,Lower Mount Royal,51.0370382,-114.0790526,/ab/calgary/rentals/apartment/1-bedroom/lower-mount-royal/pet-friendly/360545,Apartment,,1,900,1.0,2,2,1,0,1,0,0,call for availability
+call for availability,call for availability,West Springs,51.0640232,-114.2002681,/ab/calgary/rentals/apartment/1-bedroom/west-springs/pet-friendly/435770,Apartment,,2,751,2.0,2,2,1,1,1,1,0,call for availability
+call for availability,call for availability,Renfrew,51.058042,-114.049127,/ab/calgary/rentals/apartment/1-bedroom/renfrew/302543,Apartment,,2,1110,2.0,0,0,1,0,1,0,0,call for availability
+Immediate,2000-01-01 00:00:00,Downtown,51.047691,-114.081481,/ab/calgary/rentals/apartment/1-bedroom/downtown/pet-friendly/393080,Apartment,1870,1,953,1.0,2,2,0,0,0,0,0,1
+Immediate,2000-01-01 00:00:00,Victoria Park,51.0405707,-114.0586474,/ab/calgary/rentals/apartment/1-bedroom/victoria-park/pet-friendly/476038,Apartment,1835,1,573,1.0,2,2,1,0,0,0,0,1
+Immediate,2000-01-01 00:00:00,Mission,51.029764,-114.065254,/ab/calgary/rentals/apartment/1-bedroom/mission/pet-friendly/343046,Apartment,1897,1,673,1.0,2,2,1,0,1,0,0,1
+Immediate,2000-01-01 00:00:00,South Calgary,51.0242067,-114.1137223,/ab/calgary/rentals/apartment/1-bedroom/south-calgary/pet-friendly/454527,Apartment,1898,1,715,1.0,2,2,1,0,1,0,0,1
+Immediate,2000-01-01 00:00:00,University District,51.0775801,-114.1475871,/ab/calgary/rentals/apartment/1-bedroom/university-district/pet-friendly/434051,Apartment,1900,1,643,1.0,2,2,1,0,1,0,0,1
+May 01,2022-05-01 00:00:00,Oliver,51.04366769609,-114.07208817361,/ab/calgary/rentals/apartment/1-bedroom/oliver/pet-friendly/483743,Apartment,1860,1,600,1.0,2,2,1,0,1,0,1,5
+Jun 07,2022-06-07 00:00:00,Beltline,51.044004,-114.075438,/ab/calgary/rentals/apartment/1-bedroom/beltline/pet-friendly/361795,Apartment,1852,1,629,1.0,2,2,1,0,1,0,0,6
+Aug 07,2022-08-07 00:00:00,Beltline,51.038842,-114.092201,/ab/calgary/rentals/apartment/1-bedroom/beltline/pet-friendly/318403,Apartment,1883,2,775,2.0,2,2,1,0,1,0,0,8
+Immediate,2000-01-01 00:00:00,Downtown,51.0477457,-114.0833963,/ab/calgary/rentals/apartment/1-bedroom/downtown/pet-friendly/485969,Apartment,1870,1,953,1.0,2,2,0,0,0,0,0,1
+Immediate,2000-01-01 00:00:00,Carrington,51.184118227946,-114.07281422356,/ab/calgary/rentals/apartment/1-bedroom/carrington/pet-friendly/472666,Apartment,1848,3,1051,2.0,2,2,0,0,1,0,0,1
+Immediate,2000-01-01 00:00:00,Downtown,51.046632865945,-114.06320966323,/ab/calgary/rentals/apartment/1-bedroom/downtown/pet-friendly/434562,Apartment,1825,0,525,1.0,2,2,1,1,1,1,0,1
+Immediate,2000-01-01 00:00:00,East Village,51.0494421,-114.0559497,/ab/calgary/rentals/apartment/2-bedrooms/east-village/pet-friendly/485083,Apartment,1850,2,781,2.0,2,2,1,0,1,0,0,1
+Immediate,2000-01-01 00:00:00,East Village,51.0470923,-114.0500534,/ab/calgary/rentals/apartment/1-bedroom/east-village/377066,Apartment,1900,1,670,1.0,0,0,1,0,1,1,0,1
+Immediate,2000-01-01 00:00:00,Manchester,51.003851858431,-114.068871734393,/ab/calgary/rentals/apartment/1-bedroom/manchester/pet-friendly/462707,Apartment,1848,2,811,2.0,2,2,1,1,1,0,1,1
+Immediate,2000-01-01 00:00:00,Currie Barracks,51.0155795,-114.1297034,/ab/calgary/rentals/apartment/1-bedroom/currie-barracks/pet-friendly/318260,Apartment,1850,2,850,1.0,0,2,1,0,1,0,0,1
+Immediate,2000-01-01 00:00:00,Beltline,51.041837187973,-114.07202629444,/ab/calgary/rentals/apartment/1-bedroom/beltline/pet-friendly/433243,Apartment,1810,2,697,1.0,2,2,1,0,1,0,0,1
+Immediate,2000-01-01 00:00:00,Beltline,51.0380278,-114.0746476,/ab/calgary/rentals/apartment/1-bedroom/beltline/pet-friendly/465134,Apartment,1899,2,715,1.0,2,2,1,0,1,0,0,1
+May 01,2022-05-01 00:00:00,Cougar Ridge,51.0805889,-114.2042344,/ab/calgary/rentals/apartment/2-bedrooms/cougar-ridge/pet-friendly/417059,Apartment,1800,2,848,2.0,2,2,1,0,0,0,0,5
+May 01,2022-05-01 00:00:00,South Calgary,51.0241666,-114.1141032,/ab/calgary/rentals/apartment/1-bedroom/south-calgary/pet-friendly/483918,Apartment,1900,1,740,1.0,2,2,0,0,0,0,0,5
+May 01,2022-05-01 00:00:00,South Calgary,51.0241666,-114.1141032,/ab/calgary/rentals/apartment/1-bedroom/south-calgary/pet-friendly/481994,Apartment,1850,1,890,1.0,2,2,0,0,0,0,0,5
+May 01,2022-05-01 00:00:00,Killarney,51.0380206,-114.124176,/ab/calgary/rentals/apartment/2-bedrooms/killarney/355194,Apartment,1890,2,850,2.0,0,0,1,0,1,0,0,5
+May 01,2022-05-01 00:00:00,Mahogany,50.8960136,-113.9342337,/ab/calgary/rentals/apartment/1-bedroom/mahogany/pet-friendly/442585,Apartment,1876,1,617,1.0,2,2,1,0,1,0,0,5
+May 01,2022-05-01 00:00:00,Mount Pleasant,51.0676277,-114.0758008,/ab/calgary/rentals/apartment/2-bedrooms/mount-pleasant/pet-friendly/475721,Apartment,1800,2,1054,2.0,2,0,1,0,1,0,0,5
+May 01,2022-05-01 00:00:00,Mahogany,50.8969326,-113.9365606,/ab/calgary/rentals/apartment/1-bedroom/mahogany/pet-friendly/398877,Apartment,1891,1,622,1.0,2,2,1,0,1,0,0,5
+May 01,2022-05-01 00:00:00,Quarry Park,50.959852,-114.0188545,/ab/calgary/rentals/apartment/2-bedrooms/quarry-park/pet-friendly/485099,Apartment,1819,2,960,1.0,2,2,1,0,1,0,0,5
+May 01,2022-05-01 00:00:00,Downtown,51.0497314,-114.0665144,/ab/calgary/rentals/apartment/1-bedroom/downtown/pet-friendly/462504,Apartment,1850,1,581,1.0,2,2,1,0,1,0,0,5
+May 01,2022-05-01 00:00:00,Downtown,51.0464663,-114.0868174,/ab/calgary/rentals/apartment/1-bedroom/downtown/149131,Apartment,1900,1,1302,1.0,0,0,1,1,1,1,1,5
+Jun 01,2022-06-01 00:00:00,Quarry Park,50.961519460415,-114.007880666132,/ab/calgary/rentals/apartment/1-bedroom/quarry-park/pet-friendly/444016,Apartment,1890,2,840,2.0,2,2,1,0,1,0,0,6
+Jun 01,2022-06-01 00:00:00,Beltline,51.0423757,-114.0876612,/ab/calgary/rentals/apartment/2-bedrooms/beltline/485565,Apartment,1850,2,1080,2.0,0,0,1,0,1,0,0,6
+Jun 15,2022-06-15 00:00:00,Garrison Woods,51.022406753779,-114.11205693254,/ab/calgary/rentals/apartment/1-bedroom/garrison-woods/454497,Apartment,1900,1,700,2.0,0,0,1,0,1,0,0,6
+Jul 01,2022-07-01 00:00:00,Beltline,51.0422674,-114.0845042,/ab/calgary/rentals/apartment/1-bedroom/beltline/pet-friendly/139573,Apartment,1825,2,1008,2.0,2,2,1,0,1,0,0,7
+call for availability,call for availability,South Calgary,51.0241666,-114.1141032,/ab/calgary/rentals/apartment/1-bedroom/south-calgary/pet-friendly/481715,Apartment,1850,1,795,1.0,2,2,0,0,0,0,0,call for availability
+call for availability,call for availability,East Village,51.0494421,-114.0559496,/ab/calgary/rentals/apartment/2-bedrooms/east-village/pet-friendly/482112,Apartment,1850,2,838,2.0,2,2,1,0,1,0,0,call for availability
+call for availability,call for availability,Evergreen,50.9224655,-114.1158294,/ab/calgary/rentals/apartment/1-bedroom/evergreen/409753,Apartment,1885,1,1162,1.0,0,0,1,1,1,0,0,call for availability
+call for availability,call for availability,Beltline,51.0423207,-114.0834087,/ab/calgary/rentals/apartment/1-bedroom/beltline/pet-friendly/335626,Apartment,,2,1022,2.0,2,2,1,0,1,0,0,call for availability
+call for availability,call for availability,West Springs,51.064735378703,-114.209955114017,/ab/calgary/rentals/apartment/1-bedroom/west-springs/pet-friendly/407788,Apartment,,2,827,2.0,2,2,1,0,1,0,0,call for availability
+call for availability,call for availability,Kingsland,50.9834541,-114.0727649,/ab/calgary/rentals/apartment/1-bedroom/kingsland/pet-friendly/410845,Apartment,,2,1001,2.0,2,2,1,0,1,0,0,call for availability
+call for availability,call for availability,Lower Mount Royal,51.0370382,-114.0790526,/ab/calgary/rentals/apartment/1-bedroom/lower-mount-royal/pet-friendly/360545,Apartment,,1,1112,1.0,2,2,1,0,1,0,0,call for availability
+Immediate,2000-01-01 00:00:00,Mission,51.029764,-114.065254,/ab/calgary/rentals/apartment/1-bedroom/mission/pet-friendly/343046,Apartment,1942,1,754,1.0,2,2,1,0,1,0,0,1
+May 15,2022-05-15 00:00:00,Varsity,51.0926693,-114.1512527,/ab/calgary/rentals/apartment/1-bedroom/varsity/pet-friendly/31264,Apartment,1945,1,1100,1.0,2,2,1,1,1,0,0,5
+Immediate,2000-01-01 00:00:00,Victoria Park,51.0415203,-114.055738,/ab/calgary/rentals/apartment/2-bedrooms/victoria-park/pet-friendly/484651,Apartment,1950,2,723,2.0,2,2,1,0,1,0,0,1
+Immediate,2000-01-01 00:00:00,Mahogany,50.8960136,-113.9342337,/ab/calgary/rentals/apartment/1-bedroom/mahogany/pet-friendly/442585,Apartment,1980,1,653,1.0,2,2,1,0,1,0,0,1
+Immediate,2000-01-01 00:00:00,Seton,50.8755517,-113.9514506,/ab/calgary/rentals/apartment/2-bedrooms/seton/pet-friendly/430566,Apartment,1980,2,951,2.0,2,2,1,0,1,0,0,1
+Immediate,2000-01-01 00:00:00,University District,51.0765234,-114.1488951,/ab/calgary/rentals/apartment/1-bedroom/university-district/pet-friendly/471634,Apartment,2000,2,681,1.0,2,2,1,1,1,0,0,1
+Immediate,2000-01-01 00:00:00,Victoria Park,51.0398526,-114.0665193,/ab/calgary/rentals/apartment/1-bedroom/victoria-park/pet-friendly/368446,Apartment,1950,1,534,1.0,2,2,1,0,1,0,0,1
+Immediate,2000-01-01 00:00:00,Mahogany,50.894226994473,-113.91024964816,/ab/calgary/rentals/apartment/1-bedroom/mahogany/pet-friendly/482796,Apartment,1948,3,1046,2.0,2,2,0,0,1,0,0,1
+Immediate,2000-01-01 00:00:00,Hillhurst,51.0573403,-114.0875332,/ab/calgary/rentals/apartment/1-bedroom/hillhurst/pet-friendly/470158,Apartment,2000,1,640,1.0,2,2,1,0,1,0,0,1
+Immediate,2000-01-01 00:00:00,Crescent Heights,51.0526083,-114.0561433,/ab/calgary/rentals/apartment/1-bedroom/crescent-heights/85660,Apartment,2000,1,1000,1.0,0,0,1,1,1,1,1,1
+Immediate,2000-01-01 00:00:00,Seton,50.8703069,-113.9585035,/ab/calgary/rentals/apartment/2-bedrooms/seton/pet-friendly/478185,Apartment,1980,2,951,2.0,2,2,1,0,1,0,0,1
+Immediate,2000-01-01 00:00:00,Beltline,51.041837187973,-114.07202629444,/ab/calgary/rentals/apartment/1-bedroom/beltline/pet-friendly/433243,Apartment,1970,2,779,2.0,2,2,1,0,1,0,0,1
+Immediate,2000-01-01 00:00:00,Victoria Park,51.0415203,-114.055738,/ab/calgary/rentals/apartment/1-bedroom/victoria-park/pet-friendly/416372,Apartment,1950,1,809,1.0,2,2,1,0,1,0,0,1
+Immediate,2000-01-01 00:00:00,West Springs,51.064735378703,-114.209955114017,/ab/calgary/rentals/apartment/1-bedroom/west-springs/pet-friendly/407788,Apartment,1950,1,813,1.0,2,2,1,0,1,0,0,1
+May 01,2022-05-01 00:00:00,Downtown,51.043534,-114.082819,/ab/calgary/rentals/apartment/1-bedroom/downtown/pet-friendly/417846,Apartment,1925,2,962,1.0,2,2,1,0,0,0,0,5
+May 01,2022-05-01 00:00:00,Connaught,51.04338,-114.08903,/ab/calgary/rentals/apartment/1-bedroom/connaught/pet-friendly/480178,Apartment,1950,2,854,2.0,2,2,1,0,1,0,0,5
+May 01,2022-05-01 00:00:00,Cliff Bungalow,51.0317079,-114.0730935,/ab/calgary/rentals/apartment/1-bedroom/cliff-bungalow/pet-friendly/466588,Apartment,1925,1,586,1.0,2,2,1,0,1,0,0,5
+May 01,2022-05-01 00:00:00,Altadore,51.0241666,-114.1141032,/ab/calgary/rentals/apartment/1-bedroom/altadore/pet-friendly/484268,Apartment,1950,1,820,1.0,2,2,1,0,1,0,0,5
+Jun 01,2022-06-01 00:00:00,Varsity,51.1032452,-114.1637842,/ab/calgary/rentals/apartment/2-bedrooms/varsity/375522,Apartment,2000,2,955,2.0,0,0,1,0,1,0,0,6
+Jun 30,2022-06-30 00:00:00,Eau Claire,51.052335177034,-114.066654137048,/ab/calgary/rentals/apartment/1-bedroom/eau-claire/97772,Apartment,2000,1,550,1.0,0,0,1,1,1,1,1,6
+call for availability,call for availability,South Calgary,51.0241666,-114.1141032,/ab/calgary/rentals/apartment/1-bedroom/south-calgary/pet-friendly/481715,Apartment,1950,1,900,2.0,2,2,0,0,0,0,0,call for availability
+call for availability,call for availability,Victoria Park,51.0398526,-114.0665193,/ab/calgary/rentals/apartment/1-bedroom/victoria-park/pet-friendly/379974,Apartment,2000,1,534,1.0,2,2,1,1,1,1,1,call for availability
+call for availability,call for availability,Beltline,51.0422674,-114.0845042,/ab/calgary/rentals/apartment/1-bedroom/beltline/pet-friendly/139573,Apartment,,2,1082,2.0,2,2,1,0,1,0,0,call for availability
+call for availability,call for availability,Beltline,51.0423207,-114.0834087,/ab/calgary/rentals/apartment/1-bedroom/beltline/pet-friendly/335626,Apartment,,2,1087,2.0,2,2,1,0,1,0,0,call for availability
+call for availability,call for availability,Bridgeland,51.051014,-114.04359,/ab/calgary/rentals/apartment/2-bedrooms/bridgeland/445740,Apartment,,2,870,2.0,0,0,1,1,1,0,1,call for availability
+call for availability,call for availability,Mount Pleasant,51.0676277,-114.0758008,/ab/calgary/rentals/apartment/2-bedrooms/mount-pleasant/pet-friendly/475721,Apartment,,2,1054,2.0,2,0,1,0,1,0,0,call for availability
+call for availability,call for availability,Lower Mount Royal,51.0370382,-114.0790526,/ab/calgary/rentals/apartment/1-bedroom/lower-mount-royal/pet-friendly/360545,Apartment,,1,901,1.0,2,2,0,0,0,0,0,call for availability
+call for availability,call for availability,Beltline,51.0380278,-114.0746476,/ab/calgary/rentals/apartment/1-bedroom/beltline/pet-friendly/465134,Apartment,,2,715,1.0,2,2,1,0,1,0,0,call for availability
+call for availability,call for availability,West Springs,51.0640232,-114.2002681,/ab/calgary/rentals/apartment/1-bedroom/west-springs/pet-friendly/435770,Apartment,,2,795,2.0,2,2,1,1,1,0,0,call for availability
+call for availability,call for availability,Renfrew,51.058042,-114.049127,/ab/calgary/rentals/apartment/1-bedroom/renfrew/302543,Apartment,,2,1319,2.0,0,0,1,0,1,0,0,call for availability
+Immediate,2000-01-01 00:00:00,Mission,51.037644,-114.0703651,/ab/calgary/rentals/apartment/1-bedroom/mission/pet-friendly/2243,Apartment,900,1,570,,2,2,1,0,1,0,0,1
+call for availability,call for availability,Radisson Heights,51.03947,-114.00136,/ab/calgary/rentals/apartment/1-bedroom/radisson-heights/482813,Apartment,,0,525,,0,0,0,0,0,0,0,call for availability
+call for availability,call for availability,Beltline,51.0397665,-114.0657125,/ab/calgary/rentals/apartment/1-bedroom/beltline/pet-friendly/348260,Apartment,,0,450,,2,2,1,1,1,0,1,call for availability
+call for availability,call for availability,Lower Mount Royal,51.036401700356,-114.09387588501,/ab/calgary/rentals/apartment/1-bedroom/lower-mount-royal/pet-friendly/22158,Apartment,,1,620,,2,0,1,0,1,0,0,call for availability
+call for availability,call for availability,Renfrew,51.0590298,-114.0524545,/ab/calgary/rentals/apartment/1-bedroom/renfrew/15340,Apartment,,2,800,,0,0,1,0,1,0,0,call for availability
+call for availability,call for availability,Downtown,51.047748282615,-114.077661308598,/ab/calgary/rentals/apartment/1-bedroom/downtown/pet-friendly/14548,Apartment,975,1,571,,2,0,1,1,1,0,0,call for availability
+call for availability,call for availability,Renfrew,51.0590298,-114.0524545,/ab/calgary/rentals/apartment/1-bedroom/renfrew/15340,Apartment,,2,700,,0,0,1,0,1,0,0,call for availability
+call for availability,call for availability,Acadia,50.972543,-114.066826,/ab/calgary/rentals/apartment/1-bedroom/acadia/47994,Apartment,,1,600,,0,0,1,0,1,0,0,call for availability
+call for availability,call for availability,Hillhurst,51.0541824,-114.0934656,/ab/calgary/rentals/apartment/1-bedroom/hillhurst/93202,Apartment,,0,900,,0,0,1,0,1,0,0,call for availability
+call for availability,call for availability,Renfrew,51.058897,-114.0510802,/ab/calgary/rentals/apartment/1-bedroom/renfrew/140274,Apartment,,2,900,,0,0,1,0,1,0,0,call for availability
+call for availability,call for availability,Bowness,51.0916264,-114.1968258,/ab/calgary/rentals/apartment/1-bedroom/bowness/pet-friendly/290595,Apartment,,0,525,,2,0,1,0,1,0,0,call for availability
+call for availability,call for availability,Bowness,51.090669,-114.194995,/ab/calgary/rentals/apartment/1-bedroom/bowness/pet-friendly/294381,Apartment,,2,483,,2,0,1,1,1,0,0,call for availability
+Immediate,2000-01-01 00:00:00,Meadowlark Park,51.0016178,-114.0768808,/ab/calgary/rentals/apartment/1-bedroom/meadowlark-park/pet-friendly/328916,Apartment,1075,0,701,,2,2,1,0,1,0,0,1
+Immediate,2000-01-01 00:00:00,Lower Mount Royal,51.0362699,-114.082297,/ab/calgary/rentals/apartment/studio/lower-mount-royal/pet-friendly/355718,Apartment,1050,0,487,,2,2,1,0,1,0,0,1
+Immediate,2000-01-01 00:00:00,Connaught,51.0463834,-114.0874283,/ab/calgary/rentals/apartment/1-bedroom/connaught/pet-friendly/2244,Apartment,1075,1,550,,2,2,1,0,1,0,0,1
+Immediate,2000-01-01 00:00:00,Red Carpet,51.0389421,-113.9299716,/ab/calgary/rentals/apartment/1-bedroom/red-carpet/pet-friendly/305440,Apartment,1095,0,576,,2,2,1,0,1,0,0,1
+May 01,2022-05-01 00:00:00,Beltline,51.041582,-114.077916,/ab/calgary/rentals/apartment/1-bedroom/beltline/pet-friendly/127453,Apartment,1050,0,2000,,2,0,1,0,1,0,0,5
+call for availability,call for availability,Downtown,51.0457187,-114.0805283,/ab/calgary/rentals/apartment/1-bedroom/downtown/pet-friendly/17394,Apartment,,0,630,,2,2,1,0,1,0,0,call for availability
+call for availability,call for availability,Hillhurst,51.0541824,-114.0934656,/ab/calgary/rentals/apartment/1-bedroom/hillhurst/93202,Apartment,,2,900,,0,0,0,0,0,0,0,call for availability
+call for availability,call for availability,Bowness,51.090669,-114.194995,/ab/calgary/rentals/apartment/1-bedroom/bowness/pet-friendly/294381,Apartment,,2,717,,2,0,1,1,1,0,0,call for availability
+Immediate,2000-01-01 00:00:00,Falconridge,51.108143,-113.936489,/ab/calgary/rentals/apartment/1-bedroom/falconridge/pet-friendly/2248,Apartment,1199,2,800,,2,2,1,0,1,0,0,1
+Immediate,2000-01-01 00:00:00,Braeside,50.962467,-114.1097039,/ab/calgary/rentals/apartment/1-bedroom/braeside/pet-friendly/481050,Apartment,1166,2,814,,2,2,1,0,1,0,0,1
+Immediate,2000-01-01 00:00:00,Red Carpet,51.0389421,-113.9299716,/ab/calgary/rentals/apartment/1-bedroom/red-carpet/pet-friendly/305440,Apartment,1185,1,763,,2,2,1,0,1,0,0,1
+Jul 01,2022-07-01 00:00:00,Bridgeland,51.0541713,-114.0533083,/ab/calgary/rentals/apartment/1-bedroom/bridgeland/43499,Apartment,1195,2,850,,0,0,1,1,1,0,0,7
+call for availability,call for availability,Connaught,51.0406581,-114.0924003,/ab/calgary/rentals/apartment/1-bedroom/connaught/pet-friendly/39621,Apartment,1195,0,793,,2,2,1,0,1,0,0,call for availability
+call for availability,call for availability,Downtown,51.0457187,-114.0805283,/ab/calgary/rentals/apartment/1-bedroom/downtown/pet-friendly/17394,Apartment,,2,900,,2,2,1,0,1,0,0,call for availability
+call for availability,call for availability,Beltline,51.0408851,-114.0838949,/ab/calgary/rentals/apartment/1-bedroom/beltline/pet-friendly/312965,Apartment,,0,750,,2,0,1,1,1,1,1,call for availability
+call for availability,call for availability,Kingsland,50.9834541,-114.0727649,/ab/calgary/rentals/apartment/1-bedroom/kingsland/pet-friendly/410845,Apartment,,1,553,,2,2,1,0,1,0,0,call for availability
+call for availability,call for availability,Mount Pleasant,51.0676898,-114.0810832,/ab/calgary/rentals/apartment/1-bedroom/mount-pleasant/pet-friendly/344812,Apartment,,2,729,,2,2,1,0,1,0,0,call for availability
+call for availability,call for availability,Acadia,50.972543,-114.066826,/ab/calgary/rentals/apartment/1-bedroom/acadia/47994,Apartment,,2,950,,0,0,1,0,1,0,0,call for availability
+call for availability,call for availability,Hillhurst,51.0541824,-114.0934656,/ab/calgary/rentals/apartment/1-bedroom/hillhurst/93202,Apartment,,0,900,,0,0,0,0,0,0,0,call for availability
+call for availability,call for availability,Bankview,51.0335943,-114.1007674,/ab/calgary/rentals/apartment/1-bedroom/bankview/342417,Apartment,,0,660,,0,0,1,1,1,0,0,call for availability
+call for availability,call for availability,Varsity,51.0924967,-114.1425089,/ab/calgary/rentals/apartment/1-bedroom/varsity/pet-friendly/466357,Apartment,,2,700,,2,2,1,0,1,0,0,call for availability
+Immediate,2000-01-01 00:00:00,Mission,51.0368878,-114.0708571,/ab/calgary/rentals/apartment/1-bedroom/mission/pet-friendly/468621,Apartment,1279,0,650,,2,2,1,0,1,0,0,1
+Immediate,2000-01-01 00:00:00,Acadia,50.9668952,-114.0671346,/ab/calgary/rentals/apartment/2-bedrooms/acadia/pet-friendly/129082,Apartment,1275,0,890,,2,2,1,0,1,0,0,1
+call for availability,call for availability,Downtown,51.0457187,-114.0805283,/ab/calgary/rentals/apartment/1-bedroom/downtown/pet-friendly/17394,Apartment,,0,900,,2,2,1,0,1,0,0,call for availability
+call for availability,call for availability,Cornerstone,51.1639501,-113.9457195,/ab/calgary/rentals/apartment/1-bedroom/cornerstone/pet-friendly/406865,Apartment,,2,645,,2,2,1,0,1,0,0,call for availability
+call for availability,call for availability,Richmond/Knob Hill,51.0366966,-114.1070523,/ab/calgary/rentals/apartment/1-bedroom/richmond-knob-hill/pet-friendly/480081,Apartment,,1,718,,2,0,1,0,1,0,0,call for availability
+call for availability,call for availability,Beltline,51.041047,-114.0745879,/ab/calgary/rentals/apartment/1-bedroom/beltline/pet-friendly/316346,Apartment,,0,559,,2,2,1,0,1,0,0,call for availability
+call for availability,call for availability,Richmond/Knob Hill,51.0241944,-114.1149641,/ab/calgary/rentals/apartment/1-bedroom/richmond-knob-hill/pet-friendly/355606,Apartment,,0,575,,2,2,1,0,1,0,0,call for availability
+call for availability,call for availability,Acadia,50.972543,-114.066826,/ab/calgary/rentals/apartment/1-bedroom/acadia/47994,Apartment,,0,950,1.0,0,0,1,0,1,0,0,call for availability
+call for availability,call for availability,Walden,50.8736601,-114.0374756,/ab/calgary/rentals/apartment/1-bedroom/walden/327176,Apartment,,0,698,,0,0,1,0,1,0,0,call for availability
+call for availability,call for availability,Red Carpet,51.0389421,-113.9299716,/ab/calgary/rentals/apartment/1-bedroom/red-carpet/pet-friendly/305440,Apartment,,0,763,,2,2,1,0,1,0,0,call for availability
+Immediate,2000-01-01 00:00:00,Downtown,51.043534,-114.082819,/ab/calgary/rentals/apartment/1-bedroom/downtown/pet-friendly/417846,Apartment,1381,0,424,,2,2,1,0,0,0,0,1
+Immediate,2000-01-01 00:00:00,Beltline,51.0396021,-114.0757989,/ab/calgary/rentals/apartment/1-bedroom/beltline/299469,Apartment,1375,2,990,1.0,0,0,1,0,1,0,0,1
+Immediate,2000-01-01 00:00:00,Greenview,51.1020364,-114.0537402,/ab/calgary/rentals/apartment/1-bedroom/greenview/pet-friendly/374053,Apartment,1399,2,905,2.0,2,2,1,0,1,0,0,1
+Immediate,2000-01-01 00:00:00,Acadia,50.9668952,-114.0671346,/ab/calgary/rentals/apartment/2-bedrooms/acadia/pet-friendly/129082,Apartment,1390,0,1140,,2,2,1,0,1,0,0,1
+Immediate,2000-01-01 00:00:00,Tuxedo Park,51.071003,-114.062093,/ab/calgary/rentals/apartment/1-bedroom/tuxedo-park/pet-friendly/453887,Apartment,1335,0,566,,2,2,1,0,1,0,0,1
+May 01,2022-05-01 00:00:00,Victoria Park,51.0415203,-114.055738,/ab/calgary/rentals/apartment/1-bedroom/victoria-park/pet-friendly/416372,Apartment,1400,0,545,,2,2,1,0,1,0,0,5
+May 15,2022-05-15 00:00:00,Skyview,51.164257,-113.950593,/ab/calgary/rentals/apartment/1-bedroom/skyview/pet-friendly/290307,Apartment,1399,0,894,,2,2,1,0,1,0,0,5
+call for availability,call for availability,Beltline,51.039783,-114.07958,/ab/calgary/rentals/apartment/1-bedroom/beltline/pet-friendly/440472,Apartment,,0,530,,2,2,1,0,1,0,0,call for availability
+call for availability,call for availability,Cornerstone,51.1639501,-113.9457195,/ab/calgary/rentals/apartment/1-bedroom/cornerstone/pet-friendly/406865,Apartment,,2,757,2.0,2,2,1,0,1,0,0,call for availability
+call for availability,call for availability,Hillhurst,51.0541824,-114.0934656,/ab/calgary/rentals/apartment/1-bedroom/hillhurst/93202,Apartment,,0,1000,1.0,0,0,1,0,1,0,0,call for availability
+call for availability,call for availability,Red Carpet,51.0389421,-113.9299716,/ab/calgary/rentals/apartment/1-bedroom/red-carpet/pet-friendly/305440,Apartment,,0,831,,2,2,1,0,1,0,0,call for availability
+Immediate,2000-01-01 00:00:00,Greenview,51.1020364,-114.0537402,/ab/calgary/rentals/apartment/1-bedroom/greenview/pet-friendly/374053,Apartment,1466,0,952,2.0,2,2,1,0,1,0,0,1
+Immediate,2000-01-01 00:00:00,East Village,51.0458488,-114.0498504,/ab/calgary/rentals/apartment/1-bedroom/east-village/pet-friendly/454557,Apartment,1500,1,562,,2,2,1,0,1,1,0,1
+Immediate,2000-01-01 00:00:00,Oliver,50.9675572,-114.0739902,/ab/calgary/rentals/apartment/1-bedroom/oliver/pet-friendly/131502,Apartment,1475,0,962,,2,2,1,0,1,0,0,1
+May 01,2022-05-01 00:00:00,Connaught,51.04338,-114.08903,/ab/calgary/rentals/apartment/1-bedroom/connaught/pet-friendly/480178,Apartment,1425,1,541,,2,2,1,0,1,0,0,5
+May 01,2022-05-01 00:00:00,Kingsland,50.9838397,-114.072764,/ab/calgary/rentals/apartment/1-bedroom/kingsland/pet-friendly/426571,Apartment,1500,0,687,,2,2,1,0,1,0,0,5
+Jun 01,2022-06-01 00:00:00,Quarry Park,50.961519460415,-114.007880666132,/ab/calgary/rentals/apartment/1-bedroom/quarry-park/pet-friendly/444016,Apartment,1500,0,610,,2,2,1,0,1,0,0,6
+call for availability,call for availability,Victoria Park,51.0415203,-114.055738,/ab/calgary/rentals/apartment/1-bedroom/victoria-park/pet-friendly/416372,Apartment,,0,572,,2,2,1,0,1,0,0,call for availability
+call for availability,call for availability,Walden,50.8738894,-114.0390593,/ab/calgary/rentals/apartment/1-bedroom/walden/314007,Apartment,,2,850,,0,0,1,0,1,0,0,call for availability
+call for availability,call for availability,Kingsland,50.9834541,-114.0727649,/ab/calgary/rentals/apartment/1-bedroom/kingsland/pet-friendly/410845,Apartment,,0,727,,2,2,1,0,1,0,0,call for availability
+call for availability,call for availability,Cornerstone,51.1639501,-113.9457195,/ab/calgary/rentals/apartment/1-bedroom/cornerstone/pet-friendly/406865,Apartment,,3,901,2.0,2,2,1,0,1,0,0,call for availability
+call for availability,call for availability,Richmond/Knob Hill,51.0241944,-114.1149641,/ab/calgary/rentals/apartment/1-bedroom/richmond-knob-hill/pet-friendly/355606,Apartment,,2,675,2.0,2,2,1,0,1,0,0,call for availability
+call for availability,call for availability,Walden,50.8736601,-114.0374756,/ab/calgary/rentals/apartment/1-bedroom/walden/327176,Apartment,,0,854,2.0,0,0,1,0,1,0,0,call for availability
+May 01,2022-05-01 00:00:00,Skyview,51.1566762,-113.9614519,/ab/calgary/rentals/apartment/1-bedroom/skyview/pet-friendly/430647,Apartment,1579,0,987,,2,2,1,0,1,0,0,5
+May 01,2022-05-01 00:00:00,Cliff Bungalow,51.0317079,-114.0730935,/ab/calgary/rentals/apartment/1-bedroom/cliff-bungalow/pet-friendly/466588,Apartment,1575,0,592,,2,2,1,0,1,0,0,5
+May 06,2022-05-06 00:00:00,Beltline,51.04313,-114.0640803,/ab/calgary/rentals/apartment/1-bedroom/beltline/pet-friendly/111726,Apartment,1565,0,922,1.0,2,2,1,0,1,0,0,5
+Jun 01,2022-06-01 00:00:00,Quarry Park,50.961519460415,-114.007880666132,/ab/calgary/rentals/apartment/1-bedroom/quarry-park/pet-friendly/444016,Apartment,1540,0,620,,2,2,1,0,1,0,0,6
+Jul 01,2022-07-01 00:00:00,Windsor Park,51.00805,-114.081114,/ab/calgary/rentals/apartment/1-bedroom/windsor-park/pet-friendly/387408,Apartment,1600,1,827,,2,2,1,0,1,0,0,7
+call for availability,call for availability,Seton,50.885391963462,-113.953482454956,/ab/calgary/rentals/apartment/1-bedroom/seton/485637,Apartment,1580,0,990,,0,0,1,0,1,0,0,call for availability
+call for availability,call for availability,Mount Pleasant,51.0676898,-114.0810832,/ab/calgary/rentals/apartment/1-bedroom/mount-pleasant/pet-friendly/344812,Apartment,,0,804,,2,2,1,0,1,0,0,call for availability
+call for availability,call for availability,Richmond/Knob Hill,51.0241944,-114.1149641,/ab/calgary/rentals/apartment/1-bedroom/richmond-knob-hill/pet-friendly/355606,Apartment,,0,725,,2,2,1,0,1,0,0,call for availability
+Immediate,2000-01-01 00:00:00,Victoria Park,51.0405707,-114.0586474,/ab/calgary/rentals/apartment/1-bedroom/victoria-park/pet-friendly/476038,Apartment,1695,0,617,,2,2,1,0,0,0,0,1
+Immediate,2000-01-01 00:00:00,Skyview,51.1566762,-113.9614519,/ab/calgary/rentals/apartment/1-bedroom/skyview/pet-friendly/430647,Apartment,1649,0,984,,2,2,1,0,1,0,0,1
+Immediate,2000-01-01 00:00:00,University District,51.0775801,-114.1475871,/ab/calgary/rentals/apartment/1-bedroom/university-district/pet-friendly/434051,Apartment,1700,1,643,,2,2,1,0,1,0,0,1
+Apr 28,2022-04-28 00:00:00,Beltline,51.038842,-114.092201,/ab/calgary/rentals/apartment/1-bedroom/beltline/pet-friendly/318403,Apartment,1692,0,530,,2,2,1,0,1,0,0,4
+May 01,2022-05-01 00:00:00,Skyview,51.1564511,-113.9592373,/ab/calgary/rentals/apartment/2-bedrooms/skyview/pet-friendly/430648,Apartment,1700,0,996,,2,2,1,0,1,0,0,5
+Immediate,2000-01-01 00:00:00,Mahogany,50.894226994473,-113.91024964816,/ab/calgary/rentals/apartment/1-bedroom/mahogany/pet-friendly/482796,Apartment,1688,0,885,2.0,2,2,0,0,1,0,0,1
+Immediate,2000-01-01 00:00:00,Downtown,51.043534,-114.082819,/ab/calgary/rentals/apartment/1-bedroom/downtown/pet-friendly/417846,Apartment,1648,0,665,,2,2,1,0,0,0,0,1
+call for availability,call for availability,West Springs,51.064735378703,-114.209955114017,/ab/calgary/rentals/apartment/1-bedroom/west-springs/pet-friendly/407788,Apartment,,0,628,,2,2,1,0,1,0,0,call for availability
+call for availability,call for availability,Kingsland,50.9840753,-114.0727635,/ab/calgary/rentals/apartment/1-bedroom/kingsland/pet-friendly/448227,Apartment,,0,989,2.0,2,2,1,0,1,0,0,call for availability
+call for availability,call for availability,Mount Pleasant,51.0676898,-114.0810832,/ab/calgary/rentals/apartment/1-bedroom/mount-pleasant/pet-friendly/344812,Apartment,,0,927,,2,2,1,0,1,0,0,call for availability
+call for availability,call for availability,Richmond/Knob Hill,51.0241944,-114.1149641,/ab/calgary/rentals/apartment/1-bedroom/richmond-knob-hill/pet-friendly/355606,Apartment,,2,775,2.0,2,2,1,0,1,0,0,call for availability
+Immediate,2000-01-01 00:00:00,Beltline,51.044004,-114.075438,/ab/calgary/rentals/apartment/1-bedroom/beltline/pet-friendly/361795,Apartment,1786,0,636,,2,2,1,0,1,0,0,1
+Immediate,2000-01-01 00:00:00,West Springs,51.064735378703,-114.209955114017,/ab/calgary/rentals/apartment/1-bedroom/west-springs/pet-friendly/407788,Apartment,1800,2,827,2.0,2,2,1,0,1,0,0,1
+Jun 01,2022-06-01 00:00:00,Kingsland,50.9834541,-114.0727649,/ab/calgary/rentals/apartment/1-bedroom/kingsland/pet-friendly/410845,Apartment,1797,0,870,,2,2,1,0,1,0,0,6
+call for availability,call for availability,Kingsland,50.9840753,-114.0727635,/ab/calgary/rentals/apartment/1-bedroom/kingsland/pet-friendly/448227,Apartment,,0,858,,2,2,1,0,1,0,0,call for availability
+Immediate,2000-01-01 00:00:00,Victoria Park,51.0405707,-114.0586474,/ab/calgary/rentals/apartment/1-bedroom/victoria-park/pet-friendly/476038,Apartment,1870,0,631,,2,2,1,0,0,0,0,1
+Jun 07,2022-06-07 00:00:00,Beltline,51.044004,-114.075438,/ab/calgary/rentals/apartment/1-bedroom/beltline/pet-friendly/361795,Apartment,1899,2,729,,2,2,1,0,1,0,0,6
+Immediate,2000-01-01 00:00:00,Beltline,51.0380278,-114.0746476,/ab/calgary/rentals/apartment/1-bedroom/beltline/pet-friendly/465134,Apartment,1900,0,824,2.0,2,2,1,0,1,0,0,1
+May 01,2022-05-01 00:00:00,Cougar Ridge,51.0805889,-114.2042344,/ab/calgary/rentals/apartment/2-bedrooms/cougar-ridge/pet-friendly/417059,Apartment,1819,0,976,,2,2,1,0,0,0,0,5
+May 01,2022-05-01 00:00:00,Mount Pleasant,51.0676277,-114.0758008,/ab/calgary/rentals/apartment/2-bedrooms/mount-pleasant/pet-friendly/475721,Apartment,1900,0,842,,2,0,1,0,1,0,0,5
+call for availability,call for availability,Victoria Park,51.0398526,-114.0665193,/ab/calgary/rentals/apartment/1-bedroom/victoria-park/pet-friendly/368446,Apartment,,0,751,,2,2,1,0,1,0,0,call for availability
+call for availability,call for availability,Lower Mount Royal,51.0370382,-114.0790526,/ab/calgary/rentals/apartment/1-bedroom/lower-mount-royal/pet-friendly/360545,Apartment,,2,994,,2,2,1,0,1,0,0,call for availability
+Immediate,2000-01-01 00:00:00,Victoria Park,51.0398526,-114.0665193,/ab/calgary/rentals/apartment/1-bedroom/victoria-park/pet-friendly/368446,Apartment,2000,1,764,,2,2,1,0,1,0,0,1
+Immediate,2000-01-01 00:00:00,Victoria Park,51.0415203,-114.055738,/ab/calgary/rentals/apartment/1-bedroom/victoria-park/pet-friendly/416372,Apartment,2000,2,814,2.0,2,2,1,0,1,0,0,1
+Immediate,2000-01-01 00:00:00,West Springs,51.064735378703,-114.209955114017,/ab/calgary/rentals/apartment/1-bedroom/west-springs/pet-friendly/407788,Apartment,2000,2,927,2.0,2,2,1,0,1,0,0,1
+May 01,2022-05-01 00:00:00,Cliff Bungalow,51.0317079,-114.0730935,/ab/calgary/rentals/apartment/1-bedroom/cliff-bungalow/pet-friendly/466588,Apartment,2000,1,704,,2,2,1,0,1,0,0,5
+call for availability,call for availability,Lower Mount Royal,51.0370382,-114.0790526,/ab/calgary/rentals/apartment/1-bedroom/lower-mount-royal/pet-friendly/360545,Apartment,,2,994,2.0,2,2,0,0,0,0,0,call for availability

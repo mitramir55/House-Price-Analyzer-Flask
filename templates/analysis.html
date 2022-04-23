@@ -6,19 +6,57 @@
         <div class="row gx-5 align-items-center">
                 <div class="p-5">
                     <h3>City: {{session['city']}}</h3>
-                    <div id='chart' class='chart'></div>
+
+                    <div id='histogram' class='chart'></div>
+                    <div id='barplot_avg_med' class='chart'></div>
+                    <div id='regression_sqfeet_price' class='chart'></div>
+
+                    <table class="table">
+                            <tr>
+                                {% for col in column_names %}
+                                <th style="background-color: #74c5c1;">{{ col }}</th>
+                                {% endfor %}
+                            </tr>
+                            {% for row in row_data %}
+                            <tr>
+                                {% for col, row_ in zip(column_names, row) %}
+                                {% if col == link_column %}
+                                <td>
+                                        {{ row_ }}
+                                </td>
+                                {% else %}
+                                <td>{{row_}}</td>
+                                {% endif %}
+                                {% endfor %}
+                            </tr>
+                            {% endfor %}
+    
+                    
 
                 </div>
             </div>
         </div>
 </section>
 
-
+<!-- charts js -->
 <script src='https://cdn.plot.ly/plotly-latest.min.js'></script>
 <script type='text/javascript'>
+
+    //histogram
   var graphs = {{ histogramJSON | safe }};
-  Plotly.plot('chart', graphs,{});
+  Plotly.plot('histogram', graphs,{});
+
+    //barplot
+  var graphs = {{ barplot_avg_median_JSON | safe }};
+  Plotly.plot('barplot_avg_med', graphs,{});
+
+    // regression
+  var graphs = {{ regression_sqfeet_price_JSON | safe }};
+  Plotly.plot('regression_sqfeet_price', graphs,{});
+
+
 </script>
+
 
 
 {% endblock %}

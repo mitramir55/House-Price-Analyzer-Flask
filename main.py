@@ -167,6 +167,20 @@ def analysis(**kwargs):
     df = pd.read_csv(OUTPUT_FOLDER + f"{session['city']}.csv")
 
     analyzer = RentalsAnalyzer(df)
-    histogramJSON = analyzer.plot_histogram()
 
-    return render_template('analysis.html', histogramJSON=histogramJSON)
+    # plots
+    histogramJSON = analyzer.plot_histogram()
+    barplot_avg_median_JSON = analyzer.barplot_price_median_avg()
+    regression_sqfeet_price_JSON = analyzer.regression_sqfeet_price()
+
+    # dataframe
+    feature_importance_df = analyzer.create_feature_importance_df()
+
+    return render_template('analysis.html',
+    zip=zip, 
+     histogramJSON=histogramJSON,
+     barplot_avg_median_JSON=barplot_avg_median_JSON,
+     regression_sqfeet_price_JSON=regression_sqfeet_price_JSON,
+     column_names=feature_importance_df.columns.values, 
+     row_data=list(feature_importance_df.values.tolist())
+     )
