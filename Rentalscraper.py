@@ -31,7 +31,7 @@ class RentalDataCollector:
         self.types = types
         self.search_leap = search_leap
         self.cols_to_drop = [
-            'phone', 'phone_2', 'f', 's', 'title', 'city','intro', 'userId',
+            'phone', 'phone_2', 'f', 's', 'title', 'intro', 'userId',
              'id', 'ref_id', 'email', 'v', 'thumb2', 'marker',
               'preferred_contact'
               ]
@@ -276,6 +276,7 @@ class RentalDataCollector:
         df = self.drop_unwanted_cols(df)
         df = self.keep_not_rented(df)
         df.dropna(subset=['price', 'sq_feet'], how='all', inplace=True)
+        
         # create new columns and rows
         df = self.convert_utilities_col(df)
         df = self.handle_second_rentals(df)

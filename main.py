@@ -149,7 +149,7 @@ def inputs(**kwargs):
 
         else:
             
-            df.to_csv(OUTPUT_FOLDER + f'{city}.csv', index=False)
+            df.to_csv(OUTPUT_FOLDER + f"{session['city']}.csv", index=False)
             return redirect(url_for('analysis'))
     else:
         return render_template('inputs.html', enumerate=enumerate,
@@ -165,13 +165,16 @@ def analysis(**kwargs):
 
     # sample map-----------------------
     df = pd.read_csv(OUTPUT_FOLDER + f"{session['city']}.csv")
-
+    df.dropna(inplace=True)
+    df.reset_index(inplace=True, drop=True)
     analyzer = RentalsAnalyzer(df)
 
     # plots
     histogramJSON = analyzer.plot_histogram()
     barplot_avg_median_JSON = analyzer.barplot_price_median_avg()
     regression_sqfeet_price_JSON = analyzer.regression_sqfeet_price()
+    boxplot_beds_baths_price_JSON = analyzer.boxplot_beds_baths_price()
+    price_community_plot_JSON = analyzer.price_community_plot()
 
     # dataframe
     feature_importance_df = analyzer.create_feature_importance_df()
@@ -182,5 +185,7 @@ def analysis(**kwargs):
      barplot_avg_median_JSON=barplot_avg_median_JSON,
      regression_sqfeet_price_JSON=regression_sqfeet_price_JSON,
      column_names=feature_importance_df.columns.values, 
-     row_data=list(feature_importance_df.values.tolist())
+     boxplot_beds_baths_price_JSON=boxplot_beds_baths_price_JSON,
+     price_community_plot_JSON=price_community_plot_JSON,
+     row_data=list(feature_importance_df.values.tolist()),
      )

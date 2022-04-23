@@ -11,9 +11,9 @@ import plotly.express as px
 import plotly.graph_objects as go
 from plotly.subplots import make_subplots
 
-x_cols_for_tree = ['community', 'type', 'beds', 'baths',
- 'cats', 'dogs', 'utility_heat', 'utility_electricity', 'utility_water', 
- 'utility_cable', 'utility_internet']
+x_cols_for_tree = ['community', 'type', 'beds', 'sq_feet', 'baths', 'cats', 'dogs',
+       'utility_heat', 'utility_electricity', 'utility_water', 'utility_cable',
+       'utility_internet']
 
 
 class RentalsAnalyzer:
@@ -40,12 +40,14 @@ class RentalsAnalyzer:
         type_min_price = prop_min_price.type
 
         # mean price
-        price_mean = np.round(np.mean(self.df.price), decimals=2)
+        price_mean = self._round(np.mean(self.df.price))
         price_median = np.median(self.df.price)
 
         return length, price_mean, price_median, \
         price_max, type_max_price, price_min, type_min_price
 
+    def _round(self, num):
+        return np.round(num, decimals=2)
 
     def plot_histogram(self):
 
@@ -66,7 +68,7 @@ class RentalsAnalyzer:
         creates a plot comparing avg and median of price in each residence type
         """
 
-        self.df.loc[:, 'price_per_sq'] = [np.round(self.df.loc[i, 'price'] / self.df.loc[i, 'sq_feet'], decimals=2) for i in range(len(self.df))]
+        self.df.loc[:, 'price_per_sq'] = [self._round(self.df.loc[i, 'price'] / self.df.loc[i, 'sq_feet']) for i in range(len(self.df))]
         
         # create the dataset
         df_1 = self.df.groupby([group_by]).agg({'price_per_sq': 'mean'}).rename(columns={'price_per_sq': 'avg_price_per_sq'})
@@ -131,7 +133,7 @@ class RentalsAnalyzer:
 
 
 
-    def _create_encoded_df(self, y_label='price', x_cols=x_cols_for_tree):
+    def _create_encoded_df(self, x_cols=x_cols_for_tree):
 
         """
         creates a completely encoded x dataframe for any ml algorithm
@@ -144,16 +146,17 @@ class RentalsAnalyzer:
         encoder_df2 = self._create_encoded_df_from_column(col_name='type')
 
         #merge one-hot encoded columns back with original DataFrame
-        df_x = df_x.join(encoder_df1).join(encoder_df2)
-        df_x.drop(columns=['community', 'type'], inplace=True)
+        #df_x = df_x.join(encoder_df1).join(encoder_df2)
+        df_final = pd.concat([df_x, encoder_df1, encoder_df2], axis=1)
+        df_final.drop(columns=['community', 'type'], inplace=True)
 
-        return df_x
+        return df_final
 
 
     def create_feature_importance_df(self, y_label='price', top_n=20):
         
         y = self.df.loc[:, y_label]
-        X = self._create_encoded_df(y_label='price')
+        X = self._create_encoded_df()
 
         model = DecisionTreeRegressor()
         model.fit(X, y)
@@ -162,7 +165,8 @@ class RentalsAnalyzer:
         columns = X.columns
 
         importance_df = pd.DataFrame({'field': columns, 'importance': importance})
-        importance_df.sort_values(by='importance').tail(top_n)
+        importance_df.loc[:, 'importance'] = importance_df.importance.apply(lambda x:self._round(x))
+        importance_df = importance_df.sort_values(by='importance').tail(top_n)
 
         return importance_df
 

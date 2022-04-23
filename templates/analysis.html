@@ -10,8 +10,10 @@
                     <div id='histogram' class='chart'></div>
                     <div id='barplot_avg_med' class='chart'></div>
                     <div id='regression_sqfeet_price' class='chart'></div>
+                    <div id='price_community_plot' class='chart'></div>
+                    <div id='boxplot_beds_baths_price' class='chart'></div>
 
-                    <table class="table">
+                    <table class="table .table-bordered ">
                             <tr>
                                 {% for col in column_names %}
                                 <th style="background-color: #74c5c1;">{{ col }}</th>
@@ -30,7 +32,7 @@
                                 {% endfor %}
                             </tr>
                             {% endfor %}
-    
+                            </table>
                     
 
                 </div>
@@ -53,6 +55,15 @@
     // regression
   var graphs = {{ regression_sqfeet_price_JSON | safe }};
   Plotly.plot('regression_sqfeet_price', graphs,{});
+
+
+    // line and scatter
+    var graphs = {{ price_community_plot_JSON | safe }};
+    Plotly.plot('price_community_plot', graphs,{});
+
+    // boxplot
+    var graphs = {{ boxplot_beds_baths_price_JSON | safe }};
+    Plotly.plot('boxplot_beds_baths_price', graphs,{});
 
 
 </script>

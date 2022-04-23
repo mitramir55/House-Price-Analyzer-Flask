@@ -23,6 +23,14 @@ from Rentalscraper import RentalDataCollector
 pd.set_option('display.max_columns', None)
 pd.set_option('display.max_colwidth', None)
 df = pd.read_csv('Practice\Datasets\montreal.csv')
+print(df.columns)
+print(df.isna().sum())
+
+df[df.price.isna()]
+
+print(len(df))
+print(df.head())
+
 collector = RentalDataCollector(types=['Apartment'], city='montreal',
          min_price=0, max_price=2000)
 df = collector.collect_data()
