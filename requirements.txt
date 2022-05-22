@@ -10,3 +10,4 @@ regex
 CherryPy
 Werkzeug
 bs4
+sympy
