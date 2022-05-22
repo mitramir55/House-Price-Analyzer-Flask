@@ -11,4 +11,5 @@ CherryPy
 Werkzeug
 bs4
 sympy
+plotly
 sklearn
