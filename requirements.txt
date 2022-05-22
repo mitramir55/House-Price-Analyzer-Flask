@@ -11,3 +11,4 @@ CherryPy
 Werkzeug
 bs4
 sympy
+sklearn
