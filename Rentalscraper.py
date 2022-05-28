@@ -136,6 +136,9 @@ class RentalDataCollector:
         """
         info_cols_2 = [col + '2' for col in info_cols]
 
+        # check if the dataset has these cols
+        info_cols_2 = [col for col in info_cols_2 if col in df.columns]
+
         # check for where at least two second house columns are not null
         df_second = df[(~df[info_cols_2[0]].isna())&(~df[info_cols_2[1]].isna())]
 

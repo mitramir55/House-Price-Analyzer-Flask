@@ -166,7 +166,7 @@ class RentalsAnalyzer:
 
         importance_df = pd.DataFrame({'field': columns, 'importance': importance})
         importance_df.loc[:, 'importance'] = importance_df.importance.apply(lambda x:self._round(x))
-        importance_df = importance_df.sort_values(by='importance').tail(top_n)
+        importance_df = importance_df.sort_values(by='importance', ascending=False).head(top_n)
 
         return importance_df
 
@@ -198,7 +198,6 @@ class RentalsAnalyzer:
 
 
         fig.update_layout(title_text=" <b> Price Variation </b> Based on Bath and Bedroom Count")
-        fig.show()
         
         graphJSON = json.dumps(fig, cls=plotly.utils.PlotlyJSONEncoder)
 
@@ -223,7 +222,7 @@ class RentalsAnalyzer:
         df_exp = df_exp.sort_values(by=sort_by).reset_index()
 
         # create the plot
-        df_exp = df_exp[df_exp['count_of_records']>10]
+        # df_exp = df_exp[df_exp['count_of_records']>10]
 
         # Create figure with secondary y-axis
         fig = make_subplots(specs=[[{"secondary_y": True}]])
@@ -262,7 +261,7 @@ class RentalsAnalyzer:
         fig.update_yaxes(title_text=f"<b>Price ($)</b>", secondary_y=True)
 
         fig.update_layout(
-            title_text="<b>Price and popularity of communities</b> sorted by median price in communities with more than 10 listing",
+            title_text="<b>Price and popularity of communities</b> sorted by count of records",
             hovermode="x unified"
         )
 
