@@ -4,6 +4,13 @@
 image source : [yourmoney.com](https://www.yourmoney.com/mortgages/house-prices-rise-at-fastest-pace-since-2007/)
 
 ### ⚙  How it works? 
+
+**Note**: From November 2022, the app can only be run locally, since Heroku (previous server I used) has shut down its free
+servers. 
+
+*How to use*: clone the project, install Flask, and enter `flask run` in your terminal.
+
+About the app:
 On the index page, there are two options: try it, and preview
 By selecting try it option, you will be sent to a page where you can specify all the 
 variables of the data that will be collected. 
