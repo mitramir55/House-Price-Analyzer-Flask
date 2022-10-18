@@ -156,10 +156,6 @@ def inputs(**kwargs):
          major_cities=major_cities, types=all_types)
         
 
-@app.route('/preview', methods=['POST', 'GET'])
-def preview(**kwargs):
-    return render_template('analysis.html')
-
 @app.route('/analysis', methods=['POST', 'GET'])
 def analysis(**kwargs):
 
