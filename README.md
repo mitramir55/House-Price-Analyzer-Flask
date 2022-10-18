@@ -5,7 +5,7 @@ image source : [yourmoney.com](https://www.yourmoney.com/mortgages/house-prices-
 
 ### ⚙  How it works? 
 
-**Note**: From November 2022, the app can only be run locally, since Heroku (previous server I used) has shut down its free
+**Note**: From November 2022, the app ([link](https://analyze-house-rentals.herokuapp.com/)) can only be run locally, since Heroku (previous server I used) has shut down its free
 servers. 
 
 *How to use*: clone the project, install Flask, and enter `flask run` in your terminal.
@@ -17,6 +17,20 @@ variables of the data that will be collected.
 This dataset will be scraped from one of the ubiquitous renting websites (Rentfaster.com). 
 Then it will be cleaned and filtered to give us records of individual residence options. 
 The preprocessing steps are listed bellow.
+
+A preview:
+![image](https://user-images.githubusercontent.com/53291220/196306626-e6d486ff-777d-442f-a588-ca80cd74f475.png)
+
+Choose the parameters:
+![image](https://user-images.githubusercontent.com/53291220/196306655-68012b6f-38c9-42e4-a333-a24742b9a85f.png)
+
+
+Sample of the analysis:
+
+![image](https://user-images.githubusercontent.com/53291220/196307465-caaa45a1-b858-47c8-abdf-e1f18bb0452d.png)
+
+See the corrolation in this type of housing:
+![image](https://user-images.githubusercontent.com/53291220/196307634-e8aa20c8-332d-4687-a65d-e8732ce655c4.png)
 
 
 ### 🧹 Preprocessing
