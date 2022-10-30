@@ -19,7 +19,7 @@ Then it will be cleaned and filtered to give us records of individual residence 
 The preprocessing steps are listed bellow.
 
 A preview:
-![image](https://user-images.githubusercontent.com/53291220/196306626-e6d486ff-777d-442f-a588-ca80cd74f475.png)
+![image](https://user-images.githubusercontent.com/53291220/198903619-102370bf-7bb9-403d-8b20-d704c1fd2081.png)
 
 Choose the parameters:
 ![image](https://user-images.githubusercontent.com/53291220/196306655-68012b6f-38c9-42e4-a333-a24742b9a85f.png)
